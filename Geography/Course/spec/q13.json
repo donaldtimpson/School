@@ -1,0 +1,118 @@
+{
+ "id": "q13",
+ "eyebrow": "Physical Geography &middot; Week 13 &middot; Quiz 13",
+ "title": "Unit 11: Metamorphism &amp; Metamorphic Rocks",
+ "sub": "Reading: pages 151&ndash;163 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 13 &middot; Unit 11 (pages 151&ndash;163)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "Which of the following is <em>not</em> one of the five main factors controlling metamorphic processes?",
+     "choices": [
+      "The color of the parent rock",
+      "The amount of time available for metamorphism",
+      "The mineral composition of the parent rock",
+      "The temperature at which metamorphism takes place"
+     ],
+     "answer": 0,
+     "why": "p. 152 &mdash; the five factors are parent rock composition, temperature, the amount and type of pressure, the fluids present (mostly water), and time."
+    },
+    {
+     "stem": "Foliation develops in a metamorphic rock as a result of",
+     "choices": [
+      "the presence of fossils in the parent rock",
+      "confining pressure applied equally in all directions",
+      "directed pressure or shear stress",
+      "very rapid cooling"
+     ],
+     "answer": 2,
+     "why": "pp. 153&ndash;154 &mdash; because of plate tectonics, crustal pressure is usually greater in one direction, so new minerals grow with their long axes perpendicular to the squeezing. That directional fabric is foliation."
+    },
+    {
+     "stem": "Which list places the foliated metamorphic rocks in order of <em>increasing</em> metamorphic grade?",
+     "choices": [
+      "Phyllite, slate, gneiss, schist",
+      "Schist, gneiss, slate, phyllite",
+      "Gneiss, schist, phyllite, slate",
+      "Slate, phyllite, schist, gneiss"
+     ],
+     "answer": 3,
+     "why": "p. 154 &mdash; slate breaks into flat sheets with microscopic crystals; phyllite is hotter and shows a micaceous sheen; schist has visible mica crystals; gneiss separates into colored mineral bands and usually has little or no mica."
+    },
+    {
+     "stem": "Marble is metamorphosed",
+     "choices": [
+      "limestone",
+      "shale",
+      "basalt",
+      "sandstone"
+     ],
+     "answer": 0,
+     "why": "p. 156 &mdash; the calcite crystals grow larger, destroying any original sedimentary textures and fossils. Quartzite, by contrast, is metamorphosed sandstone."
+    },
+    {
+     "stem": "Water matters a great deal in metamorphism chiefly because it",
+     "choices": [
+      "cools the rock and slows the reactions down",
+      "speeds reactions up by helping ions move, and carries dissolved elements from place to place",
+      "prevents foliation from forming",
+      "dissolves all the minerals present"
+     ],
+     "answer": 1,
+     "why": "p. 153 &mdash; water does not necessarily change the <em>outcome</em> of a metamorphic process, but it lets reactions finish that might otherwise run out of time. It is also central to hydrothermal processes and mineral deposits."
+    },
+    {
+     "stem": "In most areas, the normal geothermal gradient &mdash; the rate at which temperature rises with depth &mdash; is about",
+     "choices": [
+      "3&deg;C per kilometer",
+      "30&deg;C per kilometer",
+      "100&deg;C per kilometer",
+      "300&deg;C per kilometer"
+     ],
+     "answer": 1,
+     "why": "p. 162 &mdash; in volcanic areas it steepens to 40&ndash;50&deg;C/km, while along subduction zones the cold descending crust keeps it below 10&deg;C/km."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "Quartzite and marble often show no foliation even when they form under directed pressure, because quartz and calcite do not tend to align.",
+     "answer": true,
+     "why": "p. 154 &mdash; foliation requires minerals that can grow or rotate into a preferred orientation, which is why mudrocks (rich in clay and mica) foliate so readily."
+    },
+    {
+     "stem": "Contact metamorphism typically affects a zone tens of thousands of square kilometers across.",
+     "answer": false,
+     "why": "The zone around an intrusion is very small &mdash; typically meters to tens of meters. Tens of thousands of square kilometers is the scale of <em>regional</em> metamorphism. (p. 161)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain the difference between <em>contact</em> and <em>regional</em> metamorphism. Where does each occur, and is the resulting rock usually foliated?",
+     "answer": "Contact metamorphism is local heating around an intruding magma body at shallow depth, without directed pressure, so the rock is not foliated. Regional metamorphism occurs over vast areas at depth, especially beneath mountain ranges at convergent boundaries, under strong directed pressure, so the rock is foliated.",
+     "rubric": "1.5 pts contact &mdash; heat from a magma body in the upper crust, a zone only meters to tens of meters wide, little or no directed pressure, producing non-foliated rocks such as hornfels, marble, and quartzite. 1.5 pts regional &mdash; deep burial over tens of thousands of square kilometers, greatest in the roots of mountain ranges such as the Himalayas at continent&ndash;continent convergent boundaries, with strong directional pressure producing foliated rocks. (pp. 160&ndash;161)"
+    },
+    {
+     "stem": "Blueschist forms in large quantities, yet it is almost never seen at Earth&rsquo;s surface. Explain why, and name one place where it <em>can</em> be seen.",
+     "answer": "Most blueschist keeps subducting, turns into eclogite at about 35 km depth, and sinks into the mantle. It reaches the surface only where subduction was interrupted by some tectonic process &mdash; for example the Franciscan Complex around San Francisco.",
+     "rubric": "1 pt &mdash; blueschist forms in subduction zones under very high pressure but relatively low temperature, since the cold descending oceanic crust does not heat up quickly (its blue color comes from the amphibole glaucophane). 1 pt &mdash; it normally continues down, converting to eclogite around 35 km and sinking into the mantle, never to return. 1 pt &mdash; it surfaces only where the subduction process was interrupted; accept the Franciscan Complex near San Francisco. (pp. 161&ndash;162)"
+    }
+   ]
+  }
+ ]
+}

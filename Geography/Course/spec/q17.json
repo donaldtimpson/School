@@ -1,0 +1,118 @@
+{
+ "id": "q17",
+ "eyebrow": "Physical Geography &middot; Week 18 &middot; Quiz 17",
+ "title": "Unit 14: Tectonic Force &mdash; Stress, Structures &amp; Earthquakes",
+ "sub": "Reading: pages 199&ndash;211 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 17 &middot; Unit 14 (pages 199&ndash;211)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "Which type of stress is most common at convergent plate boundaries?",
+     "choices": [
+      "Tension",
+      "Shear",
+      "Confining stress",
+      "Compression"
+     ],
+     "answer": 3,
+     "why": "p. 200 &mdash; compression squeezes rocks together, causing them to fold or fracture. Tension dominates at divergent boundaries and shear at transform boundaries."
+    },
+    {
+     "stem": "When a rock under stress does <em>not</em> return to its original shape after the stress is removed, it has undergone",
+     "choices": [
+      "plastic deformation",
+      "fracture",
+      "confining stress",
+      "elastic deformation"
+     ],
+     "answer": 0,
+     "why": "p. 200 &mdash; deep in the crust, where temperatures and pressures are high, rocks tend to deform plastically. Near the surface, or under sudden stress, they break instead."
+    },
+    {
+     "stem": "In a fold where the oldest rocks sit at the center and the layers arch upward and dip away from that center, the structure is",
+     "choices": [
+      "a syncline",
+      "an anticline",
+      "a monocline",
+      "a joint"
+     ],
+     "answer": 1,
+     "why": "p. 201 &mdash; a syncline is the reverse: it bends downward, putting the youngest rocks at the center. A monocline is a simple bend that leaves the layers no longer horizontal."
+    },
+    {
+     "stem": "In a <em>normal</em> fault,",
+     "choices": [
+      "the hanging wall drops down relative to the footwall",
+      "the footwall drops down relative to the hanging wall",
+      "the two blocks slide horizontally past each other",
+      "there is fracturing but no movement"
+     ],
+     "answer": 0,
+     "why": "p. 202 &mdash; normal faults occur under tensional stress and are often responsible for uplifting mountain ranges. In a reverse fault the footwall drops relative to the hanging wall."
+    },
+    {
+     "stem": "About what share of all earthquakes strike around the Pacific Ocean basin, the Ring of Fire?",
+     "choices": [
+      "About 15%",
+      "About 50%",
+      "About 80%",
+      "About 95%"
+     ],
+     "answer": 2,
+     "why": "p. 203 &mdash; the basin is lined with convergent and transform boundaries. Another 15% occur in the Mediterranean-Asiatic Belt, and the remaining 5% elsewhere. Roughly 95% of all quakes occur at plate boundaries of some kind."
+    },
+    {
+     "stem": "On the Richter and moment magnitude scales, an increase of one whole number means the amplitude of the largest seismic wave increases by a factor of",
+     "choices": [
+      "2",
+      "10",
+      "30",
+      "100"
+     ],
+     "answer": 1,
+     "why": "p. 207 &mdash; both scales are logarithmic. The <em>amplitude</em> grows ten times per integer, while the <em>energy</em> released grows about thirty times."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "The <em>focus</em> of an earthquake is the point on the land surface directly above where the rocks rupture.",
+     "answer": false,
+     "why": "That describes the <em>epicenter</em>. The focus (or hypocenter) is the initial point <em>within the crust</em> where the rupture begins. In about 75% of earthquakes it lies in the top 10&ndash;15 km. (p. 203)"
+    },
+    {
+     "stem": "More people are typically killed by the fires that follow an earthquake than by the earthquake itself.",
+     "answer": true,
+     "why": "p. 209 &mdash; ground shaking itself seldom kills; falling structures and subsequent fires do. Damage depends less on magnitude than on the quality of construction and the ground beneath it."
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain the difference between the Mercalli Intensity scale and the moment magnitude scale. Which do most seismologists use today, and why?",
+     "answer": "Mercalli measures intensity &mdash; what people felt and the damage done &mdash; so it is qualitative and varies by location. Moment magnitude measures the total energy released. Most seismologists use moment magnitude because it most accurately reflects energy released and damage caused.",
+     "rubric": "1 pt Mercalli &mdash; describes earthquakes by what nearby residents felt and the damage to structures; qualitative, since it depends on building codes and on the rock beneath, not on energy released at the focus. 1 pt moment magnitude &mdash; calculated from the area of fault ruptured and the distance the ground moved, giving total energy released. 1 pt &mdash; moment magnitude has replaced the Richter scale and is what most seismologists use, because Richter can rate a single sharp jolt higher than a longer, more energetic quake. (pp. 206&ndash;208)"
+    },
+    {
+     "stem": "What is <em>liquefaction</em>, and why does it make Salt Lake City and the Wasatch Front especially vulnerable?",
+     "answer": "Liquefaction is what happens when water-saturated sediments are shaken and begin behaving like quicksand. The Wasatch Front is built on loose soil left by Lake Bonneville with a water table near the surface.",
+     "rubric": "1 pt &mdash; sediments saturated with water lose strength during shaking and behave like quicksand; solid bedrock vibrates less and suffers less damage. 2 pts &mdash; much of the Wasatch Front is loose soil left over from Lake Bonneville, and near the Jordan River and its floodplain the water table sits close to the surface, so shaking drives water upward and oversaturates the soil, making it extremely unstable. Credit the 1906 San Francisco example, where much of the damage in low-lying areas was attributed to liquefaction. (pp. 209&ndash;210)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Unit 11: Metamorphism &amp; Metamorphic Rocks</title><style>
+@page { size: letter; margin: 0.7in 0.75in 0.7in 0.75in; }
+
+* { box-sizing: border-box; }
+
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 10.6pt;
+  line-height: 1.45;
+  color: #16181a;
+  margin: 0;
+}
+
+/* ---------- Masthead ---------- */
+.masthead {
+  border-bottom: 3px solid #14676b;
+  padding-bottom: 9px;
+  margin-bottom: 18px;
+}
+.masthead .course {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.2pt;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #14676b;
+  font-weight: 700;
+  margin: 0 0 3px;
+}
+.masthead h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20pt;
+  line-height: 1.15;
+  font-weight: 700;
+  color: #0f2a2c;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+.masthead .sub {
+  font-size: 9.6pt;
+  color: #55605f;
+  margin: 5px 0 0;
+  font-style: italic;
+}
+
+/* ---------- Headings ---------- */
+h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12.2pt;
+  font-weight: 700;
+  color: #14676b;
+  margin: 22px 0 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #cfdcdb;
+  break-after: avoid;
+}
+h3 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10.4pt;
+  font-weight: 700;
+  color: #0f2a2c;
+  margin: 15px 0 5px;
+  break-after: avoid;
+}
+p { margin: 0 0 9px; }
+ul, ol { margin: 0 0 10px; padding-left: 20px; }
+li { margin-bottom: 4px; }
+
+/* ---------- Tables ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 9.3pt;
+  margin: 6px 0 14px;
+}
+th {
+  background: #14676b;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.3pt;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: left;
+  padding: 6px 8px;
+  font-weight: 700;
+}
+td { padding: 5px 8px; border-bottom: 1px solid #dde5e4; vertical-align: top; }
+tbody tr:nth-child(even) td { background: #f4f8f8; }
+tr { break-inside: avoid; }
+.num { text-align: center; white-space: nowrap; }
+
+/* exam-week and test rows */
+tr.exam td { background: #14676b !important; color: #fff; font-weight: 700; }
+tr.exam td em { color: #cfe6e6; }
+td.assess { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 8.6pt; }
+.tag {
+  display: inline-block;
+  background: #b8531a;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 7.4pt;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 1.5px 5px;
+  border-radius: 2px;
+}
+
+/* ---------- Callouts ---------- */
+.note {
+  background: #f4f8f8;
+  border-left: 3px solid #14676b;
+  padding: 9px 12px;
+  margin: 12px 0;
+  font-size: 9.7pt;
+  break-inside: avoid;
+}
+.note strong { color: #14676b; }
+
+/* ---------- Grade table ---------- */
+.grade-grid { display: flex; gap: 18px; align-items: flex-start; }
+.grade-grid > div { flex: 1; }
+
+/* ---------- Utility ---------- */
+.pagebreak { break-before: page; }
+.avoid { break-inside: avoid; }
+.small { font-size: 9pt; color: #55605f; }
+.footer-note {
+  margin-top: 22px;
+  padding-top: 8px;
+  border-top: 1px solid #cfdcdb;
+  font-size: 8.4pt;
+  color: #6a7574;
+  font-style: italic;
+}
+
+/* ================= ASSESSMENT STYLES ================= */
+.idline {
+  display: flex; gap: 20px; align-items: flex-end;
+  margin: 0 0 16px; font-size: 9.6pt;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.idline span { border-bottom: 1px solid #8b9998; padding-bottom: 2px; }
+.idline .nm { flex: 2.2; }
+.idline .dt { flex: 1; }
+.idline .sc { flex: 0.9; text-align: left; }
+
+.instr {
+  background: #f4f8f8; border-left: 3px solid #14676b;
+  padding: 7px 11px; margin: 0 0 15px; font-size: 9.4pt; font-style: italic;
+}
+
+.part {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 9.6pt; font-weight: 700; color: #fff; background: #14676b;
+  padding: 4px 9px; margin: 17px 0 10px; letter-spacing: 0.04em;
+  break-after: avoid;
+}
+.part:first-of-type { margin-top: 6px; }
+.part .pts { float: right; font-weight: 400; font-size: 8.8pt; color: #cfe6e6; }
+
+ol.q { list-style: none; counter-reset: qn; padding: 0; margin: 0; }
+ol.q > li {
+  counter-increment: qn; position: relative;
+  padding-left: 26px; margin-bottom: 11px; break-inside: avoid;
+}
+ol.q > li::before {
+  content: counter(qn) ".";
+  position: absolute; left: 0; top: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700; font-size: 9.6pt; color: #14676b;
+}
+ol.q > li > .stem { margin: 0 0 4px; }
+
+ul.ch { list-style: none; padding: 0; margin: 3px 0 0; }
+ul.ch li { margin: 0 0 2px; padding-left: 20px; position: relative; font-size: 10.2pt; }
+ul.ch li::before {
+  content: attr(data-l) ")"; position: absolute; left: 2px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 9.4pt; color: #55605f;
+}
+.tf { margin-top: 3px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 9.2pt; color: #55605f; }
+.lines { margin-top: 5px; }
+.lines div { border-bottom: 1px solid #c3cecd; height: 20px; }
+
+/* ---- Answer key ---- */
+.keyhead {
+  background: #7a2f10; color: #fff; padding: 7px 11px; margin: 0 0 14px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700; font-size: 11pt; letter-spacing: 0.05em;
+}
+.key { font-size: 9.9pt; }
+.key ol.q > li { margin-bottom: 8px; }
+.key ol.q > li::before { color: #7a2f10; }
+.ans { font-weight: 700; color: #7a2f10; }
+.why { color: #47504f; font-size: 9.2pt; font-style: italic; }
+.rubric { background: #faf5f2; border-left: 3px solid #7a2f10; padding: 6px 10px; margin: 4px 0 0; font-size: 9.2pt; }
+
+/* ---- matching ---- */
+table.matchtbl { margin: 4px 0 0; font-size: 10pt; }
+table.matchtbl td { border: none; padding: 2px 6px 2px 0; background: none !important; }
+td.mline { width: 34px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #8b9998; }
+td.ml { width: 47%; }
+td.mr { width: 47%; }
+
+.endmark {
+  margin-top: 26px; text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.4pt; letter-spacing: 0.2em; color: #9aa5a4;
+}
+.keyhead .kpts { float: right; font-weight: 400; font-size: 9pt; color: #e8cfc4; letter-spacing: 0; }
+
+</style></head>
+<body>
+
+<div class="masthead">
+  <p class="course">Physical Geography &middot; Week 13 &middot; Quiz 13</p>
+  <h1>Unit 11: Metamorphism &amp; Metamorphic Rocks</h1>
+  <p class="sub">Reading: pages 151&ndash;163 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book</p>
+</div>
+
+<div class="idline">
+  <span class="nm">Name &nbsp;</span>
+  <span class="dt">Date &nbsp;</span>
+  <span class="sc">Score &nbsp; &nbsp; / 20</span>
+</div>
+
+<div class="instr">Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.</div>
+
+<p class="part">Part A &middot; Multiple Choice <span class="pts">6 questions &times; 2 points = 12 points</span></p>
+<ol class="q" style="counter-reset: qn 0;">
+  <li>
+    <p class="stem">Which of the following is <em>not</em> one of the five main factors controlling metamorphic processes?</p>
+    <ul class="ch">
+      <li data-l="a">The color of the parent rock</li>
+      <li data-l="b">The amount of time available for metamorphism</li>
+      <li data-l="c">The mineral composition of the parent rock</li>
+      <li data-l="d">The temperature at which metamorphism takes place</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Foliation develops in a metamorphic rock as a result of</p>
+    <ul class="ch">
+      <li data-l="a">the presence of fossils in the parent rock</li>
+      <li data-l="b">confining pressure applied equally in all directions</li>
+      <li data-l="c">directed pressure or shear stress</li>
+      <li data-l="d">very rapid cooling</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Which list places the foliated metamorphic rocks in order of <em>increasing</em> metamorphic grade?</p>
+    <ul class="ch">
+      <li data-l="a">Phyllite, slate, gneiss, schist</li>
+      <li data-l="b">Schist, gneiss, slate, phyllite</li>
+      <li data-l="c">Gneiss, schist, phyllite, slate</li>
+      <li data-l="d">Slate, phyllite, schist, gneiss</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Marble is metamorphosed</p>
+    <ul class="ch">
+      <li data-l="a">limestone</li>
+      <li data-l="b">shale</li>
+      <li data-l="c">basalt</li>
+      <li data-l="d">sandstone</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Water matters a great deal in metamorphism chiefly because it</p>
+    <ul class="ch">
+      <li data-l="a">cools the rock and slows the reactions down</li>
+      <li data-l="b">speeds reactions up by helping ions move, and carries dissolved elements from place to place</li>
+      <li data-l="c">prevents foliation from forming</li>
+      <li data-l="d">dissolves all the minerals present</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">In most areas, the normal geothermal gradient &mdash; the rate at which temperature rises with depth &mdash; is about</p>
+    <ul class="ch">
+      <li data-l="a">3&deg;C per kilometer</li>
+      <li data-l="b">30&deg;C per kilometer</li>
+      <li data-l="c">100&deg;C per kilometer</li>
+      <li data-l="d">300&deg;C per kilometer</li>
+    </ul>
+  </li>
+</ol>
+
+<p class="part">Part B &middot; True or False <span class="pts">2 questions &times; 1 point = 2 points</span></p>
+<ol class="q" style="counter-reset: qn 6;">
+  <li>
+    <p class="stem">Quartzite and marble often show no foliation even when they form under directed pressure, because quartz and calcite do not tend to align.</p>
+    <p class="tf">TRUE &nbsp;&nbsp;/&nbsp;&nbsp; FALSE</p>
+  </li>
+  <li>
+    <p class="stem">Contact metamorphism typically affects a zone tens of thousands of square kilometers across.</p>
+    <p class="tf">TRUE &nbsp;&nbsp;/&nbsp;&nbsp; FALSE</p>
+  </li>
+</ol>
+
+<p class="part">Part C &middot; Short Answer <span class="pts">2 questions &times; 3 points = 6 points</span></p>
+<ol class="q" style="counter-reset: qn 8;">
+  <li>
+    <p class="stem">Explain the difference between <em>contact</em> and <em>regional</em> metamorphism. Where does each occur, and is the resulting rock usually foliated?</p>
+    <div class="lines"><div></div><div></div><div></div><div></div></div>
+  </li>
+  <li>
+    <p class="stem">Blueschist forms in large quantities, yet it is almost never seen at Earth&rsquo;s surface. Explain why, and name one place where it <em>can</em> be seen.</p>
+    <div class="lines"><div></div><div></div><div></div><div></div></div>
+  </li>
+</ol>
+
+<div class="endmark">&mdash; END &mdash;</div>
+
+</body></html>

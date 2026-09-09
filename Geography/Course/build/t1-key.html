@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Test 1: Foundations of Physical Geography — Answer Key</title><style>
+@page { size: letter; margin: 0.7in 0.75in 0.7in 0.75in; }
+
+* { box-sizing: border-box; }
+
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 10.6pt;
+  line-height: 1.45;
+  color: #16181a;
+  margin: 0;
+}
+
+/* ---------- Masthead ---------- */
+.masthead {
+  border-bottom: 3px solid #14676b;
+  padding-bottom: 9px;
+  margin-bottom: 18px;
+}
+.masthead .course {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.2pt;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #14676b;
+  font-weight: 700;
+  margin: 0 0 3px;
+}
+.masthead h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20pt;
+  line-height: 1.15;
+  font-weight: 700;
+  color: #0f2a2c;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+.masthead .sub {
+  font-size: 9.6pt;
+  color: #55605f;
+  margin: 5px 0 0;
+  font-style: italic;
+}
+
+/* ---------- Headings ---------- */
+h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12.2pt;
+  font-weight: 700;
+  color: #14676b;
+  margin: 22px 0 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #cfdcdb;
+  break-after: avoid;
+}
+h3 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10.4pt;
+  font-weight: 700;
+  color: #0f2a2c;
+  margin: 15px 0 5px;
+  break-after: avoid;
+}
+p { margin: 0 0 9px; }
+ul, ol { margin: 0 0 10px; padding-left: 20px; }
+li { margin-bottom: 4px; }
+
+/* ---------- Tables ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 9.3pt;
+  margin: 6px 0 14px;
+}
+th {
+  background: #14676b;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.3pt;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: left;
+  padding: 6px 8px;
+  font-weight: 700;
+}
+td { padding: 5px 8px; border-bottom: 1px solid #dde5e4; vertical-align: top; }
+tbody tr:nth-child(even) td { background: #f4f8f8; }
+tr { break-inside: avoid; }
+.num { text-align: center; white-space: nowrap; }
+
+/* exam-week and test rows */
+tr.exam td { background: #14676b !important; color: #fff; font-weight: 700; }
+tr.exam td em { color: #cfe6e6; }
+td.assess { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 8.6pt; }
+.tag {
+  display: inline-block;
+  background: #b8531a;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 7.4pt;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 1.5px 5px;
+  border-radius: 2px;
+}
+
+/* ---------- Callouts ---------- */
+.note {
+  background: #f4f8f8;
+  border-left: 3px solid #14676b;
+  padding: 9px 12px;
+  margin: 12px 0;
+  font-size: 9.7pt;
+  break-inside: avoid;
+}
+.note strong { color: #14676b; }
+
+/* ---------- Grade table ---------- */
+.grade-grid { display: flex; gap: 18px; align-items: flex-start; }
+.grade-grid > div { flex: 1; }
+
+/* ---------- Utility ---------- */
+.pagebreak { break-before: page; }
+.avoid { break-inside: avoid; }
+.small { font-size: 9pt; color: #55605f; }
+.footer-note {
+  margin-top: 22px;
+  padding-top: 8px;
+  border-top: 1px solid #cfdcdb;
+  font-size: 8.4pt;
+  color: #6a7574;
+  font-style: italic;
+}
+
+/* ================= ASSESSMENT STYLES ================= */
+.idline {
+  display: flex; gap: 20px; align-items: flex-end;
+  margin: 0 0 16px; font-size: 9.6pt;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.idline span { border-bottom: 1px solid #8b9998; padding-bottom: 2px; }
+.idline .nm { flex: 2.2; }
+.idline .dt { flex: 1; }
+.idline .sc { flex: 0.9; text-align: left; }
+
+.instr {
+  background: #f4f8f8; border-left: 3px solid #14676b;
+  padding: 7px 11px; margin: 0 0 15px; font-size: 9.4pt; font-style: italic;
+}
+
+.part {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 9.6pt; font-weight: 700; color: #fff; background: #14676b;
+  padding: 4px 9px; margin: 17px 0 10px; letter-spacing: 0.04em;
+  break-after: avoid;
+}
+.part:first-of-type { margin-top: 6px; }
+.part .pts { float: right; font-weight: 400; font-size: 8.8pt; color: #cfe6e6; }
+
+ol.q { list-style: none; counter-reset: qn; padding: 0; margin: 0; }
+ol.q > li {
+  counter-increment: qn; position: relative;
+  padding-left: 26px; margin-bottom: 11px; break-inside: avoid;
+}
+ol.q > li::before {
+  content: counter(qn) ".";
+  position: absolute; left: 0; top: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700; font-size: 9.6pt; color: #14676b;
+}
+ol.q > li > .stem { margin: 0 0 4px; }
+
+ul.ch { list-style: none; padding: 0; margin: 3px 0 0; }
+ul.ch li { margin: 0 0 2px; padding-left: 20px; position: relative; font-size: 10.2pt; }
+ul.ch li::before {
+  content: attr(data-l) ")"; position: absolute; left: 2px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 9.4pt; color: #55605f;
+}
+.tf { margin-top: 3px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 9.2pt; color: #55605f; }
+.lines { margin-top: 5px; }
+.lines div { border-bottom: 1px solid #c3cecd; height: 20px; }
+
+/* ---- Answer key ---- */
+.keyhead {
+  background: #7a2f10; color: #fff; padding: 7px 11px; margin: 0 0 14px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700; font-size: 11pt; letter-spacing: 0.05em;
+}
+.key { font-size: 9.9pt; }
+.key ol.q > li { margin-bottom: 8px; }
+.key ol.q > li::before { color: #7a2f10; }
+.ans { font-weight: 700; color: #7a2f10; }
+.why { color: #47504f; font-size: 9.2pt; font-style: italic; }
+.rubric { background: #faf5f2; border-left: 3px solid #7a2f10; padding: 6px 10px; margin: 4px 0 0; font-size: 9.2pt; }
+
+/* ---- matching ---- */
+table.matchtbl { margin: 4px 0 0; font-size: 10pt; }
+table.matchtbl td { border: none; padding: 2px 6px 2px 0; background: none !important; }
+td.mline { width: 34px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #8b9998; }
+td.ml { width: 47%; }
+td.mr { width: 47%; }
+
+.endmark {
+  margin-top: 26px; text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.4pt; letter-spacing: 0.2em; color: #9aa5a4;
+}
+.keyhead .kpts { float: right; font-weight: 400; font-size: 9pt; color: #e8cfc4; letter-spacing: 0; }
+
+</style></head>
+<body>
+
+<div class="keyhead">ANSWER KEY &nbsp;&middot;&nbsp; Test 1 &middot; Units 1&ndash;4 (pages 7&ndash;65)<span class="kpts">50 points total</span></div>
+
+<div class="key">
+<p class="part">Part A &middot; Multiple Choice <span class="pts">2 points each</span></p>
+<ol class="q" style="counter-reset: qn 0;">
+  <li>
+    <span class="ans">a) Lithosphere, hydrosphere, biosphere, atmosphere, and interior</span>
+    <br><span class="why">p. 8 &mdash; the opening definition of the discipline.</span>
+  </li>
+  <li>
+    <span class="ans">c) independent variable</span>
+    <br><span class="why">p. 12 &mdash; everything else must be held constant; those are the experimental controls. What changes as a result is the dependent variable.</span>
+  </li>
+  <li>
+    <span class="ans">d) The Tropic of Capricorn</span>
+    <br><span class="why">p. 14 &mdash; the Equator is the only parallel that is a great circle. All other parallels, including both tropics and both polar circles, are small circles.</span>
+  </li>
+  <li>
+    <span class="ans">a) the universe is expanding</span>
+    <br><span class="why">p. 24 &mdash; if every galaxy is moving away from every other galaxy, space itself must be expanding.</span>
+  </li>
+  <li>
+    <span class="ans">c) an elliptical galaxy</span>
+    <br><span class="why">p. 30 &mdash; the color is the clue. Reddish and yellowish means old stars; blue means young stars still forming from gas and dust.</span>
+  </li>
+  <li>
+    <span class="ans">d) during a supernova explosion</span>
+    <br><span class="why">p. 37 &mdash; fusing elements heavier than iron consumes more energy than it produces, so ordinary stars stop at iron. A supernova carries enough energy to make gold, silver, and uranium.</span>
+  </li>
+  <li>
+    <span class="ans">a) Hadean, Archean, Proterozoic, Phanerozoic</span>
+    <br><span class="why">p. 45 &mdash; the first three together account for almost 90% of Earth&rsquo;s history.</span>
+  </li>
+  <li>
+    <span class="ans">b) Superposition</span>
+    <br><span class="why">p. 47 &mdash; in an undisturbed sequence, the layers on the bottom are the oldest.</span>
+  </li>
+  <li>
+    <span class="ans">b) One</span>
+    <br><span class="why">p. 49 &mdash; a ratio of 1 means 50% parent and 50% daughter, which is exactly one half-life. A ratio of 3 (25% parent, 75% daughter) would be two half-lives.</span>
+  </li>
+  <li>
+    <span class="ans">d) 1:24,000</span>
+    <br><span class="why">p. 53 &mdash; the smaller the denominator, the larger the scale, and the more detail is shown. A campus map is large-scale; a world map is small-scale.</span>
+  </li>
+  <li>
+    <span class="ans">b) an equal-area projection such as Gall-Peters</span>
+    <br><span class="why">p. 61 &mdash; the reader is comparing quantities spread over areas, so relative area must be true even if shapes are distorted.</span>
+  </li>
+  <li>
+    <span class="ans">c) 100 feet</span>
+    <br><span class="why">p. 55 &mdash; every fifth contour line is an index contour, and 5 &times; 20 ft = 100 ft. Index contours are the only ones labeled.</span>
+  </li>
+</ol>
+
+<p class="part">Part B &middot; Matching <span class="pts">8 points each</span></p>
+<ol class="q" style="counter-reset: qn 12;">
+  <li>
+    <span class="ans">1&ndash;c &nbsp;&middot;&nbsp; 2&ndash;f &nbsp;&middot;&nbsp; 3&ndash;a &nbsp;&middot;&nbsp; 4&ndash;g &nbsp;&middot;&nbsp; 5&ndash;h &nbsp;&middot;&nbsp; 6&ndash;d &nbsp;&middot;&nbsp; 7&ndash;b &nbsp;&middot;&nbsp; 8&ndash;e</span>
+    <br><span class="why">1 point each. Cartography p. 52 &middot; Cosmology p. 23 &middot; Stratigraphy p. 47 &middot; Geocoding p. 18 &middot; Uniformitarianism p. 47 &middot; Fossil succession p. 47 &middot; Triangulation p. 19 &middot; Generalization p. 52.</span>
+  </li>
+</ol>
+
+<p class="part">Part C &middot; Short Answer <span class="pts">3 points each</span></p>
+<ol class="q" style="counter-reset: qn 13;">
+  <li>
+    <span class="ans">Relative dating establishes only the order of events &mdash; whether one rock is older or younger than another. Absolute dating assigns a numerical age in years. The discovery of radioactivity in the late 1800s made it possible.</span>
+    <div class="rubric"><strong>Rubric:</strong> 1 pt relative = order without numbers; 1 pt absolute = specific numerical age; 1 pt radioactivity (accept &ldquo;radio-isotopic dating&rdquo; or &ldquo;isotopic dating techniques&rdquo; developed in the early 20th century). (pp. 47&ndash;48)</div>
+  </li>
+  <li>
+    <span class="ans">Because a great circle must divide the Earth into two equal halves, and the Equator is the only line of latitude that does so.</span>
+    <div class="rubric"><strong>Rubric:</strong> 2 pts for the definition of a great circle &mdash; any circle that divides the Earth into two equal halves, and the largest circle that can be drawn on a sphere. 1 pt for recognizing that every other parallel is smaller and cuts the Earth unevenly, making it a small circle. (p. 14)</div>
+  </li>
+  <li>
+    <span class="ans">Remote sensing, global positioning systems (GPS), and geographic information systems (GIS).</span>
+    <div class="rubric"><strong>Rubric:</strong> 1 pt each, requiring both the name and a defensible use. <strong>Remote sensing</strong> &mdash; studying objects without physical contact, via satellite imagery, aerial photography, radar, or lidar. <strong>GPS</strong> &mdash; determining an accurate location on Earth&rsquo;s surface using at least four satellites and triangulation. <strong>GIS</strong> &mdash; bringing spatial and non-spatial data together in layers for storage and analysis. (pp. 18&ndash;21)</div>
+  </li>
+  <li>
+    <span class="ans">A Sun-like star stops fusion and collapses into a white dwarf. A much more massive star explodes as a supernova, leaving behind either a neutron star or a black hole.</span>
+    <div class="rubric"><strong>Rubric:</strong> 1.5 pts for the Sun-like path &mdash; red giant, then fusion stops, then gravitational collapse to a white dwarf about the size of Earth, which fades out. 1.5 pts for the massive path &mdash; red supergiant, fusion continues up to iron, then core collapse produces a supernova, leaving a neutron star (core under about four solar masses) or a black hole (core over about five solar masses). (pp. 36&ndash;38)</div>
+  </li>
+</ol>
+
+<p class="part">Part D &middot; Extended Response <span class="pts">6 points each</span></p>
+<ol class="q" style="counter-reset: qn 17;">
+  <li>
+    <span class="ans">See rubric.</span>
+    <div class="rubric"><strong>Rubric:</strong> <strong>2 pts &mdash; why distortion is unavoidable.</strong> A globe is three-dimensional and a map is two-dimensional, so flattening always requires shearing, tearing, or compression. The orange-peel analogy earns full credit here. Since no projection can preserve every property, some distortion is guaranteed.<br><br><strong>2 pts &mdash; the three properties.</strong> Shape, area, and distance. (Accept &ldquo;shape and angle&rdquo; for the first.)<br><br><strong>2 pts &mdash; how the choice is made, with two named projections.</strong> The cartographer decides which property matters most for the map&rsquo;s purpose. Expect examples such as: Mercator (conformal &mdash; correct shapes and angles, badly distorted area; good for navigation, topography, weather); Gall-Peters (equal-area &mdash; true relative sizes, distorted shapes; good for density and thematic maps); Azimuthal Equidistant (correct distance and direction from a center point; good for flight paths or earthquake epicenters); Robinson (a compromise that minimizes all distortion rather than eliminating any; good for general-purpose world maps); Goode Homolosine (interrupted &mdash; accepts tearing to preserve area).<br><br>Award full credit for any two correctly described projections tied to a purpose. (pp. 57&ndash;63)</div>
+  </li>
+</ol>
+
+</div>
+
+</body></html>

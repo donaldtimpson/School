@@ -1,0 +1,118 @@
+{
+ "id": "q21",
+ "eyebrow": "Physical Geography &middot; Week 22 &middot; Quiz 21",
+ "title": "Unit 17b: Water Storage &mdash; Lakes, Groundwater &amp; Aquifers",
+ "sub": "Reading: pages 254&ndash;259 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 21 &middot; Unit 17b (pages 254&ndash;259)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "To be a good aquifer, a rock body needs three things:",
+     "choices": [
+      "hardness, density, and depth",
+      "salinity, temperature, and pressure",
+      "limestone, sandstone, and shale layers",
+      "porosity, permeability, and natural recharge by precipitation"
+     ],
+     "answer": 3,
+     "why": "p. 258 &mdash; porosity is the pore space between grains; permeability is whether those pores connect; recharge keeps the supply renewing."
+    },
+    {
+     "stem": "The upper surface reached by groundwater within an aquifer is called",
+     "choices": [
+      "the water table",
+      "the recharge zone",
+      "the impermeable base",
+      "the aquifer"
+     ],
+     "answer": 0,
+     "why": "p. 258 &mdash; water infiltrates downward through permeable rock until it meets an impermeable layer, which forms the base of the aquifer."
+    },
+    {
+     "stem": "The Ogallala Aquifer supplies about what share of all irrigation water in the United States?",
+     "choices": [
+      "About one-tenth",
+      "About one-third",
+      "About one-half",
+      "About three-quarters"
+     ],
+     "answer": 1,
+     "why": "p. 259 &mdash; it lies 30 to 100 meters deep across about 440,000 square kilometers, and most of its water dates from the last ice age."
+    },
+    {
+     "stem": "How much more water is withdrawn from the Ogallala Aquifer each year than is naturally replenished?",
+     "choices": [
+      "About four times as much",
+      "About eight times as much",
+      "About twenty times as much",
+      "About twice as much"
+     ],
+     "answer": 1,
+     "why": "p. 259 &mdash; at current rates of use, roughly 70% of the aquifer could be gone by 2050, with serious implications for food production in the central plains."
+    },
+    {
+     "stem": "The deep-water zone of a lake, which receives little or no sunlight, is also called the",
+     "choices": [
+      "littoral zone",
+      "limnetic zone",
+      "aphotic or profundal zone",
+      "photic zone"
+     ],
+     "answer": 2,
+     "why": "p. 257 &mdash; with no sunlight there is no photosynthesis, so most organisms there are scavengers such as crabs and catfish, aided by decomposing fungi and bacteria."
+    },
+    {
+     "stem": "When coastal aquifers are overused, a common consequence is",
+     "choices": [
+      "saltwater incursion into the aquifer",
+      "a sharp increase in local rainfall",
+      "a rise in the water table",
+      "the formation of new springs"
+     ],
+     "answer": 0,
+     "why": "p. 259 &mdash; seawater enters the depleted aquifer and contaminates it, making the water less useful for drinking and irrigation. It is a recognized problem in developed coastal regions such as Hawaii."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "More than 60% of all the world&rsquo;s lakes are in Canada.",
+     "answer": true,
+     "why": "p. 257 &mdash; most were carved by the glaciers that covered Canada during the last Ice Age. Most of the world&rsquo;s lakes are in the Northern Hemisphere for this reason."
+    },
+    {
+     "stem": "Groundwater is a non-renewable resource.",
+     "answer": false,
+     "why": "Groundwater <em>is</em> renewable, and its use is sustainable as long as the water pumped out is replenished. The problem arises when withdrawal outpaces recharge, as at the Ogallala. (p. 259)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain the difference between <em>porosity</em> and <em>permeability</em>, and why an aquifer needs both.",
+     "answer": "Porosity is the amount of open pore space between grains &mdash; how much water the rock can hold. Permeability is whether those pores connect &mdash; whether the water can travel through. An aquifer needs both: space to store water and connections that let it move to a well.",
+     "rubric": "1 pt porosity defined &mdash; the small spaces between sediment grains where water droplets sit. 1 pt permeability defined &mdash; the connections between those pores, allowing water to travel through the rock. 1 pt why both are required &mdash; a highly porous rock with unconnected pores holds water but cannot yield it, and connections are useless without space to store water in the first place. Credit noting that the impermeable layer beneath is what forms the base of the aquifer. (p. 258)"
+    },
+    {
+     "stem": "Describe two problems that result from pumping more water out of an aquifer than is replaced.",
+     "answer": "The water table falls, forcing wells to be dug deeper or leaving them dry; the ground surface may subside beneath houses and structures; and in coastal areas seawater may enter and contaminate the aquifer.",
+     "rubric": "1.5 pts each for any two. <strong>Falling water table</strong> &mdash; wells must be dug deeper at greater cost and energy, and shallower wells go completely dry. <strong>Subsidence</strong> &mdash; lowering the water table can cause the ground surface to sink, including beneath houses and other structures. <strong>Saltwater incursion</strong> &mdash; in coastal regions seawater enters the depleted aquifer and contaminates it for drinking and irrigation. (p. 259)"
+    }
+   ]
+  }
+ ]
+}

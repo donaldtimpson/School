@@ -1,0 +1,423 @@
+{
+ "id": "midterm",
+ "eyebrow": "Physical Geography &middot; Week 14 &middot; Midterm Examination",
+ "title": "Midterm Exam",
+ "sub": "Units 1&ndash;11 &middot; pages 7&ndash;163 &nbsp;&middot;&nbsp; 100 points &nbsp;&middot;&nbsp; 90 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Midterm Exam &middot; Units 1&ndash;11 (pages 7&ndash;163)",
+ "instructions": "This exam covers the entire first half of the course, with additional weight on Units 8&ndash;11. Circle one answer for multiple choice. Write on the lines provided; use the back of the page if you need more room. Budget roughly 40 minutes for Parts A and B, 25 minutes for Part C, and 25 minutes for Part D.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "In the geographic methodology described in Unit 1, what step immediately follows asking a geographic question?",
+     "choices": [
+      "Explore geographic data",
+      "Publish the results",
+      "Analyze geographic information",
+      "Acquire geographic resources"
+     ],
+     "answer": 3,
+     "why": "p. 9 &mdash; the four steps are ask, acquire, explore, analyze."
+    },
+    {
+     "stem": "A GPS receiver finds its distance from a satellite using D = rt. In that equation, <em>r</em> is",
+     "choices": [
+      "the rate of Earth&rsquo;s rotation",
+      "the velocity of the receiver",
+      "the radius of the Earth",
+      "the speed of light"
+     ],
+     "answer": 3,
+     "why": "p. 19 &mdash; 299,792,458 meters per second, timed by the satellite&rsquo;s atomic clock. Because light is so fast, tiny timing errors become large position errors, which is why four satellites are used instead of three."
+    },
+    {
+     "stem": "The first neutral atoms, the ones that included electrons, formed about how long after the Big Bang?",
+     "choices": [
+      "A few seconds",
+      "A few minutes",
+      "380,000 years",
+      "1 billion years"
+     ],
+     "answer": 2,
+     "why": "p. 26 &mdash; protons, neutrons, and electrons formed within seconds; hydrogen within minutes; but neutral atoms took far longer."
+    },
+    {
+     "stem": "A star remains on the main sequence for as long as it can",
+     "choices": [
+      "continue expanding outward",
+      "fuse elements heavier than iron",
+      "avoid collecting interstellar dust",
+      "balance the inward force of gravity against the outward force of nuclear fusion"
+     ],
+     "answer": 3,
+     "why": "p. 35 &mdash; the more massive the star, the more hydrogen it must burn to resist collapse, which is why massive stars run out of fuel sooner."
+    },
+    {
+     "stem": "In the analogy that compresses all of geologic time into one year, the origin of the solar system at 4.57 Ga falls on",
+     "choices": [
+      "January 1st",
+      "March 1st",
+      "November 16th",
+      "December 31st"
+     ],
+     "answer": 0,
+     "why": "p. 42 &mdash; at that scale each day is 12.5 million years and each second is 145 years. The dinosaurs go extinct on December 26th."
+    },
+    {
+     "stem": "The boundary between the Cretaceous and the Paleogene coincides exactly with",
+     "choices": [
+      "the beginning of the Pleistocene ice age",
+      "the Cambrian Explosion",
+      "the extinction of the non-avian dinosaurs",
+      "the first animals crawling onto land"
+     ],
+     "answer": 2,
+     "why": "p. 46 &mdash; the text notes this is no coincidence: most period and epoch boundaries are fixed by significant changes in the fossil record."
+    },
+    {
+     "stem": "Which statement correctly distinguishes a map&rsquo;s extent from its resolution?",
+     "choices": [
+      "Extent is the area visible on the map; resolution is the smallest unit mapped",
+      "Extent is the smallest unit mapped; resolution is the area visible",
+      "Both describe how far the map is zoomed in",
+      "Extent applies only to paper maps; resolution only to digital ones"
+     ],
+     "answer": 0,
+     "why": "p. 55 &mdash; balancing the two is one of the most difficult decisions a cartographer makes."
+    },
+    {
+     "stem": "The Robinson projection is an example of a",
+     "choices": [
+      "conformal projection",
+      "equal-area projection",
+      "compromise projection",
+      "interrupted projection"
+     ],
+     "answer": 2,
+     "why": "p. 63 &mdash; rather than preserving any single property, it minimizes distortion of all of them, which suits general-purpose world maps."
+    },
+    {
+     "stem": "Of the solar energy reaching the outer atmosphere, roughly what share is in ultraviolet wavelengths?",
+     "choices": [
+      "About 7%",
+      "About 20%",
+      "About 44%",
+      "About 60%"
+     ],
+     "answer": 0,
+     "why": "p. 68 &mdash; about 44% is visible light and the remainder is infrared, the longest wavelength, which we feel as heat."
+    },
+    {
+     "stem": "In the Northern Hemisphere, the autumnal equinox occurs on or around",
+     "choices": [
+      "March 21st",
+      "June 21st",
+      "September 22nd",
+      "December 21st"
+     ],
+     "answer": 2,
+     "why": "p. 71 &mdash; the vernal equinox falls around March 21st or 22nd. On both, the Sun&rsquo;s rays shine most directly at the equator and day and night are equal."
+    },
+    {
+     "stem": "About 99.9% of the mass of the atmosphere lies below which layer?",
+     "choices": [
+      "The troposphere",
+      "The stratosphere",
+      "The mesosphere",
+      "The thermosphere"
+     ],
+     "answer": 2,
+     "why": "p. 82 &mdash; which is why air pressure there is so low that an unprotected traveler&rsquo;s blood would boil at normal body temperature."
+    },
+    {
+     "stem": "Santa Ana winds form when the Great Basin east of the Sierra Nevada cools, creating",
+     "choices": [
+      "a temperature inversion",
+      "a monsoon circulation",
+      "a low-pressure zone",
+      "a high-pressure zone"
+     ],
+     "answer": 3,
+     "why": "p. 89 &mdash; the high pressure forces winds downhill and clockwise (the Coriolis effect), so pressure and temperature rise while humidity falls. They often arrive at the end of California&rsquo;s dry season, raising fire danger."
+    },
+    {
+     "stem": "In atmospheric science, <em>advection</em> refers to",
+     "choices": [
+      "the horizontal flow of air",
+      "the reflection of light from a surface",
+      "the transfer of energy by electromagnetic waves",
+      "the vertical rising of warm air"
+     ],
+     "answer": 0,
+     "why": "p. 85 &mdash; warm air rises and creates low pressure, then flows horizontally at the top of the troposphere before cooling and descending."
+    },
+    {
+     "stem": "Nor&rsquo;easters are",
+     "choices": [
+      "seasonal monsoon winds",
+      "tropical cyclones that strike the Gulf Coast",
+      "mid-latitude cyclones that strike the mid-Atlantic and New England states",
+      "lines of severe thunderstorms along a cold front"
+     ],
+     "answer": 2,
+     "why": "p. 108 &mdash; named for the direction they come from. About 30 strike the region each year."
+    },
+    {
+     "stem": "On the Saffir-Simpson scale, a Category 5 hurricane has sustained winds of",
+     "choices": [
+      "74&ndash;95 mph",
+      "111&ndash;129 mph",
+      "130&ndash;156 mph",
+      "157 mph and above"
+     ],
+     "answer": 3,
+     "why": "p. 109 &mdash; both Category 4 and Category 5 are described as producing catastrophic damage."
+    },
+    {
+     "stem": "An <em>anion</em> is",
+     "choices": [
+      "an atom with no electrical charge",
+      "a molecule made of two or more elements",
+      "an atom that has lost one or more electrons",
+      "an atom that has gained one or more electrons"
+     ],
+     "answer": 3,
+     "why": "p. 117 &mdash; gaining negatively charged electrons gives a net negative charge. An atom that <em>loses</em> electrons becomes a positively charged cation."
+    },
+    {
+     "stem": "Halite breaks between layers of sodium and chlorine to form cubes with smooth surfaces. This is an example of",
+     "choices": [
+      "cleavage",
+      "streak",
+      "luster",
+      "fracture"
+     ],
+     "answer": 0,
+     "why": "p. 122 &mdash; the smooth surfaces and the predictable shape are the giveaway. Fracture produces breaks that are <em>not</em> controlled by the mineral&rsquo;s structure."
+    },
+    {
+     "stem": "When magma breaks off pieces of the surrounding country rock and they fall into the melt, the resulting fragments are called",
+     "choices": [
+      "plutons",
+      "xenoliths",
+      "batholiths",
+      "clasts"
+     ],
+     "answer": 1,
+     "why": "p. 128 &mdash; Greek for &ldquo;strange rocks.&rdquo; The process of breaking them off is called stoping."
+    },
+    {
+     "stem": "Obsidian forms when",
+     "choices": [
+      "lava cools so rapidly that crystals do not develop at all",
+      "magma cools slowly over millions of years at depth",
+      "gas bubbles are trapped in cooling lava",
+      "sediment is compacted and cemented"
+     ],
+     "answer": 0,
+     "why": "p. 130 &mdash; the result is a glass. Pumice, by contrast, is the rock full of trapped gas-bubble holes, light enough to float."
+    },
+    {
+     "stem": "Typical <em>felsic</em> igneous rocks are",
+     "choices": [
+      "gabbro and basalt",
+      "granite and rhyolite",
+      "peridotite and dunite",
+      "diorite and andesite"
+     ],
+     "answer": 1,
+     "why": "p. 132 &mdash; gabbro and basalt are the mafic pair. In both cases the first rock named is the slow-cooling intrusive form and the second is the fast-cooling extrusive form."
+    },
+    {
+     "stem": "A mudrock that shows clear evidence of bedding or fine laminations is called",
+     "choices": [
+      "mudstone",
+      "shale",
+      "claystone",
+      "conglomerate"
+     ],
+     "answer": 1,
+     "why": "p. 139 &mdash; without that bedding it is mudstone; if clay dominates the composition it is claystone. All are at least 75% silt and clay."
+    },
+    {
+     "stem": "All of the dolomite found in ancient rocks formed through",
+     "choices": [
+      "direct precipitation from open seawater",
+      "magnesium replacing some of the calcium in calcite",
+      "the accumulation of marine organism shells",
+      "volcanic activity on the seafloor"
+     ],
+     "answer": 1,
+     "why": "p. 142 &mdash; this process, dolomitization, is thought to occur where magnesium-rich water percolates through carbonate tidal-flat sediments. Marine organisms do not make dolomite."
+    },
+    {
+     "stem": "When clasts in a stream are <em>imbricated</em>, they are",
+     "choices": [
+      "sorted perfectly by size",
+      "tilted in the same direction, with their upper ends pointing downstream",
+      "cemented together by calcite",
+      "arranged in vertical stacks"
+     ],
+     "answer": 1,
+     "why": "p. 146 &mdash; that orientation is the most stable position with respect to the streamflow, so imbrication records flow direction."
+    },
+    {
+     "stem": "A rock buried deeply enough to partially melt, producing a mixture of metamorphic and igneous material, is called",
+     "choices": [
+      "migmatite",
+      "gneiss",
+      "hornfels",
+      "eclogite"
+     ],
+     "answer": 0,
+     "why": "p. 155 &mdash; it represents the upper limit of metamorphism, where the rock begins crossing back into the igneous part of the rock cycle."
+    },
+    {
+     "stem": "Greenstone and greenschist form at oceanic spreading ridges by a process the text calls",
+     "choices": [
+      "contact metamorphism",
+      "retrograde metamorphism",
+      "regional metamorphism",
+      "shock metamorphism"
+     ],
+     "answer": 1,
+     "why": "p. 161 &mdash; &ldquo;retrograde&rdquo; because the metamorphism happens at 200&ndash;300&deg;C, well <em>below</em> the roughly 1200&deg;C at which the rock originally formed. Greenstone is the non-foliated form; greenschist the foliated one."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; Matching",
+   "type": "match",
+   "ptsEach": 8,
+   "questions": [
+    {
+     "stem": "<strong>Set 1 &mdash; Units 1 through 7.</strong> Write the letter of the correct definition next to each term.",
+     "left": [
+      "Analemma",
+      "Coriolis effect",
+      "Dew point",
+      "Katabatic wind",
+      "Occluded front",
+      "Ionosphere",
+      "Specific heat",
+      "Tangent point"
+     ],
+     "right": [
+      "The place where a developable surface touches the globe",
+      "A figure-eight diagram of the Sun&rsquo;s position across a year",
+      "The energy needed to raise one gram of a material by 1.0&deg;C",
+      "The apparent deflection of moving air caused by Earth&rsquo;s rotation",
+      "The region where solar radiation ionizes gas molecules",
+      "Cold air sinking from a high plateau through gaps in the mountains",
+      "The temperature at which saturated air condenses",
+      "Where a cold front catches up to a warm front"
+     ],
+     "answer": [
+      1,
+      3,
+      6,
+      5,
+      7,
+      4,
+      2,
+      0
+     ],
+     "why": "1 point each. Analemma p. 72 &middot; Coriolis effect p. 90 &middot; Dew point p. 96 &middot; Katabatic wind p. 88 &middot; Occluded front p. 103 &middot; Ionosphere p. 82 &middot; Specific heat p. 85 &middot; Tangent point p. 58."
+    },
+    {
+     "stem": "<strong>Set 2 &mdash; Units 8 through 11.</strong> Write the letter of the correct definition next to each term.",
+     "left": [
+      "Batholith",
+      "Sill",
+      "Arkose",
+      "Breccia",
+      "Evaporite",
+      "Phyllite",
+      "Hornfels",
+      "Streak"
+     ],
+     "right": [
+      "A sandstone containing more than 10% feldspar",
+      "A non-foliated rock formed by contact metamorphism of fine-grained rock",
+      "The color of a mineral&rsquo;s powder",
+      "A pluton with an exposed surface area greater than 100 km&sup2;",
+      "A rock formed as a body of water dries up and dissolved salts crystallize",
+      "A tabular pluton that is concordant with existing layering",
+      "A foliated rock between slate and schist in grade, with a micaceous sheen",
+      "A clastic rock dominated by angular clasts larger than 2 mm"
+     ],
+     "answer": [
+      3,
+      5,
+      0,
+      7,
+      4,
+      6,
+      1,
+      2
+     ],
+     "why": "1 point each. Batholith p. 129 &middot; Sill p. 129 &middot; Arkose p. 140 &middot; Breccia p. 140 &middot; Evaporite p. 143 &middot; Phyllite p. 154 &middot; Hornfels p. 157 &middot; Streak p. 119."
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "The scientific method is usually drawn as a fixed sequence of steps. Explain why real scientific inquiry rarely proceeds in that exact order.",
+     "answer": "Because the data collected often raises new questions, which changes the order of the steps.",
+     "rubric": "2 pts &mdash; the order of steps changes because more questions arise from the data that is collected; experiments that do or do not support a hypothesis lead to further questions and further experiments. 1 pt &mdash; nevertheless, logical and repeatable steps must be followed to reach verifiable conclusions. Credit the point that a hypothesis shown to be wrong is not a failed experiment, since all experimental results contribute to knowledge. (pp. 10 and 13)"
+    },
+    {
+     "stem": "What is <em>redshift</em>, and what does it tell astronomers about the universe?",
+     "answer": "Redshift is the shift of a star&rsquo;s dark absorption bands toward the red end of the spectrum, which occurs when the light source is moving away from the observer. Because every distant galaxy shows it, the universe must be expanding.",
+     "rubric": "1 pt for what it is &mdash; absorption lines appear in the expected pattern but shifted toward the red end of the spectrum. 1 pt for the cause &mdash; the source is moving away, or the space between observer and source is being stretched. 1 pt for the conclusion &mdash; all galaxies show redshift, so all galaxies are moving away from each other and the universe is expanding. Credit the Doppler/ambulance-siren analogy. (p. 24)"
+    },
+    {
+     "stem": "State the principle of superposition, and describe one situation in which it would <em>not</em> hold true.",
+     "answer": "In an undisturbed sequence of sedimentary layers, the layers at the bottom are the oldest and those above are younger. It fails where tectonic processes have overturned the sequence.",
+     "rubric": "2 pts for the principle stated correctly, including the &ldquo;otherwise undisturbed&rdquo; condition. 1 pt for a valid exception &mdash; the text specifies a sequence that has been turned over by tectonic processes. Accept other well-reasoned answers involving tectonic disturbance, folding, or overthrusting. (pp. 47 and 144)"
+    },
+    {
+     "stem": "Explain why Greenland appears roughly the same size as Africa on a Mercator map, when it is actually only about 7% of Africa&rsquo;s land area.",
+     "answer": "Mercator is a conformal projection: it preserves shape and angle, and the cost of doing so is severe distortion of area, which grows worse toward the poles.",
+     "rubric": "1.5 pts &mdash; Mercator is conformal, so shapes and angles are accurate on all parts of the map. 1.5 pts &mdash; preserving shape strongly distorts area, and the distortion increases with distance from the tangent line, so landmasses near the poles are inflated relative to those near the equator. Credit reference to distortion ellipses: on a conformal map they vary greatly in size but all stay circular. (p. 60)"
+    },
+    {
+     "stem": "Describe the path a rock takes through the rock cycle from magma to sedimentary rock. Name the processes involved.",
+     "answer": "Magma cools and crystallizes into igneous rock; uplift and erosion expose it; weathering breaks it down; the fragments are eroded, transported, and deposited as sediment; burial compacts them and cementation lithifies them into sedimentary rock.",
+     "rubric": "3 pts, roughly 0.5 per stage. (1) Magma cools &mdash; slowly at depth to form intrusive rock, or quickly at the surface to form extrusive rock. (2) Plate-tectonic mountain building uplifts the rock and erosion of overlying material exposes it. (3) Weathering breaks it down both physically and chemically. (4) The fragments are eroded and transported by glaciers, streams, waves, or wind. (5) They are deposited as sediments in rivers, lakes, deserts, or the ocean. (6) Burial compacts them and cementation lithifies them into solid sedimentary rock. (pp. 126&ndash;127, 135)"
+    },
+    {
+     "stem": "What is <em>foliation</em>, and what does its presence tell you about the conditions a metamorphic rock experienced?",
+     "answer": "Foliation is a directional fabric in a metamorphic rock, produced when minerals grow or align perpendicular to the direction of squeezing. Its presence means the rock formed under directed pressure or shear stress.",
+     "rubric": "1.5 pts for what it is &mdash; a directional fabric; under directed pressure the rock deforms and minerals become elongated, or new minerals grow with their long axes perpendicular to the main stress, largely obliterating original bedding. 1.5 pts for what it indicates &mdash; the rock formed where pressure was <em>not</em> equal in all directions, typical of plate convergence and the roots of mountain ranges. Award credit for noting the exception: quartzite and marble may form under directed pressure yet show no foliation, because quartz and calcite do not align. (pp. 153&ndash;154)"
+    }
+   ]
+  },
+  {
+   "name": "Part D &middot; Extended Response",
+   "type": "essay",
+   "ptsEach": 8,
+   "lines": 14,
+   "questions": [
+    {
+     "stem": "Follow a single grain of quartz through the rock cycle. It begins locked inside a granite batholith deep in the crust. Describe every step it takes to end up as part of a metamorphic rock. Name the processes at each stage and at least one specific rock type along the way.",
+     "answer": "See rubric.",
+     "rubric": "<strong>2 pts &mdash; starting point.</strong> The grain sits in granite, an intrusive (plutonic) igneous rock formed when magma cooled slowly at depth, giving it a phaneritic texture with visible crystals. A batholith is an irregular pluton with more than 100 km&sup2; exposed.<br><br><strong>2 pts &mdash; exposure and weathering.</strong> Plate-tectonic mountain building uplifts the batholith, and erosion of the overlying rock exposes it. At the surface it is weathered both physically (mechanical breaking) and chemically. Quartz survives this better than any other common mineral, which is why most sand is quartz.<br><br><strong>2 pts &mdash; transport, deposition, lithification.</strong> The grain is eroded and transported by water, wind, ice, or gravity, moving by traction, saltation, or suspension depending on flow velocity. Where the current slows it is deposited, then buried and compacted, and cementation crystallizes minerals in the pores &mdash; lithification. The result is a sandstone (a quartz arenite if it is more than 90% quartz).<br><br><strong>2 pts &mdash; metamorphism.</strong> Deeper burial subjects the sandstone to higher temperature and pressure. At medium to high grade it becomes quartzite, with the original grains welded together by additional silica. Full credit if the student notes quartzite is typically non-foliated because quartz does not align.<br><br>Award full credit for any coherent, correctly sequenced path; a student who routes the grain through a schist or gneiss instead should be credited if the parent rock and grade are consistent. (pp. 126&ndash;135, 156&ndash;157)"
+    },
+    {
+     "stem": "Earth&rsquo;s atmosphere is what makes the planet habitable. Explain at least three distinct ways it does so. For each one, name the specific layer, gas, or process responsible.",
+     "answer": "See rubric.",
+     "rubric": "Award up to 2.5 pts for each of three well-developed reasons, plus up to 0.5 pt for overall organization. Expect three of the following:<br><br><strong>Gases for life.</strong> Plants use CO&#8322; and release O&#8322; through photosynthesis, which accounts for nearly all atmospheric oxygen; animals use that oxygen in respiration. Nitrogen and oxygen together are about 99% of the atmosphere.<br><br><strong>Temperature moderation.</strong> Greenhouse gases &mdash; carbon dioxide, water vapor, methane, and ozone &mdash; trap heat radiating from the ground, insulating the planet. Without them temperatures would be frigid at night and scorching by day, as on the Moon. The gases differ in potency: one methane molecule traps 23 times the heat of one CO&#8322; molecule.<br><br><strong>UV shielding.</strong> Ozone in the stratosphere, at roughly 15&ndash;30 km, absorbs most harmful ultraviolet radiation &mdash; all UVC, most UVB, and some UVA. High-energy UV penetrates cells and damages DNA, and without this shield most complex life could not survive.<br><br><strong>Heat redistribution.</strong> Convection cells and the global wind belts move heat from the equator toward the poles, evening out temperatures that would otherwise be unlivably extreme at both ends. Cold air masses flow toward the equator and warm air masses toward the poles.<br><br><strong>Water cycling.</strong> The atmosphere carries water vapor and delivers it as precipitation, driving the hydrological cycle that keeps the rock cycle running and sustains life on land.<br><br>Full credit requires a specific mechanism named for each reason, not just a general claim that the atmosphere is important. (pp. 77, 81, 90&ndash;93, 126)"
+    }
+   ]
+  }
+ ]
+}

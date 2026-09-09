@@ -1,0 +1,118 @@
+{
+ "id": "q04",
+ "eyebrow": "Physical Geography &middot; Week 4 &middot; Quiz 4",
+ "title": "Unit 4: Mapping Earth&rsquo;s Surface",
+ "sub": "Reading: pages 51&ndash;65 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 4 &middot; Unit 4 (pages 51&ndash;65)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "On a map with a representative fraction of 1:24,000, one unit on the map represents",
+     "choices": [
+      "24,000 units on the ground",
+      "24,000 feet on the ground",
+      "24,000 miles on the ground",
+      "one twenty-four-thousandth of a mile"
+     ],
+     "answer": 0,
+     "why": "p. 52 &mdash; the representative fraction is accurate regardless of the unit used: 1 inch to 24,000 inches, 1 cm to 24,000 cm, and so on."
+    },
+    {
+     "stem": "What is the main advantage of a graphic scale (a scale bar) over other ways of showing scale?",
+     "choices": [
+      "It works with every map projection",
+      "It shows elevation as well as distance",
+      "It is more mathematically precise",
+      "It remains true when the map is shrunk or magnified"
+     ],
+     "answer": 3,
+     "why": "p. 53 &mdash; because the bar shrinks and grows along with the map itself, a photocopied or resized map keeps a correct graphic scale."
+    },
+    {
+     "stem": "On a topographic map, contour lines drawn very close together indicate",
+     "choices": [
+      "a steep slope",
+      "the edge of a body of water",
+      "an error in the survey",
+      "relatively flat terrain"
+     ],
+     "answer": 0,
+     "why": "p. 55 &mdash; widely spaced contours (or none at all) mean the terrain is relatively flat. Every fifth line is a darker, labeled <em>index contour</em>."
+    },
+    {
+     "stem": "The Mercator projection is <em>conformal</em>, which means that it",
+     "choices": [
+      "preserves area but distorts shape",
+      "preserves shape and angle but strongly distorts area",
+      "preserves distance from a single central point",
+      "preserves shape, area, and distance equally"
+     ],
+     "answer": 1,
+     "why": "p. 60 &mdash; the classic illustration is Greenland, which is only 7% of the land area of Africa but appears just as large on a Mercator map."
+    },
+    {
+     "stem": "Which developable surface is most often used to map the Polar Regions?",
+     "choices": [
+      "a cylinder",
+      "a cone",
+      "a plane",
+      "an ellipsoid"
+     ],
+     "answer": 2,
+     "why": "p. 58 &mdash; cylinders are used near the equator (great circles), cones for the mid-latitudes (small circles), and planes for the poles (points)."
+    },
+    {
+     "stem": "In the Public Land Survey system, a township is an area measuring",
+     "choices": [
+      "1 mile on a side",
+      "6 miles on a side",
+      "36 miles on a side",
+      "40 acres"
+     ],
+     "answer": 1,
+     "why": "p. 64 &mdash; 6 miles on a side gives 36 square miles, which is then subdivided into 36 sections of 1 square mile each. A quarter-quarter section is the familiar 40-acre parcel."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "The <em>extent</em> of a map describes the smallest unit that is mapped.",
+     "answer": false,
+     "why": "That is <em>resolution</em>. Extent describes the area visible on the map &mdash; how far the map is zoomed out. (p. 55)"
+    },
+    {
+     "stem": "No map projection can preserve all properties of the globe at once.",
+     "answer": true,
+     "why": "pp. 59&ndash;60 &mdash; because flattening a sphere always involves shearing, tearing, or compression, the mapmaker must decide which property matters most for the map&rsquo;s purpose."
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Name the three problems a cartographer runs into when flattening a globe. Which one do developable surfaces eliminate entirely, and why is that the one worth eliminating?",
+     "answer": "Shearing, tearing, and compressing. Developable surfaces eliminate tearing.",
+     "rubric": "1.5 pts for naming all three (0.5 each). 1 pt for identifying tearing as the one eliminated. 0.5 pt for the reason: tearing is considered the worst of the three because it would leave the map full of holes. Strong answers note that developable surfaces (plane, cone, cylinder) still produce shearing and compression, and that interrupted projections such as Goode Homolosine deliberately accept tearing in exchange for less shape and area distortion. (pp. 57&ndash;58)"
+    },
+    {
+     "stem": "Explain the difference between a <em>conformal</em> projection and an <em>equal-area</em> projection, and give one situation in which you would choose each.",
+     "answer": "Conformal projections preserve shape and angle but distort area; equal-area projections preserve relative size but distort shape.",
+     "rubric": "1 pt each definition; 1 pt for reasonable uses. Conformal (e.g. Mercator) suits navigation, topography, and weather maps &mdash; anything where measuring angles or reading true shapes matters. Equal-area (e.g. Gall-Peters) suits thematic and density mapping, where the reader compares the sizes of countries or continents &mdash; the book&rsquo;s examples are refugee density and cropland in production. (pp. 60&ndash;62)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "id": "t4",
+ "eyebrow": "Physical Geography &middot; Week 23 &middot; Unit Test 4",
+ "title": "Test 4: Volcanoes, Coasts &amp; Running Water",
+ "sub": "Units 15&ndash;17 &middot; pages 212&ndash;259 &nbsp;&middot;&nbsp; 50 points &nbsp;&middot;&nbsp; 50 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Test 4 &middot; Units 15&ndash;17 (pages 212&ndash;259)",
+ "instructions": "Read each question carefully. Circle one answer for multiple choice. Write on the lines provided; use the back of the page if you need more room. Point values are shown for each section.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "Which type of volcano is built almost entirely of loose fragments, giving it very little strength and allowing it to erode quickly?",
+     "choices": [
+      "Large igneous province",
+      "Shield volcano",
+      "Composite volcano",
+      "Cinder cone"
+     ],
+     "answer": 3,
+     "why": "p. 219 &mdash; most are monogenetic, formed during a single eruptive phase lasting weeks or months, and built of vesicular mafic scoria expelled in fire fountains."
+    },
+    {
+     "stem": "The material in a pyroclastic density current can reach temperatures as high as",
+     "choices": [
+      "100&deg;C",
+      "500&deg;C",
+      "1000&deg;C",
+      "2000&deg;C"
+     ],
+     "answer": 2,
+     "why": "p. 223 &mdash; and it can move at several hundred km/h. The PDC that destroyed Pompeii in 79 CE killed an estimated 18,000 people; the one at St. Pierre, Martinique in 1902 killed about 30,000."
+    },
+    {
+     "stem": "What are the two main causes of casualties in volcanic eruptions?",
+     "choices": [
+      "Earthquakes and tsunamis",
+      "Acid rain and crop failure",
+      "Lava flows and falling ash",
+      "Pyroclastic flows and lahars"
+     ],
+     "answer": 3,
+     "why": "p. 219 &mdash; lava flows destroy property but usually move slowly enough for people to escape. Hot, fast-moving pyroclastic flows and volcanic mudflows do not allow that."
+    },
+    {
+     "stem": "The 1783&ndash;84 Laki eruption in Iceland is estimated to have caused 6 million deaths, chiefly because",
+     "choices": [
+      "its sulfur dioxide release cooled the Northern Hemisphere, causing crop failures and famine",
+      "its pyroclastic flows swept across Europe",
+      "it triggered a tsunami across the North Atlantic",
+      "its lava flows overran populated valleys"
+     ],
+     "answer": 0,
+     "why": "p. 223 &mdash; a massive effusive eruption with relatively little ash, but enormous sulfur dioxide and hydrofluoric acid output. This is the book&rsquo;s prime example of an <em>indirect</em> volcanic hazard."
+    },
+    {
+     "stem": "As waves approach the shore at an angle, they bend to become more nearly parallel to the beach. This bending is called",
+     "choices": [
+      "deflation",
+      "reflection",
+      "refraction",
+      "saltation"
+     ],
+     "answer": 2,
+     "why": "pp. 230 and 232 &mdash; the part of the wave that reaches shallow water first is slowed first. On irregular coasts, refraction focuses wave energy onto the headlands."
+    },
+    {
+     "stem": "Rip currents",
+     "choices": [
+      "only occur during storms",
+      "carry sediment from the deep ocean onto the beach",
+      "flow parallel to the shore within the surf zone",
+      "flow straight out from shore, returning water that waves have pushed shoreward"
+     ],
+     "answer": 3,
+     "why": "p. 231 &mdash; they are fed by the longshore currents and die out just outside the surf zone, but they are dangerous to swimmers caught in them."
+    },
+    {
+     "stem": "Which coastline is dominated by <em>erosional</em> processes because of relatively recent tectonic activity?",
+     "choices": [
+      "The U.S. Gulf Coast",
+      "The U.S. Atlantic Coast",
+      "The Pacific coast of Canada and the United States",
+      "The Caribbean coast"
+     ],
+     "answer": 2,
+     "why": "p. 233 &mdash; the Atlantic and Gulf coasts have seen no significant tectonic activity in a few hundred million years, so they have little relief and are dominated by deposition."
+    },
+    {
+     "stem": "The Bay of Fundy has a daily tidal range as great as 16 m because",
+     "choices": [
+      "it is far deeper than most bays",
+      "its natural oscillation cycle of 12.5 hours matches the frequency of the tides in the adjacent Atlantic",
+      "it lies at a much higher latitude than other bays",
+      "glacial rebound has tilted its floor"
+     ],
+     "answer": 1,
+     "why": "p. 231 &mdash; anomalous tides are related to the shape and size of bays and inlets, which can greatly enhance the tidal surge. Ungava Bay in Quebec has a similarly high range."
+    },
+    {
+     "stem": "A <em>divide</em> is",
+     "choices": [
+      "a topographically high area that separates one drainage basin from another",
+      "the point where two streams join",
+      "the boundary between fresh and salt water at a river mouth",
+      "a ridge of sediment deposited along a channel"
+     ],
+     "answer": 0,
+     "why": "p. 246 &mdash; rain falling on one side flows into one basin and rain on the other side into another. On the largest scale these are the continental divides."
+    },
+    {
+     "stem": "The lowest elevation to which a stream can flow is called its",
+     "choices": [
+      "source",
+      "base level",
+      "confluence",
+      "estuary"
+     ],
+     "answer": 1,
+     "why": "p. 245 &mdash; usually the ocean. A change in base level is one of the things that can cause a graded stream to lose its gradation and begin cutting terraces."
+    },
+    {
+     "stem": "Braided streams develop where",
+     "choices": [
+      "there is more sediment than the stream is able to transport",
+      "the gradient is extremely steep",
+      "the water is unusually clear and free of sediment",
+      "two rivers meet at a confluence"
+     ],
+     "answer": 0,
+     "why": "p. 253 &mdash; typical where sediment-rich youthful streams empty into lower-gradient glacial valleys, and in volcanic regions where eruptions supply large volumes of loose material. The Owens River near Lone Pine is the book&rsquo;s example."
+    },
+    {
+     "stem": "Groundwater is often called &ldquo;fossil water&rdquo; because",
+     "choices": [
+      "it contains large numbers of microscopic fossils",
+      "it has remained underground for so long, in many cases since the end of the ice ages",
+      "it can only be found in sedimentary rock",
+      "it was formed at the same time as fossil fuels"
+     ],
+     "answer": 1,
+     "why": "p. 258 &mdash; residence time in an aquifer ranges from minutes to thousands of years. Most of the water in the Ogallala Aquifer dates from the last ice age."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; Matching",
+   "type": "match",
+   "ptsEach": 8,
+   "questions": [
+    {
+     "stem": "Write the letter of the correct definition next to each term.",
+     "left": [
+      "Effusive eruption",
+      "Caldera",
+      "Fetch",
+      "Tombolo",
+      "Berm",
+      "Discharge",
+      "Cut bank",
+      "Aquifer"
+     ],
+     "right": [
+      "The area of water over which the wind blows",
+      "The volume of water passing a point in a unit of time",
+      "A steady, non-violent flow of magma",
+      "Porous rock or sediment that holds and transmits groundwater",
+      "A volcanic crater more than 2 km in diameter",
+      "The eroding outside bank of a stream bend",
+      "A sand deposit connecting the mainland to a near-shore island",
+      "The flatter part of a beach beyond the reach of high tides"
+     ],
+     "answer": [
+      2,
+      4,
+      0,
+      6,
+      7,
+      1,
+      5,
+      3
+     ],
+     "why": "1 point each. Effusive eruption p. 216 &middot; Caldera p. 220 &middot; Fetch p. 227 &middot; Tombolo p. 234 &middot; Berm p. 233 &middot; Discharge p. 249 &middot; Cut bank p. 248 &middot; Aquifer p. 258."
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain why felsic magma tends to produce explosive eruptions while mafic magma tends to produce effusive ones.",
+     "answer": "Felsic magma is more viscous because of its high silica content and also carries more dissolved gas, so the gas cannot escape and pressure builds until the volcano ruptures. Mafic magma is runny and low in volatiles, so gas escapes freely and the lava simply flows out.",
+     "rubric": "1 pt viscosity &mdash; more silica means more polymerization and a thicker magma that does not flow easily. 1 pt volatile content &mdash; mafic magmas hold roughly 1&ndash;3% volatiles, intermediate 3&ndash;4%, felsic 4&ndash;7%, with water the most abundant, then CO&#8322; and SO&#8322;. 1 pt the mechanism &mdash; as magma rises, falling pressure lets gas bubbles form; if the magma is runny or gas-poor the gases escape and the eruption is effusive, but if it is viscous and gas-rich the pressure keeps climbing until part of the volcano breaks and erupts explosively. (pp. 215&ndash;216)"
+    },
+    {
+     "stem": "Explain how longshore drift moves sediment along a beach.",
+     "answer": "Waves reach shore at a slight angle, so their swash pushes sediment up the beach diagonally while the backwash carries it straight back down the slope. Each wave therefore shifts particles a little farther along in a zigzag, and the longshore current in the surf zone moves sediment the same direction.",
+     "rubric": "1 pt &mdash; even after refraction, most waves still meet the shore at a small angle. 1 pt &mdash; the swash runs up the beach at that angle while the backwash returns straight down the slope, so each wave nudges particles along the shore in a zigzag path. 1 pt &mdash; meanwhile the angled waves push water along the shore, creating a longshore current within the surf zone; the combination of the two is longshore drift, which moves tremendous volumes of sediment along coasts worldwide. (pp. 230&ndash;231)"
+    },
+    {
+     "stem": "Explain why a meander migrates across its floodplain over time, and how an oxbow lake eventually forms.",
+     "answer": "Water flows fastest on the outside of a bend, eroding a cut bank there, and slowest on the inside, depositing a point bar. Erosion on one side and deposition on the other push the channel sideways, exaggerating the curve until the neck between two bends is cut through, abandoning the loop as an oxbow lake.",
+     "rubric": "1 pt &mdash; on a curve the water on the outside has farther to travel and flows faster, while the inside flow is slow. 1 pt &mdash; the fast outside water erodes a cut bank while the slow inside water deposits a crescent-shaped point bar, so the channel migrates sideways and the sinuosity becomes increasingly exaggerated. 1 pt &mdash; eventually the thin neck of land between two parts of the channel is eroded through; the stream takes the short route and the abandoned loop becomes an oxbow lake. (pp. 248, 253&ndash;254)"
+    },
+    {
+     "stem": "Name the reservoirs in which Earth&rsquo;s water is stored, and give the approximate proportion held in each.",
+     "answer": "Oceans hold about 97% (salt water). Of the remaining 3% freshwater, two-thirds is in ice and one-third is in the ground, leaving about 0.03% of the total in lakes, streams, vegetation, and the atmosphere.",
+     "rubric": "1 pt oceans at 97%. 1 pt the 3% freshwater split &mdash; two-thirds ice, one-third groundwater. 1 pt the small remainder, about 0.03% of the total, in lakes, streams, vegetation, and the atmosphere. Credit the striking detail that although the atmospheric share is tiny, the volume is about 13,000 km&sup3;, and roughly 1,580 km&sup3; evaporates and falls again every single day. (p. 243)"
+    }
+   ]
+  },
+  {
+   "name": "Part D &middot; Extended Response",
+   "type": "essay",
+   "ptsEach": 6,
+   "lines": 13,
+   "questions": [
+    {
+     "stem": "Follow a single grain of sand from a mountain stream all the way to a beach. Describe what happens to it at each stage of the journey, referring to stream velocity and modes of transport, the changes as the stream matures, how the sediment reaches the coast, and what happens to it once it arrives. Then explain one way human activity can interrupt this journey.",
+     "answer": "See rubric.",
+     "rubric": "<strong>1.5 pts &mdash; the youthful stream.</strong> A steep, ungraded mountain stream with a high gradient, V-shaped valley, rapids and waterfalls, and step-pool morphology. Flow is fast and turbulent, so the grain is picked up readily &mdash; small sand grains between 0.2 and 0.5 mm are the most easily eroded of all &mdash; and carried in suspension, or moved along the bed by traction and saltation.<br><br><strong>1.5 pts &mdash; maturing downstream.</strong> As the gradient lessens the stream widens its valley, deposits sediment, and becomes more graded. It may braid where sediment exceeds what it can carry, then meander across a broad floodplain. The grain is repeatedly deposited on point bars and re-eroded from cut banks as meanders migrate; during a flood the stream tops its banks, velocity collapses, and sediment drops to build natural levées.<br><br><strong>1.5 pts &mdash; reaching the coast.</strong> The stream carries the grain to its mouth, where it meets standing water at its base level, forming an estuary or delta. Most of the sediment that forms beaches arrives from rivers this way &mdash; the Mississippi into the Gulf of Mexico is the book&rsquo;s example.<br><br><strong>1 pt &mdash; on the beach.</strong> Waves arriving at an angle move the grain along the shore by longshore drift: swash carries it diagonally up the beach and backwash straight down, in a zigzag, while the longshore current transports it within the surf zone. It may end up building a spit, a baymouth bar, a tombolo, or a barrier island, and may shift offshore into a sandbar in winter and back onshore in summer.<br><br><strong>0.5 pt &mdash; human interruption.</strong> Any one of: damming the river, which traps the sediment load in the reservoir and starves beaches downcoast for a century or more; groins or breakwaters, which trap sediment and worsen erosion farther along; or riprap and seawalls, which armor cliffs and cut off the sediment supply they would otherwise provide.<br><br>Award full credit for a coherent journey even if the wording differs. (pp. 230&ndash;241, 248&ndash;254)"
+    }
+   ]
+  }
+ ]
+}

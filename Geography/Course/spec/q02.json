@@ -1,0 +1,118 @@
+{
+ "id": "q02",
+ "eyebrow": "Physical Geography &middot; Week 2 &middot; Quiz 2",
+ "title": "Unit 2: Earth&rsquo;s Place within the Cosmos",
+ "sub": "Reading: pages 22&ndash;38 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 2 &middot; Unit 2 (pages 22&ndash;38)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "When astronomers observe redshift in the light coming from a distant galaxy, they know that",
+     "choices": [
+      "the galaxy is moving away from Earth",
+      "the galaxy is heating up",
+      "the galaxy contains a black hole",
+      "the galaxy is made mostly of hydrogen"
+     ],
+     "answer": 0,
+     "why": "p. 24 &mdash; redshift occurs when the light source moves away from the observer, or when the space between them stretches. Because <em>all</em> galaxies show redshift, the universe must be expanding."
+    },
+    {
+     "stem": "Hubble&rsquo;s Law states that",
+     "choices": [
+      "the universe will eventually stop expanding and contract",
+      "light always travels at a constant speed",
+      "all galaxies are roughly the same distance apart",
+      "the farther away a galaxy is, the faster it is moving away from us"
+     ],
+     "answer": 3,
+     "why": "p. 24 &mdash; Hubble combined distance measurements with redshift data and found this relationship, which leads to the hypothesis that the universe is expanding."
+    },
+    {
+     "stem": "According to the Big Bang theory, the universe began about",
+     "choices": [
+      "4.6 billion years ago",
+      "13.7 billion years ago",
+      "100 billion years ago",
+      "380,000 years ago"
+     ],
+     "answer": 1,
+     "why": "p. 25 &mdash; 4.6 billion years is the age of the solar system, not the universe. 380,000 years is how long after the Big Bang the first neutral atoms formed."
+    },
+    {
+     "stem": "What is the energy source for all stars?",
+     "choices": [
+      "chemical combustion",
+      "friction caused by gravity",
+      "nuclear fusion",
+      "radioactive decay"
+     ],
+     "answer": 2,
+     "why": "p. 33 &mdash; in the core of a star, pressure is great enough that two hydrogen atoms fuse to become a helium atom."
+    },
+    {
+     "stem": "A group of tens to hundreds of thousands of mostly reddish stars, held tightly together by gravity in a definite spherical shape, is a",
+     "choices": [
+      "globular cluster",
+      "binary star system",
+      "irregular galaxy",
+      "open cluster"
+     ],
+     "answer": 0,
+     "why": "p. 29 &mdash; open clusters, by contrast, hold up to a few thousand young bluish stars loosely, and still contain glowing gas and dust."
+    },
+    {
+     "stem": "Earth sits about how far from the center of the Milky Way Galaxy?",
+     "choices": [
+      "100 light-years",
+      "26,000 light-years",
+      "100,000 light-years",
+      "2 million light-years"
+     ],
+     "answer": 1,
+     "why": "p. 32 &mdash; a little more than halfway out from the center to the edge. The disk itself is about 100,000 light-years across."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "Elliptical galaxies appear reddish to yellowish because they contain mostly old stars.",
+     "answer": true,
+     "why": "p. 30 &mdash; most elliptical galaxies also contain very little gas and dust, because it has already formed into stars."
+    },
+    {
+     "stem": "The Milky Way is classified as an irregular galaxy.",
+     "answer": false,
+     "why": "The Milky Way is a typical <em>spiral</em> galaxy, with a disk, a central bulge, and spiral arms. (p. 31)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Astronomers use two different terms: <em>dark matter</em> and <em>dark energy</em>. Briefly explain what each one is used to account for.",
+     "answer": "Dark matter accounts for missing mass; dark energy accounts for the accelerating expansion of the universe.",
+     "rubric": "1.5 pts each. <strong>Dark matter:</strong> there is far too little visible matter to make up the roughly 27% of the universe that observations require, so dark matter is the name for that unseen mass. Scientists are more certain what it is <em>not</em> &mdash; not stars and planets, not baryonic clouds, not antimatter, not galaxy-sized black holes. <strong>Dark energy:</strong> a hypothetical form of energy, possibly as much as 72% of the universe&rsquo;s total energy content, proposed to explain why the rate of expansion is <em>increasing</em> rather than slowing. (pp. 26&ndash;28)"
+    },
+    {
+     "stem": "Describe what happens to a typical star like our Sun once it has burned up all of the helium in its core.",
+     "answer": "Fusion stops completely, and gravitational collapse shrinks the star&rsquo;s core into a white dwarf.",
+     "rubric": "1 pt fusion stops; 1 pt gravitational collapse of the core; 1 pt the result is a white dwarf &mdash; a white, glowing object about the size of Earth &mdash; which eventually fades out. Award credit if the student also describes the earlier red giant stage (outer layers grow outward and cool, turning the star red). Do <em>not</em> give credit for supernova, neutron star, or black hole &mdash; those require a much more massive star. (p. 36)"
+    }
+   ]
+  }
+ ]
+}

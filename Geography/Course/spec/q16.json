@@ -1,0 +1,118 @@
+{
+ "id": "q16",
+ "eyebrow": "Physical Geography &middot; Week 17 &middot; Quiz 16",
+ "title": "Unit 13b: Earth&rsquo;s Tectonic Plates",
+ "sub": "Reading: pages 191&ndash;198 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 16 &middot; Unit 13b (pages 191&ndash;198)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "Earth&rsquo;s tectonic plates are made up of",
+     "choices": [
+      "the asthenosphere",
+      "the entire mantle",
+      "the crust only",
+      "the lithosphere"
+     ],
+     "answer": 3,
+     "why": "p. 191 &mdash; the lithosphere includes the crust plus the rigid uppermost mantle. Nearly all plates carry a combination of oceanic and continental lithosphere."
+    },
+    {
+     "stem": "Tectonic plates move at a rate of roughly",
+     "choices": [
+      "a few centimeters per year",
+      "a few meters per year",
+      "a few kilometers per year",
+      "a few millimeters per century"
+     ],
+     "answer": 0,
+     "why": "p. 191 &mdash; the text compares it to the rate at which fingernails grow. The unit summary gives a range of 1 to 10 cm per year."
+    },
+    {
+     "stem": "At a divergent boundary between two oceanic plates, you would expect to find",
+     "choices": [
+      "a deep-sea trench",
+      "a mid-ocean ridge with a rift valley between the plates",
+      "a continental volcanic arc",
+      "a transform fault"
+     ],
+     "answer": 1,
+     "why": "p. 193 &mdash; lava cools quickly at the surface to basalt and more slowly at depth to gabbro, so the whole ridge system is igneous. Shallow earthquakes are common there."
+    },
+    {
+     "stem": "When an oceanic plate converges with a continental plate, the oceanic plate subducts because",
+     "choices": [
+      "it is denser",
+      "it is thicker",
+      "it is moving faster",
+      "it is older"
+     ],
+     "answer": 0,
+     "why": "p. 194 &mdash; the denser oceanic plate plunges beneath the continental plate along an oceanic trench, producing a subduction zone with intense earthquakes and a continental volcanic arc above."
+    },
+    {
+     "stem": "The Himalayan mountains were formed by",
+     "choices": [
+      "ocean-to-continent convergence",
+      "continent-to-continent convergence",
+      "divergence",
+      "transform motion"
+     ],
+     "answer": 1,
+     "why": "p. 196 &mdash; neither plate subducts, so the two buckle upward, producing intense folding and faulting rather than volcanic activity. The Alps and Appalachians formed the same way."
+    },
+    {
+     "stem": "The San Andreas Fault is an example of a",
+     "choices": [
+      "divergent boundary",
+      "convergent boundary",
+      "transform boundary",
+      "hotspot"
+     ],
+     "answer": 2,
+     "why": "p. 196 &mdash; the Pacific and North American plates grind past each other at about 3 inches a year. Turkey&rsquo;s North Anatolian Fault is another example; its 1999 Izmit rupture killed 17,000 people in 48 seconds."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "Hotspot volcanoes form in lines, with the youngest volcano sitting directly above the hotspot.",
+     "answer": true,
+     "why": "p. 197 &mdash; the plate moves while the mantle plume stays put, so volcanoes get older with distance from the hotspot. Geologists use these chains to find the direction and speed of plate motion."
+    },
+    {
+     "stem": "Most geologic activity takes place in the middle of tectonic plates rather than at their boundaries.",
+     "answer": false,
+     "why": "Most geologic activity &mdash; volcanoes, earthquakes, and mountain building &mdash; occurs <em>at</em> plate boundaries. Intraplate activity, such as the Yellowstone hotspot, is the small exception. (pp. 192 and 197)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain how earthquake epicenters allowed scientists to map the edges of Earth&rsquo;s tectonic plates.",
+     "answer": "Seismograph networks set up in the 1950s and early 1960s to detect atomic bomb tests also recorded every earthquake worldwide. Plotting the epicenters revealed narrow bands that trace the plate boundaries.",
+     "rubric": "1 pt &mdash; the seismograph networks were built during the Cold War to detect enemy atomic tests, and incidentally recorded all earthquakes. 1 pt &mdash; seismic records locate an earthquake&rsquo;s epicenter, the point on the surface directly above where the quake occurs. 1 pt &mdash; plotting those epicenters produces lines that outline the plates; connecting the dots draws the boundaries, which coincide with mid-ocean ridges, trenches, and large faults. (p. 191)"
+    },
+    {
+     "stem": "A divergent boundary opening within a continent passes through several stages. Describe that sequence and give the example the text uses for each stage.",
+     "answer": "A rift valley forms first (the Great Rift Valley in Africa), then fills with water to make linear lakes (the East African lakes), then widens into a sea (the Red Sea), and finally becomes an ocean (the Atlantic).",
+     "rubric": "0.75 pt per stage with its example. (1) <strong>Rift valley</strong> &mdash; the Great Rift Valley in Africa. (2) <strong>Linear lakes</strong> &mdash; the valley fills with water; the elongated lakes of eastern Africa. (3) <strong>Sea</strong> &mdash; continued divergence opens a narrow sea; the Red Sea. (4) <strong>Ocean</strong> &mdash; the Atlantic Ocean, which the text calls the ultimate divergent boundary, opened when Pangaea broke apart. Full credit for the correct order even if one example is missing. (p. 193)"
+    }
+   ]
+  }
+ ]
+}

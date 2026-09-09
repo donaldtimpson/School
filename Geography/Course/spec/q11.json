@@ -1,0 +1,118 @@
+{
+ "id": "q11",
+ "eyebrow": "Physical Geography &middot; Week 11 &middot; Quiz 11",
+ "title": "Unit 9: Igneous Rocks",
+ "sub": "Reading: pages 125&ndash;133 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 11 &middot; Unit 9 (pages 125&ndash;133)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "The rock cycle is driven by two forces. They are",
+     "choices": [
+      "Earth&rsquo;s internal heat engine and the hydrological cycle",
+      "plate tectonics and erosion",
+      "the Sun and the Moon",
+      "gravity and magnetism"
+     ],
+     "answer": 0,
+     "why": "p. 126 &mdash; the internal heat engine moves material through the core and mantle; the hydrological cycle moves water, ice, and air at the surface and is powered by the Sun."
+    },
+    {
+     "stem": "Why is the rock cycle virtually dead on the Moon?",
+     "choices": [
+      "The Moon is too small to have ever had rocks",
+      "Its surface is entirely covered by ice",
+      "The Moon contains no minerals",
+      "Its core is no longer hot enough to drive mantle convection, and it has no atmosphere or liquid water"
+     ],
+     "answer": 3,
+     "why": "p. 126 &mdash; Earth&rsquo;s rock cycle stays active precisely because our core is still hot, our atmosphere is relatively thick, and we have liquid water."
+    },
+    {
+     "stem": "Igneous rock that cools slowly deep beneath Earth&rsquo;s surface is described as",
+     "choices": [
+      "intrusive or plutonic",
+      "aphanitic",
+      "extrusive",
+      "volcanic"
+     ],
+     "answer": 0,
+     "why": "pp. 127&ndash;128 &mdash; slow cooling gives crystals a long time to grow, so intrusive rocks have relatively large, easily visible mineral crystals. Granite is the most common."
+    },
+    {
+     "stem": "An irregularly shaped pluton with an exposed surface area greater than 100 km&sup2; is called",
+     "choices": [
+      "a stock",
+      "a batholith",
+      "a sill",
+      "a dyke"
+     ],
+     "answer": 1,
+     "why": "p. 129 &mdash; smaller than 100 km&sup2; and it is a stock. Batholiths typically form when a number of stocks coalesce beneath the surface."
+    },
+    {
+     "stem": "A tabular, sheet-like pluton that is <em>concordant</em> with existing layering in the country rock is",
+     "choices": [
+      "a dyke",
+      "a sill",
+      "a xenolith",
+      "a batholith"
+     ],
+     "answer": 1,
+     "why": "p. 129 &mdash; a dyke is discordant, cutting across the layering. Note the distinction is about the relationship to layering, not orientation: a sill can be vertical if the bedding is vertical."
+    },
+    {
+     "stem": "Which extrusive igneous rock contains holes left by trapped gas bubbles, making it light enough to float on water?",
+     "choices": [
+      "Obsidian",
+      "Basalt",
+      "Pumice",
+      "Granite"
+     ],
+     "answer": 2,
+     "why": "p. 130 &mdash; obsidian is the volcanic glass that forms when lava cools so fast that no crystals develop at all."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "In general, the longer a body of magma takes to cool, the larger its crystals will be.",
+     "answer": true,
+     "why": "p. 130 &mdash; and when the magma becomes water-rich near the end of cooling, ions move easily and crystals can grow to several centimeters."
+    },
+    {
+     "stem": "Basalt is the most common intrusive igneous rock.",
+     "answer": false,
+     "why": "Basalt is the most common <em>extrusive</em> rock, especially common below the oceans. <em>Granite</em> is the most common intrusive igneous rock. (pp. 128 and 130)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain what the textures <em>phaneritic</em>, <em>aphanitic</em>, and <em>porphyritic</em> each tell you about how a rock cooled.",
+     "answer": "Phaneritic means crystals large enough to see, so cooling was slow. Aphanitic means crystals too small to distinguish, so cooling was fast. Porphyritic means two crystal sizes, so the rock cooled in two stages.",
+     "rubric": "1 pt each. <strong>Phaneritic</strong> &mdash; crystals visible to the naked eye, larger than about 0.5 mm; typical of intrusive rocks that cooled slowly at depth. <strong>Aphanitic</strong> &mdash; crystals too small to distinguish; typical of volcanic rocks that cooled quickly at the surface. <strong>Porphyritic</strong> &mdash; large crystals set in a finer groundmass, produced by a two-stage cooling process (slow at depth, then rapid after eruption or shallow emplacement). (p. 130)"
+    },
+    {
+     "stem": "A body of mafic magma cools slowly underground. Which minerals form, and what rock results? What rock forms instead if that same magma cools quickly at the surface?",
+     "answer": "Olivine, pyroxene, and calcium-rich plagioclase. Cooling slowly underground produces gabbro; cooling quickly at the surface produces basalt.",
+     "rubric": "1.5 pts for the minerals &mdash; silica combines with iron and magnesium to make olivine, then with calcium to make calcium-rich plagioclase, and any leftover silica converts some olivine to pyroxene. Award full credit for naming all three. 1 pt gabbro (slow, underground). 0.5 pt basalt (fast, at the surface). Note for grading: the key insight is that identical magma yields different <em>rocks</em> based on cooling rate alone, while the mineral content stays the same. (pp. 131&ndash;132)"
+    }
+   ]
+  }
+ ]
+}

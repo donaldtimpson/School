@@ -1,0 +1,118 @@
+{
+ "id": "q24",
+ "eyebrow": "Physical Geography &middot; Week 25 &middot; Quiz 24",
+ "title": "Unit 19b: Glacial Lakes &amp; Glacial Deposition",
+ "sub": "Reading: pages 288&ndash;293 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 24 &middot; Unit 19b (pages 288&ndash;293)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "A lake that is confined to a glacial cirque is called",
+     "choices": [
+      "a kettle lake",
+      "a moraine lake",
+      "a finger lake",
+      "a tarn"
+     ],
+     "answer": 3,
+     "why": "p. 288 &mdash; the ice forming a cirque carves a bedrock depression that fills with water. Where a series of such basins form, the results are rock basin or paternoster lakes."
+    },
+    {
+     "stem": "Sediments transported and deposited <em>directly</em> by glacial ice are known as",
+     "choices": [
+      "outwash",
+      "till",
+      "varves",
+      "glaciolacustrine sediments"
+     ],
+     "answer": 1,
+     "why": "p. 290 &mdash; sediments deposited by glacial <em>streams</em> are glaciofluvial instead, and they look much more like ordinary stream deposits."
+    },
+    {
+     "stem": "A ridge of unsorted sediment marking the farthest advance a glacier ever made is called",
+     "choices": [
+      "a lateral moraine",
+      "a medial moraine",
+      "a terminal moraine",
+      "an esker"
+     ],
+     "answer": 2,
+     "why": "p. 290 &mdash; end moraines form wherever supraglacial and englacial sediment slides off the melting front; the terminal moraine is the outermost one."
+    },
+    {
+     "stem": "A long, sinuous ridge left behind when sediment deposited in a stream channel <em>within</em> the ice is exposed by a receding glacier is called",
+     "choices": [
+      "a drumlin",
+      "an esker",
+      "a kettle",
+      "a sandur"
+     ],
+     "answer": 1,
+     "why": "p. 292 &mdash; most common in areas of continental glaciation, and can be several meters high, tens of meters wide, and tens of kilometers long."
+    },
+    {
+     "stem": "A depression formed when a block of ice buried in glaciofluvial sediment eventually melts is called",
+     "choices": [
+      "a kettle",
+      "a cirque",
+      "a col",
+      "a tarn"
+     ],
+     "answer": 0,
+     "why": "p. 291 &mdash; if it fills with water it becomes a kettle lake. These form where a receding glacier leaves an isolated ice block behind."
+    },
+    {
+     "stem": "<em>Varves</em> are",
+     "choices": [
+      "laminated lake sediments with a distinct coarse summer layer and fine winter layer",
+      "rounded boulders carried far from their source by ice",
+      "ridges of gravel deposited on an outwash plain",
+      "scratches cut into bedrock by rock fragments in the ice"
+     ],
+     "answer": 0,
+     "why": "p. 292 &mdash; coarse in summer when melt discharge is high, finer in winter when discharge is very low. They form in proglacial lakes, where melting icebergs also drop clasts in as dropstones."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "Lodgement till is normally unbedded and well compacted.",
+     "answer": true,
+     "why": "p. 291 &mdash; it is eroded from underlying rock and moved beneath the ice, so it holds a wide range of grain sizes with a high proportion of silt and clay, and its larger clasts are partly rounded by abrasion."
+    },
+    {
+     "stem": "Glaciofluvial sediments are angular and completely unsorted.",
+     "answer": false,
+     "why": "They are deposited by <em>streams</em>, so their grains are moderately well rounded and they show the same sedimentary structures as ordinary stream deposits &mdash; bedding, crossbedding, and clast imbrication. Ablation till is the angular, poorly sorted material. (pp. 291&ndash;292)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain the difference between <em>lodgement till</em> and <em>ablation till</em>.",
+     "answer": "Lodgement till is subglacial &mdash; eroded from the bedrock beneath the ice, rich in silt and clay, with partly rounded larger clasts, and left as a well-compacted unbedded sheet. Ablation till comes from supraglacial debris that fell onto the ice from slopes above, so it is a mixture of fine and coarse angular fragments with much less sand, silt, and clay.",
+     "rubric": "1.5 pts each. <strong>Lodgement till</strong> &mdash; forms beneath the ice from material eroded off the underlying rock; wide grain-size range with a high proportion of silt and clay; pebble- to boulder-sized clasts partly rounded by abrasion; exposed on melting as a compacted, unbedded sheet centimeters to many meters thick. <strong>Ablation till</strong> &mdash; derived from freeze-thaw debris fallen onto the glacier surface from rocky slopes, forming lateral and medial moraines; deposited on the ground when the ice melts; angular, mixed fine and coarse, notably poorer in sand, silt, and clay. (p. 291)"
+    },
+    {
+     "stem": "Describe what happened at Glacial Lake Missoula, and what record those events left behind.",
+     "answer": "Ice dammed a huge lake in Idaho and Montana. When the ice retreated enough, the lake drained catastrophically down the Columbia River valley over days to weeks. This happened at least 25 times between about 30 ka and 15 ka, and left the Channelled Scablands.",
+     "rubric": "1 pt &mdash; a basin along the southern edge of the Laurentide Ice Sheet filled with glacial meltwater, forming a lake within Idaho and Montana held back by ice. 1 pt &mdash; during the later part of the last glaciation (30 ka to 15 ka), the ice retreated enough for water to escape, escalating into a massive, rapid outflow over days to weeks down the Columbia River valley to the Pacific; at times the discharge equaled that of all of Earth&rsquo;s current rivers combined, and it recurred at least 25 times. 1 pt &mdash; the record is preserved in the Channelled Scablands of Idaho, Washington, and Oregon. (pp. 289&ndash;290)"
+    }
+   ]
+  }
+ ]
+}

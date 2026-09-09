@@ -1,0 +1,231 @@
+{
+ "id": "t1",
+ "eyebrow": "Physical Geography &middot; Week 5 &middot; Unit Test 1",
+ "title": "Test 1: Foundations of Physical Geography",
+ "sub": "Units 1&ndash;4 &middot; pages 7&ndash;65 &nbsp;&middot;&nbsp; 50 points &nbsp;&middot;&nbsp; 50 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Test 1 &middot; Units 1&ndash;4 (pages 7&ndash;65)",
+ "instructions": "Read each question carefully. Circle one answer for multiple choice. Write on the lines provided; use the back of the page if you need more room. Point values are shown for each section.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "Which of the following correctly lists the components of Earth that physical geography studies?",
+     "choices": [
+      "Lithosphere, hydrosphere, biosphere, atmosphere, and interior",
+      "Crust, mantle, core, and atmosphere",
+      "Land, sea, and air only",
+      "Troposphere, stratosphere, mesosphere, and thermosphere"
+     ],
+     "answer": 0,
+     "why": "p. 8 &mdash; the opening definition of the discipline."
+    },
+    {
+     "stem": "In a well-designed experiment, the one factor that the scientist deliberately manipulates is the",
+     "choices": [
+      "hypothesis",
+      "dependent variable",
+      "independent variable",
+      "experimental control"
+     ],
+     "answer": 2,
+     "why": "p. 12 &mdash; everything else must be held constant; those are the experimental controls. What changes as a result is the dependent variable."
+    },
+    {
+     "stem": "Which of the following is <em>not</em> a great circle?",
+     "choices": [
+      "The Equator",
+      "Any line of longitude",
+      "The circle of illumination",
+      "The Tropic of Capricorn"
+     ],
+     "answer": 3,
+     "why": "p. 14 &mdash; the Equator is the only parallel that is a great circle. All other parallels, including both tropics and both polar circles, are small circles."
+    },
+    {
+     "stem": "The observation that light from essentially every distant galaxy is redshifted supports the conclusion that",
+     "choices": [
+      "the universe is expanding",
+      "all galaxies formed at the same time",
+      "the Milky Way sits at the center of the universe",
+      "the universe is contracting"
+     ],
+     "answer": 0,
+     "why": "p. 24 &mdash; if every galaxy is moving away from every other galaxy, space itself must be expanding."
+    },
+    {
+     "stem": "A galaxy that is egg-shaped, reddish to yellowish, and made up mostly of old stars with very little gas and dust is",
+     "choices": [
+      "an open cluster",
+      "a spiral galaxy",
+      "an elliptical galaxy",
+      "an irregular galaxy"
+     ],
+     "answer": 2,
+     "why": "p. 30 &mdash; the color is the clue. Reddish and yellowish means old stars; blue means young stars still forming from gas and dust."
+    },
+    {
+     "stem": "Elements heavier than iron are created",
+     "choices": [
+      "in the first few minutes after the Big Bang",
+      "inside white dwarfs",
+      "in the cores of ordinary main-sequence stars",
+      "during a supernova explosion"
+     ],
+     "answer": 3,
+     "why": "p. 37 &mdash; fusing elements heavier than iron consumes more energy than it produces, so ordinary stars stop at iron. A supernova carries enough energy to make gold, silver, and uranium."
+    },
+    {
+     "stem": "Which sequence lists the eons of geologic time from oldest to youngest?",
+     "choices": [
+      "Hadean, Archean, Proterozoic, Phanerozoic",
+      "Archean, Hadean, Phanerozoic, Proterozoic",
+      "Phanerozoic, Proterozoic, Archean, Hadean",
+      "Proterozoic, Hadean, Archean, Phanerozoic"
+     ],
+     "answer": 0,
+     "why": "p. 45 &mdash; the first three together account for almost 90% of Earth&rsquo;s history."
+    },
+    {
+     "stem": "A geologist finds a sandstone layer lying beneath a shale layer in an undisturbed sequence. Which principle tells her the sandstone is older?",
+     "choices": [
+      "Original horizontality",
+      "Superposition",
+      "Lateral continuity",
+      "Fossil succession"
+     ],
+     "answer": 1,
+     "why": "p. 47 &mdash; in an undisturbed sequence, the layers on the bottom are the oldest."
+    },
+    {
+     "stem": "A mineral sample has a daughter-to-parent ratio of 1. How many half-lives have passed?",
+     "choices": [
+      "None",
+      "One",
+      "Two",
+      "Ten"
+     ],
+     "answer": 1,
+     "why": "p. 49 &mdash; a ratio of 1 means 50% parent and 50% daughter, which is exactly one half-life. A ratio of 3 (25% parent, 75% daughter) would be two half-lives."
+    },
+    {
+     "stem": "Which of the following is the <em>largest-scale</em> map?",
+     "choices": [
+      "1:1,000,000",
+      "1:250,000",
+      "1:100,000",
+      "1:24,000"
+     ],
+     "answer": 3,
+     "why": "p. 53 &mdash; the smaller the denominator, the larger the scale, and the more detail is shown. A campus map is large-scale; a world map is small-scale."
+    },
+    {
+     "stem": "A cartographer is making a world map so that readers can compare how much cropland each country has in production. The best choice is",
+     "choices": [
+      "a conformal projection such as Mercator",
+      "an equal-area projection such as Gall-Peters",
+      "an azimuthal equidistant projection",
+      "any projection, since all of them preserve area"
+     ],
+     "answer": 1,
+     "why": "p. 61 &mdash; the reader is comparing quantities spread over areas, so relative area must be true even if shapes are distorted."
+    },
+    {
+     "stem": "On a topographic map drawn with a 20-foot contour interval, labeled index contours would appear every",
+     "choices": [
+      "20 feet",
+      "40 feet",
+      "100 feet",
+      "200 feet"
+     ],
+     "answer": 2,
+     "why": "p. 55 &mdash; every fifth contour line is an index contour, and 5 &times; 20 ft = 100 ft. Index contours are the only ones labeled."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; Matching",
+   "type": "match",
+   "ptsEach": 8,
+   "questions": [
+    {
+     "stem": "Write the letter of the correct definition next to each term.",
+     "left": [
+      "Cartography",
+      "Cosmology",
+      "Stratigraphy",
+      "Geocoding",
+      "Uniformitarianism",
+      "Fossil succession",
+      "Triangulation",
+      "Generalization"
+     ],
+     "right": [
+      "The study of layered sedimentary rocks",
+      "Using the geometry of triangles to determine a location",
+      "The study, practice, and interpretation of maps",
+      "Fossil assemblages are unique to the time in which they lived",
+      "Reducing the complexity of the characteristics being mapped",
+      "The study of the universe",
+      "Giving non-spatial data a geographic location",
+      "&ldquo;The present is the key to the past&rdquo;"
+     ],
+     "answer": [
+      2,
+      5,
+      0,
+      6,
+      7,
+      3,
+      1,
+      4
+     ],
+     "why": "1 point each. Cartography p. 52 &middot; Cosmology p. 23 &middot; Stratigraphy p. 47 &middot; Geocoding p. 18 &middot; Uniformitarianism p. 47 &middot; Fossil succession p. 47 &middot; Triangulation p. 19 &middot; Generalization p. 52."
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain the difference between <em>relative dating</em> and <em>absolute dating</em>, and name the scientific discovery that made absolute dating possible.",
+     "answer": "Relative dating establishes only the order of events &mdash; whether one rock is older or younger than another. Absolute dating assigns a numerical age in years. The discovery of radioactivity in the late 1800s made it possible.",
+     "rubric": "1 pt relative = order without numbers; 1 pt absolute = specific numerical age; 1 pt radioactivity (accept &ldquo;radio-isotopic dating&rdquo; or &ldquo;isotopic dating techniques&rdquo; developed in the early 20th century). (pp. 47&ndash;48)"
+    },
+    {
+     "stem": "Why is the Equator the only parallel that is also a great circle?",
+     "answer": "Because a great circle must divide the Earth into two equal halves, and the Equator is the only line of latitude that does so.",
+     "rubric": "2 pts for the definition of a great circle &mdash; any circle that divides the Earth into two equal halves, and the largest circle that can be drawn on a sphere. 1 pt for recognizing that every other parallel is smaller and cuts the Earth unevenly, making it a small circle. (p. 14)"
+    },
+    {
+     "stem": "Name the three geospatial technologies covered in Unit 1, and give one thing each is used for.",
+     "answer": "Remote sensing, global positioning systems (GPS), and geographic information systems (GIS).",
+     "rubric": "1 pt each, requiring both the name and a defensible use. <strong>Remote sensing</strong> &mdash; studying objects without physical contact, via satellite imagery, aerial photography, radar, or lidar. <strong>GPS</strong> &mdash; determining an accurate location on Earth&rsquo;s surface using at least four satellites and triangulation. <strong>GIS</strong> &mdash; bringing spatial and non-spatial data together in layers for storage and analysis. (pp. 18&ndash;21)"
+    },
+    {
+     "stem": "A star like our Sun and a star many times more massive both eventually run out of fuel. Describe how their final states differ.",
+     "answer": "A Sun-like star stops fusion and collapses into a white dwarf. A much more massive star explodes as a supernova, leaving behind either a neutron star or a black hole.",
+     "rubric": "1.5 pts for the Sun-like path &mdash; red giant, then fusion stops, then gravitational collapse to a white dwarf about the size of Earth, which fades out. 1.5 pts for the massive path &mdash; red supergiant, fusion continues up to iron, then core collapse produces a supernova, leaving a neutron star (core under about four solar masses) or a black hole (core over about five solar masses). (pp. 36&ndash;38)"
+    }
+   ]
+  },
+  {
+   "name": "Part D &middot; Extended Response",
+   "type": "essay",
+   "ptsEach": 6,
+   "lines": 12,
+   "questions": [
+    {
+     "stem": "Every flat map of the world is wrong in some way. Explain why this is unavoidable, name the three map properties a cartographer must choose among, and explain how a cartographer decides which one to preserve. Support your answer with at least two specific named projections.",
+     "answer": "See rubric.",
+     "rubric": "<strong>2 pts &mdash; why distortion is unavoidable.</strong> A globe is three-dimensional and a map is two-dimensional, so flattening always requires shearing, tearing, or compression. The orange-peel analogy earns full credit here. Since no projection can preserve every property, some distortion is guaranteed.<br><br><strong>2 pts &mdash; the three properties.</strong> Shape, area, and distance. (Accept &ldquo;shape and angle&rdquo; for the first.)<br><br><strong>2 pts &mdash; how the choice is made, with two named projections.</strong> The cartographer decides which property matters most for the map&rsquo;s purpose. Expect examples such as: Mercator (conformal &mdash; correct shapes and angles, badly distorted area; good for navigation, topography, weather); Gall-Peters (equal-area &mdash; true relative sizes, distorted shapes; good for density and thematic maps); Azimuthal Equidistant (correct distance and direction from a center point; good for flight paths or earthquake epicenters); Robinson (a compromise that minimizes all distortion rather than eliminating any; good for general-purpose world maps); Goode Homolosine (interrupted &mdash; accepts tearing to preserve area).<br><br>Award full credit for any two correctly described projections tied to a purpose. (pp. 57&ndash;63)"
+    }
+   ]
+  }
+ ]
+}

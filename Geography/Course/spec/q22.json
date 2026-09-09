@@ -1,0 +1,118 @@
+{
+ "id": "q22",
+ "eyebrow": "Physical Geography &middot; Week 23 &middot; Quiz 22",
+ "title": "Unit 18: Shaped by Wind as a Geomorphic Agent",
+ "sub": "Reading: pages 260&ndash;273 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 22 &middot; Unit 18 (pages 260&ndash;273)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "Aeolian (wind) processes are most effective where surface material is",
+     "choices": [
+      "rich in clay and bound by calcium carbonate",
+      "frozen for most of the year",
+      "coarse, wet, and cemented together",
+      "fine, dry, and loose, with no vegetation cover"
+     ],
+     "answer": 3,
+     "why": "p. 261 &mdash; vegetation imposes a frictional drag on the wind and binds soil particles down, so an environment without it is best. Clay-rich soils resist wind erosion because clay is cohesive."
+    },
+    {
+     "stem": "What share of Earth&rsquo;s deserts are partially or completely covered by sand?",
+     "choices": [
+      "About one-quarter",
+      "About one-half",
+      "About three-quarters",
+      "Nearly all of them"
+     ],
+     "answer": 0,
+     "why": "p. 261 &mdash; in most deserts wind <em>erosion</em> predominates over deposition, leaving a surface of stones rather than sand."
+    },
+    {
+     "stem": "The cobblestone-like desert surface left behind after deflation removes the fine particles is called",
+     "choices": [
+      "a playa",
+      "desert pavement",
+      "a bajada",
+      "an erg"
+     ],
+     "answer": 1,
+     "why": "p. 262 &mdash; also called desert lag. The interlocking stones protect the surface beneath, which is why military activity in North African deserts during World War II caused lasting degradation."
+    },
+    {
+     "stem": "Barchan (crescent) dunes have horns that point",
+     "choices": [
+      "upwind",
+      "downwind",
+      "straight upward",
+      "in randomly varying directions"
+     ],
+     "answer": 1,
+     "why": "p. 267 &mdash; symmetrical barchans indicate wind from a constant direction. <em>Parabolic</em> dunes are the ones whose horns point upwind, anchored by vegetation or dampness."
+    },
+    {
+     "stem": "Saltation accounts for approximately what share of sand transport over dunes?",
+     "choices": [
+      "About 10%",
+      "About 20 to 25%",
+      "More than 50%",
+      "About 90%"
+     ],
+     "answer": 2,
+     "why": "pp. 263&ndash;264 &mdash; traction, or surface creep, accounts for the 20&ndash;25%. Sand generally begins moving at a wind velocity of about 4.5 m/sec."
+    },
+    {
+     "stem": "A flat area of clay, silt, or sand encrusted with salt, left behind when a shallow desert lake dries up, is called",
+     "choices": [
+      "a playa",
+      "an arroyo",
+      "a ventifact",
+      "a mesa"
+     ],
+     "answer": 0,
+     "why": "p. 271 &mdash; there are more than a hundred in North American deserts, most relics of Ice Age lakes. Lake Bonneville left the Great Salt Lake, Utah Lake, and Sevier Lake behind."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "Parabolic dunes form where sand accumulates in a moist environment with a cover of vegetation.",
+     "answer": true,
+     "why": "p. 268 &mdash; dampness and plants slow the dune&rsquo;s base while the dry crest pushes ahead, leaving the horns anchored behind and producing the hairpin shape."
+    },
+    {
+     "stem": "A mesa is defined as a flat-topped hill whose top is narrower than its height.",
+     "answer": false,
+     "why": "That is a <em>butte</em>. Geographers use the rule of thumb that a mesa&rsquo;s top is <em>wider</em> than its height; a butte is what remains when a mesa&rsquo;s caprock has caved away to a small remnant. (pp. 271&ndash;273)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain the difference between <em>deflation</em> and <em>abrasion</em>, and name one landform produced by each.",
+     "answer": "Deflation is the lifting and removal of loose fine particles by the wind; abrasion is the sandblasting of rock surfaces by sand grains carried in the wind.",
+     "rubric": "1 pt deflation defined, 1 pt abrasion defined, 1 pt for a valid landform for each. <strong>Deflation</strong> produces desert pavement (desert lag) and blowout depressions; the Qattara Depression in Egypt is partly a deflation feature. <strong>Abrasion</strong> shapes and polishes exposed bedrock, producing ventifacts (smooth faceted rocks) and, at larger scale, yardangs &mdash; elongate ridges streamlined parallel to the prevailing wind, which archaeologists think partly form the Great Sphinx of Giza. Credit noting abrasion is limited to a meter or two above the surface, since sand grains are not lifted far. (pp. 262&ndash;263)"
+    },
+    {
+     "stem": "Explain how mesas and buttes are formed through <em>differential erosion</em>.",
+     "answer": "Horizontally layered rocks are uplifted, then weathering and erosion strip the weaker layers away while a resistant caprock protects the rock beneath, leaving the resistant material standing above its surroundings.",
+     "rubric": "1 pt &mdash; horizontally layered rocks are uplifted by tectonic activity, and rock types differ in their ability to resist weathering and erosion. 1 pt &mdash; weaker rocks such as shale erode into valleys while resistant types (sandstone, conglomerate, quartzite, basalt, chert, limestone, lava flows, and sills) remain topographically higher; a resistant sill or lava flow often forms the flat caprock. 1 pt &mdash; the sides break into a cliff-and-bench staircase, and basal sapping erodes the soft shale beneath until the cliff collapses and retreats. When only a small remnant of caprock is left, the mesa has become a butte. (pp. 272&ndash;273)"
+    }
+   ]
+  }
+ ]
+}

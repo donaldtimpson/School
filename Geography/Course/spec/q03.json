@@ -1,0 +1,118 @@
+{
+ "id": "q03",
+ "eyebrow": "Physical Geography &middot; Week 3 &middot; Quiz 3",
+ "title": "Unit 3: Introduction to Geology &amp; Geologic Time",
+ "sub": "Reading: pages 39&ndash;50 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 3 &middot; Unit 3 (pages 39&ndash;50)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "Which principle states that in an otherwise undisturbed sequence of sedimentary layers, the oldest layers are on the bottom?",
+     "choices": [
+      "Principle of Superposition",
+      "Principle of Lateral Continuity",
+      "Principle of Fossil Succession",
+      "Principle of Original Horizontality"
+     ],
+     "answer": 0,
+     "why": "p. 47 &mdash; first developed by Nicholas Steno. Original horizontality says the layers started out flat; lateral continuity says they extend sideways until they thin out."
+    },
+    {
+     "stem": "James Hutton&rsquo;s principle of uniformitarianism is usually summarized as",
+     "choices": [
+      "&ldquo;the present is the key to the past&rdquo;",
+      "&ldquo;the rocks never lie&rdquo;",
+      "&ldquo;all strata were once horizontal&rdquo;",
+      "&ldquo;life succeeds life&rdquo;"
+     ],
+     "answer": 0,
+     "why": "p. 47 &mdash; Hutton realized geologic processes are slow, which gave geologists a basis for interpreting ancient rocks using processes we can watch today."
+    },
+    {
+     "stem": "Geological time is divided into four eons. Which is the most recent, and takes its name from words meaning &ldquo;visible life&rdquo;?",
+     "choices": [
+      "Hadean",
+      "Archean",
+      "Proterozoic",
+      "Phanerozoic"
+     ],
+     "answer": 3,
+     "why": "p. 45 &mdash; the first three eons together represent almost 90% of Earth&rsquo;s history. Phanerozoic rocks are the most common on Earth and contain familiar fossils."
+    },
+    {
+     "stem": "The three eras of the Phanerozoic, listed from oldest to youngest, are",
+     "choices": [
+      "Cenozoic, Mesozoic, Paleozoic",
+      "Paleozoic, Mesozoic, Cenozoic",
+      "Mesozoic, Paleozoic, Cenozoic",
+      "Paleozoic, Cenozoic, Mesozoic"
+     ],
+     "answer": 1,
+     "why": "p. 45 &mdash; their names mean &ldquo;early life,&rdquo; &ldquo;middle life,&rdquo; and &ldquo;new life,&rdquo; which is a reliable way to remember the order."
+    },
+    {
+     "stem": "The half-life of carbon-14 is 5,730 years. Since about ten half-lives is the practical limit of the method, radiocarbon dating is useful back to roughly",
+     "choices": [
+      "5,730 years",
+      "11,460 years",
+      "57,300 years",
+      "573,000 years"
+     ],
+     "answer": 2,
+     "why": "p. 50 &mdash; beyond about ten half-lives, so little parent isotope remains that accurate chemical analysis is no longer possible."
+    },
+    {
+     "stem": "After exactly two half-lives have passed, a mineral sample contains",
+     "choices": [
+      "50% parent and 50% daughter",
+      "25% parent and 75% daughter",
+      "75% parent and 25% daughter",
+      "0% parent and 100% daughter"
+     ],
+     "answer": 1,
+     "why": "p. 49 &mdash; the daughter-to-parent ratio is 0 at the start, 1 after one half-life, and 3 after two half-lives."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "Relative dating tells a geologist the specific numerical age of a rock in years.",
+     "answer": false,
+     "why": "Relative dating establishes only whether one rock or event is older or younger than another. Numerical ages require absolute (radio-isotopic) dating, which was not available until radioactivity was discovered in the late 1800s. (pp. 47&ndash;48)"
+    },
+    {
+     "stem": "William Smith is credited with formulating the principle of faunal succession.",
+     "answer": true,
+     "why": "p. 44 &mdash; Smith discovered that fossils could be used to correlate rocks of the same age, and used this to publish the first geological map of England and Wales in 1815. He is known as the &ldquo;Father of English Geology.&rdquo;"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Name the instrument used to separate isotopes in radio-isotopic dating, and explain how an age is calculated from a rock sample.",
+     "answer": "A mass spectrometer.",
+     "rubric": "1 pt for naming the mass spectrometer. 2 pts for the process: beams of the isotopes are passed through a magnetic field, and because the path of the heavier isotope is deflected less, the beams strike a sensor at different places. The intensity of each beam gives the amount of parent and daughter product, and the <em>ratio</em> of daughter to parent yields the age. Credit the key idea &mdash; age comes from the parent-to-daughter ratio, not from either amount alone. (pp. 48&ndash;49)"
+    },
+    {
+     "stem": "The text calls geology &ldquo;arguably the most integrated of all of the sciences.&rdquo; Explain why, and name the extra dimension geology has that most other sciences do not.",
+     "answer": "Geology requires the understanding and application of all the other sciences, and it adds the dimension of deep time.",
+     "rubric": "2 pts for explaining that geology draws on physics, chemistry, biology, mathematics, and astronomy together (naming at least three earns full credit). 1 pt for identifying the extra dimension as <em>time</em> &mdash; deep time, billions of years of it. Strong answers note that geologists usually observe the <em>results</em> of processes that happened thousands to billions of years ago, at rates of only millimeters to centimeters per year. (p. 40)"
+    }
+   ]
+  }
+ ]
+}

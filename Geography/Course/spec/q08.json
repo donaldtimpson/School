@@ -1,0 +1,118 @@
+{
+ "id": "q08",
+ "eyebrow": "Physical Geography &middot; Week 8 &middot; Quiz 8",
+ "title": "Unit 7a: Atmospheric Moisture, Air Masses &amp; Fronts",
+ "sub": "Reading: pages 95&ndash;104 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 8 &middot; Unit 7a (pages 95&ndash;104)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "<em>Relative humidity</em> is",
+     "choices": [
+      "the percentage of water vapor the air holds relative to the maximum it can hold at that temperature",
+      "the temperature at which condensation begins",
+      "the total precipitation a region receives in a year",
+      "the total mass of water contained in the air"
+     ],
+     "answer": 0,
+     "why": "p. 96 &mdash; because warm air can hold more water vapor than cool air, simply raising or lowering the temperature changes the relative humidity even if no water is added or removed."
+    },
+    {
+     "stem": "The temperature at which saturated air condenses is called the",
+     "choices": [
+      "freezing point",
+      "dew point",
+      "lapse rate",
+      "condensation level"
+     ],
+     "answer": 1,
+     "why": "p. 96 &mdash; the name comes from dew, which is exactly this process happening at ground level. The cold glass of ice water is the book&rsquo;s small-scale example."
+    },
+    {
+     "stem": "Which of the following is a <em>high-level</em> cloud, formed from ice crystals?",
+     "choices": [
+      "Stratus",
+      "Nimbostratus",
+      "Cirrus",
+      "Altostratus"
+     ],
+     "answer": 2,
+     "why": "pp. 97&ndash;98 &mdash; the prefix <em>cirro-</em> marks high clouds, <em>alto-</em> marks middle clouds, and stratus and nimbostratus are low clouds made nearly entirely of water droplets."
+    },
+    {
+     "stem": "An air mass classified as <em>maritime tropical</em> (mT) is",
+     "choices": [
+      "dry and cold",
+      "moist and cold",
+      "dry and warm",
+      "moist and warm"
+     ],
+     "answer": 3,
+     "why": "p. 101 &mdash; &ldquo;maritime&rdquo; means it formed over water and is therefore moist; &ldquo;tropical&rdquo; means it formed at low latitudes and is therefore warm. Continental polar (cP) is the opposite: dry and cold."
+    },
+    {
+     "stem": "A <em>squall line</em> is",
+     "choices": [
+      "a line of severe thunderstorms that forms along a cold front",
+      "the boundary marking an occluded front",
+      "a band of fog that forms along a coastline",
+      "the leading edge of a warm front"
+     ],
+     "answer": 0,
+     "why": "p. 102 &mdash; in the United States these form in spring and early summer in the Midwest, where maritime tropical air from the Gulf of Mexico meets continental polar air from Canada."
+    },
+    {
+     "stem": "San Francisco&rsquo;s famous summertime fog forms when warm, moist Pacific air blows over the cold California current and cools below its dew point. This is",
+     "choices": [
+      "radiation fog",
+      "advection fog",
+      "steam fog",
+      "upslope fog"
+     ],
+     "answer": 1,
+     "why": "p. 99 &mdash; advection fog forms from the surface contact of horizontal winds, so unlike radiation fog it can occur in windy conditions. Sea breezes then carry it onshore."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "At a stationary front, winds usually blow parallel to the front but in opposite directions.",
+     "answer": true,
+     "why": "p. 104 &mdash; a front may become stationary when an air mass is stopped by a barrier such as a mountain range. It can bring days of rain, drizzle, and fog before breaking apart."
+    },
+    {
+     "stem": "A warm front is named for the air mass it is pushing away.",
+     "answer": false,
+     "why": "With both cold and warm fronts, the air mass at the <em>leading edge</em> gives the front its name. A warm front marks the leading edge of moving warm air. (p. 101)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Describe what happens along a cold front, and the weather it typically produces.",
+     "answer": "Denser cold air pushes underneath the warm air, forcing it upward and lowering the air pressure; this builds cumulus clouds and a line of showers or thunderstorms, with drier, clearing weather behind the front.",
+     "rubric": "1 pt mechanism &mdash; the denser cold air pushes up the warm air and air pressure decreases. 1 pt clouds and precipitation at the front &mdash; cumulus clouds, with winds blowing ice crystals off their tops into cirrostratus and cirrus; a line of rain showers, snow showers, or thunderstorms with blustery winds. 1 pt behind the front &mdash; the drier cold air mass arrives, precipitation stops, and skies turn clear or partly cloudy. Credit seasonal detail as a bonus: thunderstorms or tornadoes in spring and summer, heavy rain in autumn, frigid temperatures and heavy snow in winter. (pp. 101&ndash;102)"
+    },
+    {
+     "stem": "Explain how an <em>occluded front</em> forms, and give the order of the air masses from front to back.",
+     "answer": "An occluded front forms when a cold front catches up to a warm front, usually around a low-pressure system. From front to back the air masses are cold, warm, then cold again.",
+     "rubric": "1.5 pts for the mechanism &mdash; a cold front overtakes a warm front, typically around a low-pressure system, and the Coriolis effect curves the boundary toward the pole. 1.5 pts for the order: cold, warm, cold. Bonus, not required: if the third air mass is colder than both others it slides beneath them (cold occlusion); if warmer, it rides over them (warm occlusion). Weather is especially fierce right at the occlusion. (p. 103)"
+    }
+   ]
+  }
+ ]
+}

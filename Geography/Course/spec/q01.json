@@ -1,0 +1,118 @@
+{
+ "id": "q01",
+ "eyebrow": "Physical Geography &middot; Week 1 &middot; Quiz 1",
+ "title": "Unit 1: Introduction to Geography as a Discipline",
+ "sub": "Reading: pages 7&ndash;21 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 1 &middot; Unit 1 (pages 7&ndash;21)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "What sets geography apart from other academic disciplines?",
+     "choices": [
+      "Its focus on spatial inquiry and analysis",
+      "Its reliance on laboratory experiments rather than fieldwork",
+      "Its exclusive study of human cultures",
+      "Its focus on how societies change over long periods of time"
+     ],
+     "answer": 0,
+     "why": "p. 9 &mdash; &ldquo;What makes geography different from other disciplines is its focus on spatial inquiry and analysis.&rdquo;"
+    },
+    {
+     "stem": "In the farmer&rsquo;s no-till experiment described in the text, the amount of soil erosion that the farmer measures is the",
+     "choices": [
+      "hypothesis",
+      "independent variable",
+      "experimental control",
+      "dependent variable"
+     ],
+     "answer": 3,
+     "why": "p. 13 &mdash; erosion is what is being measured, so it depends on the farming technique (the independent variable). Slope, water, and fertilizer are the controls."
+    },
+    {
+     "stem": "A hypothesis becomes a scientific theory when",
+     "choices": [
+      "a scientist has proven it beyond a shadow of a doubt",
+      "it explains all the collected data and none of the data contradicts it",
+      "it has been published in a textbook",
+      "at least three independent scientists agree with it"
+     ],
+     "answer": 1,
+     "why": "p. 13 &mdash; choice (a) is deliberately wrong: the text states that science does not prove anything beyond a shadow of a doubt."
+    },
+    {
+     "stem": "Which of the following is a <em>great circle</em>?",
+     "choices": [
+      "The Tropic of Cancer",
+      "The Arctic Circle",
+      "The Equator",
+      "The 45th parallel north"
+     ],
+     "answer": 2,
+     "why": "pp. 14&ndash;15 &mdash; the Equator is the only parallel that is also a great circle. All other parallels are small circles."
+    },
+    {
+     "stem": "Latitude is best described as",
+     "choices": [
+      "an angular measurement north or south of the equator",
+      "the distance in miles east or west of the Prime Meridian",
+      "a small circle that divides the Earth into two equal halves",
+      "a line connecting points on the Earth&rsquo;s surface"
+     ],
+     "answer": 0,
+     "why": "p. 15 &mdash; the text explicitly corrects the common assumption that latitude is a line. The <em>line</em> connecting points of equal latitude is a parallel."
+    },
+    {
+     "stem": "Because the Earth rotates 360 degrees in a 24-hour period, each of the world&rsquo;s 24 time zones ideally spans",
+     "choices": [
+      "7.5 degrees of longitude",
+      "15 degrees of longitude",
+      "23.5 degrees of longitude",
+      "30 degrees of longitude"
+     ],
+     "answer": 1,
+     "why": "p. 17 &mdash; 360&deg; &divide; 24 hours = 15&deg; per hour, or 7.5&deg; on each side of the zone&rsquo;s center line."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "Longitude is measured east and west of the International Date Line.",
+     "answer": false,
+     "why": "Longitude is measured east and west of the Prime Meridian at Greenwich. The International Date Line lies at 180&deg; from it. (p. 16)"
+    },
+    {
+     "stem": "Remote sensing is the ability to study objects without being in direct physical contact with them.",
+     "answer": true,
+     "why": "p. 18 &mdash; human eyes are given as an example of passive remote sensing."
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain the difference between <em>absolute location</em> and <em>relative location</em>. Give one example of each.",
+     "answer": "Absolute location is an exact coordinate position on Earth &mdash; a specific x- and y- value. Relative location describes where something is in relation to other things.",
+     "rubric": "1 pt correct definition of absolute; 1 pt correct definition of relative; 1 pt for a valid example of each. Accept any reasonable examples &mdash; the book uses coordinates typed into Google Maps (absolute) versus a driving instruction such as &ldquo;turn left at the Valencia Blvd exit,&rdquo; or giving directions to your house using landmarks (relative). (p. 14)"
+    },
+    {
+     "stem": "A geographic information system (GIS) works from two different spatial models. Name both, and explain how they differ.",
+     "answer": "Raster and vector.",
+     "rubric": "1 pt for naming raster; 1 pt for naming vector; 1 pt for a correct distinction. Raster models are grid images made of rows and columns of pixels, each georeferenced and holding a numeric value &mdash; most remote sensing imagery enters a GIS this way. Vector models are built from georeferenced points, which connect into lines and close into areas (polygons), each carrying an attached database. Full credit for capturing &ldquo;pixels/grid&rdquo; versus &ldquo;points, lines, and polygons.&rdquo; (p. 21)"
+    }
+   ]
+  }
+ ]
+}

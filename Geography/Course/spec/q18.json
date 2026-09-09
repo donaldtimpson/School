@@ -1,0 +1,118 @@
+{
+ "id": "q18",
+ "eyebrow": "Physical Geography &middot; Week 19 &middot; Quiz 18",
+ "title": "Unit 15: Earth&rsquo;s Dynamic Surface &mdash; Volcanoes",
+ "sub": "Reading: pages 212&ndash;225 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 18 &middot; Unit 15 (pages 212&ndash;225)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "At convergent boundaries, magma is formed primarily by",
+     "choices": [
+      "melting from friction between the plates",
+      "heat from radioactive decay",
+      "decompression melting",
+      "flux melting"
+     ],
+     "answer": 3,
+     "why": "p. 213 &mdash; the subducting crust does not itself melt, but heat drives water out of its minerals; that water rises into the overlying mantle and lowers its melting temperature. Decompression melting operates at divergent boundaries and mantle plumes."
+    },
+    {
+     "stem": "Felsic magmas tend to erupt explosively mainly because they are",
+     "choices": [
+      "much hotter than mafic magmas",
+      "more viscous and richer in volatiles, so gases cannot escape easily",
+      "denser than mafic magmas",
+      "lower in silica than mafic magmas"
+     ],
+     "answer": 1,
+     "why": "pp. 215&ndash;216 &mdash; more silica means more polymerization and higher viscosity. Mafic magmas carry 1&ndash;3% volatiles, felsic magmas 4&ndash;7%. Trapped gas builds pressure until something breaks."
+    },
+    {
+     "stem": "Which type of volcano is almost always associated with subduction zones?",
+     "choices": [
+      "Shield volcano",
+      "Cinder cone",
+      "Composite volcano",
+      "Large igneous province"
+     ],
+     "answer": 2,
+     "why": "p. 219 &mdash; Mt. St. Helens is the book&rsquo;s example. Their magma averages intermediate but ranges from felsic to mafic, so eruption style varies widely."
+    },
+    {
+     "stem": "Shield volcanoes have very gentle slopes, only about 2&deg; to 10&deg;, because",
+     "choices": [
+      "their mafic magma has low viscosity and flows a long way before cooling",
+      "they erupt only rarely",
+      "they are built from loose fragments that cannot pile steeply",
+      "they form underwater where slopes cannot steepen"
+     ],
+     "answer": 0,
+     "why": "p. 220 &mdash; the larger ones exceed 100 km across. Mauna Loa is about 200 km in diameter and is the world&rsquo;s largest mountain by volume."
+    },
+    {
+     "stem": "A <em>lahar</em> is",
+     "choices": [
+      "a fast-moving cloud of hot gas and tephra",
+      "a mudflow or debris flow related to a volcano",
+      "a ropy texture formed by slow-moving lava",
+      "a volcanic crater more than 2 km in diameter"
+     ],
+     "answer": 1,
+     "why": "p. 224 &mdash; most are caused by snow and ice melting during an eruption. The 1985 lahar from Nevado del Ruiz killed 23,000 people in Armero, Colombia, about 50 km from the volcano."
+    },
+    {
+     "stem": "A volcanic crater more than 2 km in diameter is called",
+     "choices": [
+      "a caldera",
+      "a vent",
+      "a lava tube",
+      "a cinder cone"
+     ],
+     "answer": 0,
+     "why": "p. 220 &mdash; Kilauea&rsquo;s caldera is 4 km long and 3 km wide. Its floor rises and falls as the magma chamber below expands and deflates."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "Historically, indirect volcanic hazards have killed far more people than direct hazards.",
+     "answer": true,
+     "why": "p. 222 &mdash; indirect effects, such as famine following climate disruption, account for roughly 8 million deaths in historical times, while direct effects account for fewer than 200,000, about 2.5% of the total."
+    },
+    {
+     "stem": "Pahoehoe forms when lava is forced to flow faster than it easily can, producing a blocky, jagged surface.",
+     "answer": false,
+     "why": "That describes <em>aa</em>. Pahoehoe is the smooth, ropy texture formed when non-viscous lava flows gently and its skin gels and wrinkles over the still-moving flow beneath. (p. 221)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 5,
+   "questions": [
+    {
+     "stem": "Compare cinder cones, composite volcanoes, and shield volcanoes. For each, give its approximate size, its usual magma composition, and its typical eruption style.",
+     "answer": "Cinder cones: small (tens to hundreds of meters), steep, mostly mafic, built from gas-rich fragments. Composite: medium (thousands of meters), moderately steep, felsic to mafic, explosive to effusive. Shield: large (about 1,000 m high and up to 200 km across), very gentle, almost always mafic, typically effusive.",
+     "rubric": "1 pt each volcano, requiring at least two of the three attributes correct. <strong>Cinder cone</strong> &mdash; 10 to a few hundred meters, slopes over 20&deg;, mostly mafic scoria from gas-rich early-stage eruptions, usually monogenetic and easily eroded; example Mt. Lassen. <strong>Composite</strong> &mdash; thousands of meters, slopes 10&ndash;30&deg;, almost all at subduction zones, magma varying felsic to mafic with correspondingly variable eruption style; example Mt. St. Helens. <strong>Shield</strong> &mdash; about 1,000 m high and up to 200 km across, slopes 2&ndash;10&deg;, almost always mafic, typically effusive; example Kilauea. (pp. 218&ndash;221)"
+    },
+    {
+     "stem": "Explain how the Hawaiian island chain formed, and what such a chain reveals to geologists about plate motion.",
+     "answer": "A mantle plume beneath the Pacific Plate feeds volcanoes at a fixed point. The plate moves northwest at about 7 cm per year, carrying each volcano off the plume and leaving a line of progressively older, extinct volcanoes.",
+     "rubric": "1 pt &mdash; a mantle plume, an ascending column of hot rock from deep in the mantle, partially melts near the base of the lithosphere to feed volcanoes at a hotspot. 1 pt &mdash; the plume stays roughly fixed while the plate moves, so earlier-formed volcanoes drift away and go extinct while the youngest sits directly over the plume; the current plume lies beneath Mauna Loa, Kilauea, and Loihi. 1 pt &mdash; because the ages line up along the direction of motion, geologists read both the <em>direction</em> and the <em>speed</em> of plate movement from the chain; here the Pacific Plate moves northwest at about 7 cm per year. (pp. 214, 197, 220)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Test 2: The Sun, the Atmosphere &amp; Weather — Answer Key</title><style>
+@page { size: letter; margin: 0.7in 0.75in 0.7in 0.75in; }
+
+* { box-sizing: border-box; }
+
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 10.6pt;
+  line-height: 1.45;
+  color: #16181a;
+  margin: 0;
+}
+
+/* ---------- Masthead ---------- */
+.masthead {
+  border-bottom: 3px solid #14676b;
+  padding-bottom: 9px;
+  margin-bottom: 18px;
+}
+.masthead .course {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.2pt;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #14676b;
+  font-weight: 700;
+  margin: 0 0 3px;
+}
+.masthead h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20pt;
+  line-height: 1.15;
+  font-weight: 700;
+  color: #0f2a2c;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+.masthead .sub {
+  font-size: 9.6pt;
+  color: #55605f;
+  margin: 5px 0 0;
+  font-style: italic;
+}
+
+/* ---------- Headings ---------- */
+h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12.2pt;
+  font-weight: 700;
+  color: #14676b;
+  margin: 22px 0 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #cfdcdb;
+  break-after: avoid;
+}
+h3 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10.4pt;
+  font-weight: 700;
+  color: #0f2a2c;
+  margin: 15px 0 5px;
+  break-after: avoid;
+}
+p { margin: 0 0 9px; }
+ul, ol { margin: 0 0 10px; padding-left: 20px; }
+li { margin-bottom: 4px; }
+
+/* ---------- Tables ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 9.3pt;
+  margin: 6px 0 14px;
+}
+th {
+  background: #14676b;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.3pt;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: left;
+  padding: 6px 8px;
+  font-weight: 700;
+}
+td { padding: 5px 8px; border-bottom: 1px solid #dde5e4; vertical-align: top; }
+tbody tr:nth-child(even) td { background: #f4f8f8; }
+tr { break-inside: avoid; }
+.num { text-align: center; white-space: nowrap; }
+
+/* exam-week and test rows */
+tr.exam td { background: #14676b !important; color: #fff; font-weight: 700; }
+tr.exam td em { color: #cfe6e6; }
+td.assess { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 8.6pt; }
+.tag {
+  display: inline-block;
+  background: #b8531a;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 7.4pt;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 1.5px 5px;
+  border-radius: 2px;
+}
+
+/* ---------- Callouts ---------- */
+.note {
+  background: #f4f8f8;
+  border-left: 3px solid #14676b;
+  padding: 9px 12px;
+  margin: 12px 0;
+  font-size: 9.7pt;
+  break-inside: avoid;
+}
+.note strong { color: #14676b; }
+
+/* ---------- Grade table ---------- */
+.grade-grid { display: flex; gap: 18px; align-items: flex-start; }
+.grade-grid > div { flex: 1; }
+
+/* ---------- Utility ---------- */
+.pagebreak { break-before: page; }
+.avoid { break-inside: avoid; }
+.small { font-size: 9pt; color: #55605f; }
+.footer-note {
+  margin-top: 22px;
+  padding-top: 8px;
+  border-top: 1px solid #cfdcdb;
+  font-size: 8.4pt;
+  color: #6a7574;
+  font-style: italic;
+}
+
+/* ================= ASSESSMENT STYLES ================= */
+.idline {
+  display: flex; gap: 20px; align-items: flex-end;
+  margin: 0 0 16px; font-size: 9.6pt;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.idline span { border-bottom: 1px solid #8b9998; padding-bottom: 2px; }
+.idline .nm { flex: 2.2; }
+.idline .dt { flex: 1; }
+.idline .sc { flex: 0.9; text-align: left; }
+
+.instr {
+  background: #f4f8f8; border-left: 3px solid #14676b;
+  padding: 7px 11px; margin: 0 0 15px; font-size: 9.4pt; font-style: italic;
+}
+
+.part {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 9.6pt; font-weight: 700; color: #fff; background: #14676b;
+  padding: 4px 9px; margin: 17px 0 10px; letter-spacing: 0.04em;
+  break-after: avoid;
+}
+.part:first-of-type { margin-top: 6px; }
+.part .pts { float: right; font-weight: 400; font-size: 8.8pt; color: #cfe6e6; }
+
+ol.q { list-style: none; counter-reset: qn; padding: 0; margin: 0; }
+ol.q > li {
+  counter-increment: qn; position: relative;
+  padding-left: 26px; margin-bottom: 11px; break-inside: avoid;
+}
+ol.q > li::before {
+  content: counter(qn) ".";
+  position: absolute; left: 0; top: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700; font-size: 9.6pt; color: #14676b;
+}
+ol.q > li > .stem { margin: 0 0 4px; }
+
+ul.ch { list-style: none; padding: 0; margin: 3px 0 0; }
+ul.ch li { margin: 0 0 2px; padding-left: 20px; position: relative; font-size: 10.2pt; }
+ul.ch li::before {
+  content: attr(data-l) ")"; position: absolute; left: 2px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 9.4pt; color: #55605f;
+}
+.tf { margin-top: 3px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 9.2pt; color: #55605f; }
+.lines { margin-top: 5px; }
+.lines div { border-bottom: 1px solid #c3cecd; height: 20px; }
+
+/* ---- Answer key ---- */
+.keyhead {
+  background: #7a2f10; color: #fff; padding: 7px 11px; margin: 0 0 14px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700; font-size: 11pt; letter-spacing: 0.05em;
+}
+.key { font-size: 9.9pt; }
+.key ol.q > li { margin-bottom: 8px; }
+.key ol.q > li::before { color: #7a2f10; }
+.ans { font-weight: 700; color: #7a2f10; }
+.why { color: #47504f; font-size: 9.2pt; font-style: italic; }
+.rubric { background: #faf5f2; border-left: 3px solid #7a2f10; padding: 6px 10px; margin: 4px 0 0; font-size: 9.2pt; }
+
+/* ---- matching ---- */
+table.matchtbl { margin: 4px 0 0; font-size: 10pt; }
+table.matchtbl td { border: none; padding: 2px 6px 2px 0; background: none !important; }
+td.mline { width: 34px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #8b9998; }
+td.ml { width: 47%; }
+td.mr { width: 47%; }
+
+.endmark {
+  margin-top: 26px; text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.4pt; letter-spacing: 0.2em; color: #9aa5a4;
+}
+.keyhead .kpts { float: right; font-weight: 400; font-size: 9pt; color: #e8cfc4; letter-spacing: 0; }
+
+</style></head>
+<body>
+
+<div class="keyhead">ANSWER KEY &nbsp;&middot;&nbsp; Test 2 &middot; Units 5&ndash;7 (pages 66&ndash;114)<span class="kpts">50 points total</span></div>
+
+<div class="key">
+<p class="part">Part A &middot; Multiple Choice <span class="pts">2 points each</span></p>
+<ol class="q" style="counter-reset: qn 0;">
+  <li>
+    <span class="ans">c) That summer is warm because the Sun is physically closer to Earth</span>
+    <br><span class="why">p. 70 &mdash; the real cause is the 23.5&deg; axial tilt combined with Earth&rsquo;s revolution, which changes how directly the Sun&rsquo;s rays strike each hemisphere.</span>
+  </li>
+  <li>
+    <span class="ans">c) UVC</span>
+    <br><span class="why">p. 69 &mdash; ozone removes UVC completely, most UVB, and some UVA. UVA, the lowest energy, reaches the ground.</span>
+  </li>
+  <li>
+    <span class="ans">d) Chlorofluorocarbons (CFCs)</span>
+    <br><span class="why">p. 70 &mdash; CFCs are the single exception on the list; the text notes they have only recently existed.</span>
+  </li>
+  <li>
+    <span class="ans">a) Stratosphere</span>
+    <br><span class="why">p. 81 &mdash; between roughly 15 and 30 km altitude. This is why a traveler in the mesosphere, which sits above it, would receive severe UV burns.</span>
+  </li>
+  <li>
+    <span class="ans">c) Warm air sits beneath cooler air, making it unstable and causing constant mixing</span>
+    <br><span class="why">p. 80 &mdash; that instability and mixing is precisely why all of the planet&rsquo;s weather happens in the troposphere.</span>
+  </li>
+  <li>
+    <span class="ans">a) The flame has a higher temperature but less heat</span>
+    <br><span class="why">pp. 84&ndash;85 &mdash; temperature measures how fast atoms vibrate; heat measures total energy. The bathtub is cooler but holds far more vibrating atoms.</span>
+  </li>
+  <li>
+    <span class="ans">d) from the west toward the east</span>
+    <br><span class="why">p. 93 &mdash; wind belts are named for the direction winds come <em>from</em>. This is also why a flight from San Francisco to New York is faster than the return trip.</span>
+  </li>
+  <li>
+    <span class="ans">b) the Ferrel and Polar cells</span>
+    <br><span class="why">p. 93 &mdash; relatively warm, moist Ferrel air meets cold, dry Polar air, making the weather there extremely variable across much of North America and Europe.</span>
+  </li>
+  <li>
+    <span class="ans">a) temperature stays the same but humidity increases, or humidity stays the same but temperature decreases</span>
+    <br><span class="why">pp. 97&ndash;98 &mdash; water vapor then condenses around a nucleus such as dust, smoke, or a salt crystal, and billions of these droplets together make a cloud.</span>
+  </li>
+  <li>
+    <span class="ans">d) continental polar (cP)</span>
+    <br><span class="why">p. 101 &mdash; &ldquo;continental&rdquo; means it formed over land and is dry; &ldquo;polar&rdquo; means it formed at high latitudes and is cold.</span>
+  </li>
+  <li>
+    <span class="ans">b) entrainment</span>
+    <br><span class="why">p. 106 &mdash; entrainment happens once precipitation becomes too heavy for the updrafts to hold, marking the transition into the mature stage.</span>
+  </li>
+  <li>
+    <span class="ans">b) Dry (B)</span>
+    <br><span class="why">p. 111 &mdash; note that the Dry classification is about the water balance, not about temperature.</span>
+  </li>
+</ol>
+
+<p class="part">Part B &middot; Matching <span class="pts">8 points each</span></p>
+<ol class="q" style="counter-reset: qn 12;">
+  <li>
+    <span class="ans">1&ndash;d &nbsp;&middot;&nbsp; 2&ndash;f &nbsp;&middot;&nbsp; 3&ndash;b &nbsp;&middot;&nbsp; 4&ndash;a &nbsp;&middot;&nbsp; 5&ndash;h &nbsp;&middot;&nbsp; 6&ndash;e &nbsp;&middot;&nbsp; 7&ndash;g &nbsp;&middot;&nbsp; 8&ndash;c</span>
+    <br><span class="why">1 point each. Advection p. 85 &middot; Latent heat p. 84 &middot; Albedo p. 83 &middot; Dew point p. 96 &middot; Source region p. 101 &middot; Squall line p. 102 &middot; Nor&rsquo;easter p. 108 &middot; Eyewall p. 109.</span>
+  </li>
+</ol>
+
+<p class="part">Part C &middot; Short Answer <span class="pts">3 points each</span></p>
+<ol class="q" style="counter-reset: qn 13;">
+  <li>
+    <span class="ans">In the troposphere temperature decreases with altitude, so warm air lies beneath cool air &mdash; an unstable arrangement that overturns. In the stratosphere temperature increases with altitude, so warm air lies above cool air, which is stable.</span>
+    <div class="rubric"><strong>Rubric:</strong> 1.5 pts for the troposphere &mdash; warmer, less dense air beneath cooler air is buoyant and rises while cool air sinks, producing constant mixing (and all of Earth&rsquo;s weather). 1.5 pts for the stratosphere &mdash; warmer, less dense air already sits on top, so nothing rises and there is little mixing. Credit consequences as supporting evidence: volcanic ash stays suspended in the stratosphere for years, and pilots fly its lower portion for smooth air. (pp. 80&ndash;81)</div>
+  </li>
+  <li>
+    <span class="ans">Moist air forced up the windward side of a mountain range cools and drops its precipitation there; the now-dry air descends the leeward side, warming and drying the land below.</span>
+    <div class="rubric"><strong>Rubric:</strong> 1 pt air rises over the windward side, cools, and forms clouds and precipitation. 1 pt the air that sinks on the leeward side is already dry, and descending air warms and creates strong dry winds. 1 pt the result is a persistently dry leeward zone &mdash; the text credits this effect with creating many of the world&rsquo;s deserts. Credit Chinook winds (which can raise temperatures more than 20&deg;C in an hour) as the named example. (p. 89)</div>
+  </li>
+  <li>
+    <span class="ans">Cumulus, mature, and dissipating.</span>
+    <div class="rubric"><strong>Rubric:</strong> 1 pt each. <strong>Cumulus</strong> &mdash; an air parcel rises, cools, and condenses; latent heat released by condensation warms the cloud and drives it upward, and updrafts hold precipitation aloft. <strong>Mature</strong> &mdash; precipitation grows too heavy for the updrafts and begins to fall, creating downdrafts; updrafts and downdrafts exist side by side, an anvil may form at the top of the troposphere, and the storm is at its most intense. <strong>Dissipating</strong> &mdash; downdrafts overtake the updrafts, cutting off the latent heat supply, and the storm weakens into light precipitation. (p. 106)</div>
+  </li>
+  <li>
+    <span class="ans">It supplies the gases living things need and cycles them through photosynthesis and respiration, and its greenhouse gases moderate Earth&rsquo;s temperatures.</span>
+    <div class="rubric"><strong>Rubric:</strong> 1.5 pts each for any two of the following. <strong>Gases for life</strong> &mdash; plants use CO&#8322; and produce O&#8322; in photosynthesis, which accounts for nearly all atmospheric oxygen; animals use that oxygen in respiration. <strong>Temperature moderation</strong> &mdash; greenhouse gases trap heat, so temperatures do not swing between frigid nights and scorching days as they would on an airless world like the Moon. <strong>UV protection</strong> &mdash; the ozone layer absorbs most harmful ultraviolet radiation, which would otherwise penetrate cells and damage DNA. (pp. 77 and 81)</div>
+  </li>
+</ol>
+
+<p class="part">Part D &middot; Extended Response <span class="pts">6 points each</span></p>
+<ol class="q" style="counter-reset: qn 17;">
+  <li>
+    <span class="ans">See rubric.</span>
+    <div class="rubric"><strong>Rubric:</strong> <strong>1.5 pts &mdash; unequal heating.</strong> More solar energy strikes the equator because the Sun&rsquo;s rays arrive nearly straight on there, while the same energy is spread over a larger area at higher latitudes. Warm tropical seas reach 28&deg;C (82&deg;F) or higher in summer and autumn.<br><br><strong>1.5 pts &mdash; evaporation and latent heat.</strong> The warm sea evaporates water, creating a large humid air mass. As that air rises and its water vapor condenses, latent heat is released, warming the air further and driving it higher still &mdash; a self-feeding engine. The text notes a single hurricane can release energy approaching the total annual electrical consumption of the United States.<br><br><strong>1.5 pts &mdash; low pressure.</strong> Rising warm air leaves a low-pressure zone at the surface (a tropical depression). Surrounding air rushes in to fill it, feeding still more warm moist air into the system, and thunderstorms build around it.<br><br><strong>1.5 pts &mdash; Coriolis effect and structure.</strong> Earth&rsquo;s rotation deflects the inrushing air, setting the storm rotating counterclockwise in the Northern Hemisphere and clockwise in the Southern. Given low wind shear, the system organizes into a hurricane within two to three days, with a calm eye, an eyewall of strongest winds, and spiral rain bands.<br><br>Full credit for a clear causal chain even if the wording differs. Credit the closing observation that a hurricane weakens over cooler water or land because its latent heat source is cut off. (pp. 69&ndash;70, 84, 90&ndash;91, 108&ndash;109)</div>
+  </li>
+</ol>
+
+</div>
+
+</body></html>

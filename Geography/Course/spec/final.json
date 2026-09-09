@@ -1,0 +1,423 @@
+{
+ "id": "final",
+ "eyebrow": "Physical Geography &middot; Week 26 &middot; Final Examination",
+ "title": "Final Exam",
+ "sub": "Units 12&ndash;19 &middot; pages 164&ndash;293 &nbsp;&middot;&nbsp; 100 points &nbsp;&middot;&nbsp; 90 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Final Exam &middot; Units 12&ndash;19 (pages 164&ndash;293)",
+ "instructions": "This exam covers the second half of the course only, with additional weight on Units 18 and 19. Circle one answer for multiple choice. Write on the lines provided; use the back of the page if you need more room. Budget roughly 40 minutes for Parts A and B, 25 minutes for Part C, and 25 minutes for Part D.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "In a warm climate, where chemical weathering dominates, soils tend to be",
+     "choices": [
+      "made almost entirely of organic matter",
+      "too thin to support plants",
+      "sandy and coarse-textured",
+      "richer in clay"
+     ],
+     "answer": 3,
+     "why": "p. 174 &mdash; chemical weathering reactions, especially the formation of clay minerals, proceed fastest under warm conditions."
+    },
+    {
+     "stem": "Which parent material tends to generate especially fertile soil because it supplies phosphorus along with iron, magnesium, and calcium?",
+     "choices": [
+      "Loose windblown sand",
+      "Granite",
+      "Sandstone",
+      "Basalt"
+     ],
+     "answer": 3,
+     "why": "p. 175 &mdash; quartz-rich materials such as granite and sandstone yield sandy soils instead. River-flood deposits also make good soils because they are rich in clay minerals."
+    },
+    {
+     "stem": "The crust makes up what share of Earth by mass?",
+     "choices": [
+      "Less than 1%",
+      "About 31%",
+      "About 68%",
+      "About 85%"
+     ],
+     "answer": 0,
+     "why": "p. 182 &mdash; the mantle is about 68% and the core about 31%."
+    },
+    {
+     "stem": "Which discovery finally supplied the mechanism for continental drift that Wegener had lacked?",
+     "choices": [
+      "Isostatic rebound",
+      "The Coriolis effect",
+      "Mantle plumes",
+      "Seafloor spreading"
+     ],
+     "answer": 3,
+     "why": "p. 190 &mdash; hot mantle rises at a mid-ocean ridge, erupts as new seafloor, and pushes older crust outward, carrying the continents along like a conveyor belt."
+    },
+    {
+     "stem": "Volcanic island chains such as Japan, Indonesia, and the Aleutians form at",
+     "choices": [
+      "divergent boundaries",
+      "transform boundaries",
+      "ocean-to-ocean convergent boundaries, as island arcs",
+      "continent-to-continent collision zones"
+     ],
+     "answer": 2,
+     "why": "p. 195 &mdash; the older, denser oceanic plate subducts and a line of volcanoes grows on the upper plate. Most of the Ring of Fire is ocean-to-ocean convergence."
+    },
+    {
+     "stem": "A <em>thrust fault</em> is a type of",
+     "choices": [
+      "strike-slip fault",
+      "joint",
+      "normal fault",
+      "reverse fault in which the fault plane is nearly horizontal"
+     ],
+     "answer": 3,
+     "why": "p. 202 &mdash; rocks can slip many miles along thrust faults, which is how converging continental crust stacks up and rises into mountain ranges."
+    },
+    {
+     "stem": "The 2011 T&#333;hoku earthquake off northeastern Japan had a magnitude of about",
+     "choices": [
+      "7.0",
+      "8.0",
+      "9.0",
+      "10.0"
+     ],
+     "answer": 2,
+     "why": "p. 205 &mdash; the most powerful ever to strike Japan and among the top five known worldwide. Most of the damage came from the tsunami it generated rather than the shaking."
+    },
+    {
+     "stem": "Which of the following can induce earthquakes through human activity?",
+     "choices": [
+      "Building a water reservoir on an active fault, where the water lubricates the fault and its weight stresses the bedrock",
+      "Drilling a water well in a desert basin",
+      "Constructing buildings to earthquake-safe codes",
+      "Planting vegetation on a steep slope"
+     ],
+     "answer": 0,
+     "why": "p. 211 &mdash; the text also lists injecting sewage or chemical waste into a fault, and nuclear explosions, which is one way to detect that a nation has tested a bomb."
+    },
+    {
+     "stem": "Mantle plumes are thought to rise at approximately what rate compared with ordinary mantle convection?",
+     "choices": [
+      "About 10 times slower",
+      "At the same rate",
+      "About 10 times faster",
+      "About 100 times faster"
+     ],
+     "answer": 2,
+     "why": "p. 214 &mdash; the ascending column may be kilometers to tens of kilometers across, spreading near the surface into a mushroom head tens to over 100 km wide."
+    },
+    {
+     "stem": "Pillow basalts form when",
+     "choices": [
+      "hot lava oozes into cold seawater and chills quickly on the outside",
+      "ash falls back onto a volcano&rsquo;s flanks",
+      "thick felsic lava piles up around a vent",
+      "lava cools slowly enough to form columnar joints"
+     ],
+     "answer": 0,
+     "why": "p. 222 &mdash; the lava then behaves a little like toothpaste, forming blobs that pile around a seafloor vent. In terms of area there is very likely more pillow basalt on the seafloor than any other rock on Earth."
+    },
+    {
+     "stem": "What is the most abundant volatile dissolved in magma?",
+     "choices": [
+      "Carbon dioxide",
+      "Sulphur dioxide",
+      "Water",
+      "Nitrogen"
+     ],
+     "answer": 2,
+     "why": "p. 216 &mdash; followed typically by carbon dioxide, and then by sulphur dioxide."
+    },
+    {
+     "stem": "As a wave approaches the shore, its amplitude increases and its wavelength decreases because",
+     "choices": [
+      "salinity increases in shallow water",
+      "the tide is rising at the same time",
+      "the wind always strengthens near land",
+      "the wave&rsquo;s orbits are flattened and slowed by dragging on the bottom"
+     ],
+     "answer": 3,
+     "why": "p. 229 &mdash; the wave begins to &ldquo;feel the bottom&rdquo; once the water is shallower than the wave base. The waves steepen, lean forward, and eventually break."
+    },
+    {
+     "stem": "<em>Isostatic</em> sea-level change refers to",
+     "choices": [
+      "local change caused by uplift or subsidence of the crust",
+      "daily change caused by the Moon&rsquo;s gravity",
+      "seasonal change caused by beach erosion",
+      "global change driven by the volume of glacial ice"
+     ],
+     "answer": 0,
+     "why": "p. 237 &mdash; usually from the gain or loss of glacial ice loading the crust. Several hundred meters of rebound has occurred around Hudson Bay since the last glaciation."
+    },
+    {
+     "stem": "Carbonate reefs form in tropical regions where",
+     "choices": [
+      "tidal ranges are extremely large",
+      "rivers deliver large volumes of sand and mud",
+      "there is little or no input of clastic sediment from streams",
+      "the water is deeper than 1,000 meters"
+     ],
+     "answer": 2,
+     "why": "p. 235 &mdash; corals, algae, and shelled organisms need clear water. Upwelling currents help by bringing nutrients, so long as the water stays warmer than about 25&deg;C."
+    },
+    {
+     "stem": "Trellis drainage patterns typically develop where",
+     "choices": [
+      "streams radiate outward from a central high point",
+      "there is no coherent pattern to the rivers at all",
+      "the underlying rock has no particular fabric or structure",
+      "sedimentary rocks have been folded or tilted and then eroded to varying degrees"
+     ],
+     "answer": 3,
+     "why": "p. 247 &mdash; dendritic is the pattern for structureless rock, radial for volcanoes and domes, and deranged for basins with no coherent pattern."
+    },
+    {
+     "stem": "Compared with laminar flow, turbulent flow in a stream is",
+     "choices": [
+      "more effective at keeping sediment in suspension",
+      "less able to erode the stream bed",
+      "found only in very slow streams",
+      "associated with clear water"
+     ],
+     "answer": 0,
+     "why": "p. 252 &mdash; fast streams tend to be turbulent, with chaotic flow paths and muddy water; slow streams tend toward laminar flow, straight-line paths, and clear water."
+    },
+    {
+     "stem": "A stream&rsquo;s <em>dissolved load</em> represents on average about what share of the mass of material it transports?",
+     "choices": [
+      "About 5%",
+      "About 15%",
+      "About 50%",
+      "About 85%"
+     ],
+     "answer": 1,
+     "why": "p. 252 &mdash; it includes ions such as calcium and chloride carried in solution, as opposed to the bedload and suspended load."
+    },
+    {
+     "stem": "Sand generally begins to move when the wind reaches a velocity of about",
+     "choices": [
+      "1.5 m/sec",
+      "4.5 m/sec",
+      "15 m/sec",
+      "45 m/sec"
+     ],
+     "answer": 1,
+     "why": "p. 263 &mdash; it first rolls along in traction, then begins saltating as wind speed increases. Much of what we know comes from Brigadier Ralph Bagnold&rsquo;s desert experiments in the 1930s and 40s."
+    },
+    {
+     "stem": "Longitudinal dunes differ from transverse dunes in that longitudinal dunes",
+     "choices": [
+      "do not migrate at all, but lengthen over time",
+      "have horns that point upwind",
+      "form only on coastlines",
+      "migrate downwind much more rapidly"
+     ],
+     "answer": 0,
+     "why": "p. 269 &mdash; they form where wind blows from more than one direction and sand is abundant. Seifs are the elongate variety with sharp knife-like crests."
+    },
+    {
+     "stem": "Star dunes form where",
+     "choices": [
+      "the wind blows steadily from a single direction",
+      "wind comes from several different directions, and they grow vertically rather than laterally",
+      "vegetation anchors the flanks of the dune",
+      "sand is extremely scarce"
+     ],
+     "answer": 1,
+     "why": "p. 269 &mdash; pyramidal mounds with slipfaces on three or more radiating arms, common to ergs. The Sand Hills of Nebraska are remnants of an ancient sand sea."
+    },
+    {
+     "stem": "A series of alluvial fans that coalesce along the base of a mountain front forms a",
+     "choices": [
+      "playa",
+      "bajada",
+      "erg",
+      "yardang"
+     ],
+     "answer": 1,
+     "why": "p. 270 &mdash; Bajada is Spanish for inclination or descent. They are common in dry climates such as the Southwestern United States, where flash floods deposit alluvium over time."
+    },
+    {
+     "stem": "Continental glaciers flow",
+     "choices": [
+      "downhill, following the slope of the land beneath them",
+      "outward from where the ice is thickest toward the thinner edges",
+      "only during the summer melt season",
+      "in whatever direction the prevailing wind pushes them"
+     ],
+     "answer": 1,
+     "why": "p. 280 &mdash; the areas they cover are generally flat, so the thickest central parts flow almost vertically downward while the peripheral parts flow outward. Alpine glaciers, by contrast, are controlled by the slope beneath the ice."
+    },
+    {
+     "stem": "Antarctica and Greenland together contain approximately what share of all the world&rsquo;s glacial ice?",
+     "choices": [
+      "About 50%",
+      "About 75%",
+      "About 99%",
+      "100%"
+     ],
+     "answer": 2,
+     "why": "p. 280 &mdash; and about 68% of all of Earth&rsquo;s freshwater. The Antarctic Ice Sheet holds roughly 17 times as much ice as the Greenland Ice Sheet."
+    },
+    {
+     "stem": "If the entire Antarctic Ice Sheet were to melt, sea level would rise by about",
+     "choices": [
+      "8 meters",
+      "80 meters",
+      "800 meters",
+      "2 meters"
+     ],
+     "answer": 1,
+     "why": "p. 280 &mdash; enough to submerge most of Earth&rsquo;s major cities."
+    },
+    {
+     "stem": "<em>Basal sliding</em> occurs when",
+     "choices": [
+      "the base of the glacier is warm enough that a film of water forms between the ice and the material beneath",
+      "the glacier is frozen solidly to the bedrock beneath it",
+      "crevasses open all the way to the glacier&rsquo;s bed",
+      "the glacier is retreating rather than advancing"
+     ],
+     "answer": 0,
+     "why": "p. 284 &mdash; if the base is cold the ice is stuck fast and all movement must occur by internal flow. Thin leading edges often freeze to their bed while the rest of the glacier keeps sliding, thrusting ice over the stuck portion."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; Matching",
+   "type": "match",
+   "ptsEach": 8,
+   "questions": [
+    {
+     "stem": "<strong>Set 1 &mdash; Units 12 through 15.</strong> Write the letter of the correct definition next to each term.",
+     "left": [
+      "Hydrolysis",
+      "Mass wasting",
+      "Lithosphere",
+      "Apparent polar wander",
+      "Joint",
+      "Elastic deformation",
+      "Flux melting",
+      "Tephra"
+     ],
+     "right": [
+      "The downslope movement of soil, regolith, and rock under gravity",
+      "Rock fragments ejected during an explosive eruption",
+      "A chemical reaction between water and another compound",
+      "Deformation in which rock returns to its original shape once stress is removed",
+      "Melting caused when water lowers the melting temperature of mantle rock",
+      "The brittle, rigid outer layer that makes up the tectonic plates",
+      "A fracture in rock along which there has been no movement",
+      "The illusion that the magnetic pole moved, produced by drifting continents"
+     ],
+     "answer": [
+      2,
+      0,
+      5,
+      7,
+      6,
+      3,
+      4,
+      1
+     ],
+     "why": "1 point each. Hydrolysis p. 170 &middot; Mass wasting p. 167 &middot; Lithosphere p. 183 &middot; Apparent polar wander p. 189 &middot; Joint p. 202 &middot; Elastic deformation p. 200 &middot; Flux melting p. 213 &middot; Tephra p. 217."
+    },
+    {
+     "stem": "<strong>Set 2 &mdash; Units 16 through 19.</strong> Write the letter of the correct definition next to each term.",
+     "left": [
+      "Wave base",
+      "Baymouth bar",
+      "Point bar",
+      "Porosity",
+      "Ventifact",
+      "Erg",
+      "Firn",
+      "Esker"
+     ],
+     "right": [
+      "A sand sea &mdash; a broad desert area covered by wind-blown sand",
+      "Compacted granular snow partway to becoming glacial ice",
+      "The depth of one-half wavelength to which a wave disturbs the water",
+      "A sinuous ridge left by sediment from a stream inside a glacier",
+      "A smooth, faceted rock polished by wind abrasion",
+      "A spit that extends across a bay and nearly closes it off",
+      "The pore space between grains in a rock",
+      "A crescent-shaped deposit on the inside of a stream bend"
+     ],
+     "answer": [
+      2,
+      5,
+      7,
+      6,
+      4,
+      0,
+      1,
+      3
+     ],
+     "why": "1 point each. Wave base p. 229 &middot; Baymouth bar p. 234 &middot; Point bar p. 248 &middot; Porosity p. 258 &middot; Ventifact p. 263 &middot; Erg p. 265 &middot; Firn p. 281 &middot; Esker p. 292."
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain why weathering must happen before soil can form, and name two conditions that prevent soil from developing.",
+     "answer": "Soil is made largely of the products of weathering &mdash; clay minerals and quartz fragments &mdash; mixed with organic matter, so rock must be broken down first. Soil fails to develop on steep slopes, where erosion outpaces formation, and on newly created surfaces, since even ideal conditions require thousands of years.",
+     "rubric": "1 pt &mdash; mechanical and chemical weathering supply the mineral fraction of soil (about 45%), dominated by clay minerals and quartz; without weathering there is nothing for organic matter to mix with. 1 pt each for two blockers, chosen from: steep slopes, where the rate of erosion exceeds the rate of soil formation; too little time, since soil takes thousands of years and recently glaciated or newly deposited surfaces are too young; too much water, which leaches nutrients and acidifies; too little water, which leaves salts and carbonates and little organic material; and areas of active mass wasting. (pp. 174&ndash;176)"
+    },
+    {
+     "stem": "Explain what seismic waves have revealed about the structure of Earth&rsquo;s interior.",
+     "answer": "P-waves slow at the mantle&ndash;core boundary, showing the outer core is less rigid than the mantle. S-waves stop there entirely, and since only solids resist a change in shape, the outer core must be liquid. S-waves reaching the inner core show it is solid.",
+     "rubric": "1 pt &mdash; P-waves are fastest, travel by compression and expansion, and bend when passing between layers; they slow at the mantle&ndash;core boundary, producing the P-wave shadow zone between 104&deg; and 140&deg; from the focus. 1 pt &mdash; S-waves move material perpendicular to travel and can propagate only through solids, so their disappearance at that boundary proves the outer core is liquid. 1 pt &mdash; other lines of evidence agree: Earth&rsquo;s overall density exceeds that of crustal rock, so the core must be dense metal; Earth has a magnetic field, and iron and nickel are magnetic; and metallic meteorites resemble core material. (pp. 180&ndash;184)"
+    },
+    {
+     "stem": "Explain why the largest earthquakes on Earth occur at subduction zones.",
+     "answer": "At a subduction zone an enormous area of one plate is forced beneath another, generating reverse and thrust faults. Because magnitude depends on the area of the rupture surface and the amount of displacement, the vast contact area between the plates allows far larger ruptures than any other setting.",
+     "rubric": "1 pt &mdash; earthquakes at convergent boundaries mark the motion of the subducting lithosphere plunging through the mantle, creating reverse and thrust faults. 1 pt &mdash; magnitude is proportional to the area of the rupture surface and the amount of displacement, and a subduction interface offers an enormous area. 1 pt &mdash; the largest ones occur in the upper section where the rock is relatively cool and therefore brittle enough to store stress before rupturing; quakes there can occur at well over 100 km depth, versus under 30 km at transform boundaries. Credit real examples: the 9.0 T&#333;hoku (2011), the Cascadia rupture of 1700, or the 9.2 Great Alaska (1964). (pp. 205&ndash;206, 211)"
+    },
+    {
+     "stem": "Explain the difference between an erosion-dominated coast and a deposition-dominated coast, and identify what determines which type a coast will be.",
+     "answer": "Erosional coasts are irregular with high relief and are worn into cliffs, caves, arches, and stacks; depositional coasts are relatively straight and low, building beaches, spits, and barrier islands. The main determining factor is the coast&rsquo;s history of tectonic activity.",
+     "rubric": "1 pt erosional &mdash; coasts uplifted within the past several million years have irregular shapes; refraction focuses wave energy on headlands, cutting sea caves, arches, stacks, cliffs, and wave-cut platforms, and straightening the coast over millions of years. Example: the Pacific coast of the U.S. and Canada. 1 pt depositional &mdash; coasts not uplifted for tens of millions of years are relatively straight with little relief, and build beaches, spits, baymouth bars, tombolos, and barrier islands from river-supplied sediment. Example: the U.S. Atlantic and Gulf coasts. 1 pt &mdash; the main determining factor is the history of tectonic activity, and both processes operate on almost every coast to some degree. (pp. 232&ndash;233)"
+    },
+    {
+     "stem": "Explain how a sand dune migrates, using the terms <em>stoss</em>, <em>slip face</em>, and <em>angle of repose</em>.",
+     "answer": "Sand creeps and saltates up the gentle windward (stoss) slope to the crest, then spills down the steep leeward slip face and comes to rest at its angle of repose in the zone of stagnant air. Continual removal from the stoss side and deposition on the slip face moves the whole dune downwind.",
+     "rubric": "1 pt &mdash; the dune is asymmetric, with a gentle windward or stoss slope and a steep leeward slip face. 1 pt &mdash; saltating and creeping grains climb the stoss slope to the crest and pour over the top. 1 pt &mdash; they come to rest at the angle of repose, the maximum angle the sand pile will support, in the zone of stagnant air behind the crest; because sand is continually eroded from the stoss side and deposited on the slip face, the dune is unstable and migrates downwind, burying its own earlier layers and creating cross-beds. (pp. 264&ndash;266)"
+    },
+    {
+     "stem": "Contrast the landscapes produced by continental glaciation with those produced by alpine glaciation.",
+     "answer": "Continental glaciation erodes the land into relatively flat plains, with most relief coming from deposits such as drumlins, eskers, and moraines. Alpine glaciation produces dramatic topographic variety &mdash; U-shaped valleys, ar&ecirc;tes, cols, horns, cirques, and hanging valleys.",
+     "rubric": "1.5 pts continental &mdash; tends to erode the land surface into relatively flat bedrock plains, especially where the underlying rock is uniform in strength, eroding weaker rock preferentially where it is not; much of central and eastern Canada under the Laurentide Ice Sheet was planed this way, and the existing relief is largely depositional (drumlins, eskers, moraines). 1.5 pts alpine &mdash; produces great topographic variability, with the U-shaped valley as the key feature, plus ar&ecirc;tes, cols, horns, cirques, hanging valleys, and truncated spurs. Credit the note that both types produce drumlins, roches moutonn&eacute;es, and glacial striations. (pp. 285&ndash;287)"
+    }
+   ]
+  },
+  {
+   "name": "Part D &middot; Extended Response",
+   "type": "essay",
+   "ptsEach": 8,
+   "lines": 14,
+   "questions": [
+    {
+     "stem": "Water, wind, and ice all erode, transport, and deposit material. Compare all three. For each agent, explain what allows it to move material and what limits it, and name at least two landforms it creates. Then argue which agent you think shapes the greatest share of Earth&rsquo;s land surface, and support your choice.",
+     "answer": "See rubric.",
+     "rubric": "<strong>2 pts &mdash; running water.</strong> Capacity is governed by flow velocity: the faster the flow, the larger the particles it carries. Material moves by traction, saltation, suspension, and solution, and turbulent flow suspends far more than laminar flow. Limits: it needs a gradient, and velocity collapses when a stream spreads onto its floodplain. Landforms: V-shaped valleys, canyons, meanders, oxbow lakes, point bars, cut banks, natural levées, floodplains, deltas, alluvial fans, and river terraces.<br><br><strong>2 pts &mdash; wind.</strong> Needs fine, dry, loose material and, critically, an absence of vegetation, since plants both drag on the wind and bind particles down. Sand moves above about 4.5 m/sec, by traction (20&ndash;25%) and saltation (over 50%). Limits: it can lift only small particles, abrasion reaches barely a meter or two above the ground, and clay cohesion resists erosion. Landforms: desert pavement, blowout depressions, ventifacts, yardangs, and the whole family of dunes &mdash; barchan, transverse, parabolic, longitudinal, star.<br><br><strong>2 pts &mdash; ice.</strong> Moves under its own weight by internal plastic deformation below 50&ndash;100 m and, where the base is warm, by basal sliding. The ice itself is soft (Mohs 1.5); the erosion is done by embedded rock fragments acting like sandpaper. Limits: it requires a cold climate and long timescales, and a glacier frozen to its bed cannot slide. Landforms: U-shaped valleys, ar&ecirc;tes, horns, cirques, hanging valleys, drumlins, striations, moraines, eskers, kettle lakes, and outwash plains.<br><br><strong>2 pts &mdash; the argument.</strong> Any defensible position, well supported. The strongest case is running water: the text opens Unit 17 by calling streams &ldquo;the most important agents of erosion and transportation of sediments on Earth&rsquo;s surface,&rdquo; responsible for much of the topography around us, and water operates across nearly every climate. A student may instead argue for ice on the grounds that glaciers covered at least 30% of land during the Pleistocene and left the present form of whole continents, or for wind on the grounds that deserts cover a large fraction of every continent. Credit the quality of the reasoning, not the choice.<br><br>(pp. 243, 251&ndash;253, 261&ndash;269, 280&ndash;292)"
+    },
+    {
+     "stem": "Plate tectonics has been called the unifying theory of geology. Using material from this half of the course, explain how plate tectonics accounts for where earthquakes occur, where volcanoes occur, and where mountain ranges form &mdash; and how it also helps explain the shape of coastlines. Support your answer with at least three specific real-world examples.",
+     "answer": "See rubric.",
+     "rubric": "<strong>2 pts &mdash; earthquakes.</strong> Nearly 95% occur at plate boundaries, because that is where lithosphere is deformed until it ruptures (elastic rebound). About 80% ring the Pacific, which is lined with convergent and transform boundaries, and 15% fall in the Mediterranean-Asiatic Belt. Depth and size vary by boundary type: shallow and small at mid-ocean ridges where crust is young, thin, and hot; shallow but deadly at transform boundaries; deepest and largest at subduction zones.<br><br><strong>2 pts &mdash; volcanoes.</strong> Magma forms in three tectonic settings by three distinct mechanisms: decompression melting at divergent boundaries, flux melting at convergent boundaries (water driven out of the subducting plate lowers the mantle&rsquo;s melting point), and decompression melting in mantle plumes. Composite volcanoes sit at subduction zones; shield volcanoes above mantle plumes; and most of Earth&rsquo;s volcanism occurs unseen along the spreading ridges.<br><br><strong>2 pts &mdash; mountain ranges.</strong> Convergence builds mountains. Ocean-to-continent convergence produces continental volcanic arcs and batholiths; continent-to-continent convergence produces folding and thrust faulting with no volcanism. Tension at divergent settings breaks crust into basin-and-range topography along normal faults.<br><br><strong>1.5 pts &mdash; coastlines.</strong> A coast&rsquo;s tectonic history determines whether it is erosional or depositional. Recently uplifted coasts are irregular and erosion-dominated, cut into cliffs, arches, and stacks; long-quiet coasts are straight, low, and depositional, building barrier islands. Tectonic sea-level change and post-glacial isostatic rebound shift the land relative to the sea.<br><br><strong>0.5 pt &mdash; examples.</strong> At least three, drawn from: the San Andreas Fault (transform); the Cascades and Juan de Fuca subduction; the Himalayas (continent&ndash;continent); the Mid-Atlantic Ridge and the Great Rift Valley (divergent); Hawaii (mantle plume); the Ring of Fire; the Basin and Range; the Pacific versus Atlantic coasts of North America.<br><br>(pp. 192&ndash;197, 200&ndash;206, 213&ndash;214, 232&ndash;238)"
+    }
+   ]
+  }
+ ]
+}

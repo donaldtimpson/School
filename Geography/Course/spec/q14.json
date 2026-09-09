@@ -1,0 +1,118 @@
+{
+ "id": "q14",
+ "eyebrow": "Physical Geography &middot; Week 15 &middot; Quiz 14",
+ "title": "Unit 12: Weathering &amp; Soils",
+ "sub": "Reading: pages 164&ndash;178 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 14 &middot; Unit 12 (pages 164&ndash;178)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "Which of the following is <em>not</em> an agent of mechanical weathering?",
+     "choices": [
+      "Hydrolysis of feldspar into clay minerals",
+      "The formation of salt crystals within the rock",
+      "The decrease in pressure that follows removal of overlying rock",
+      "Freezing and thawing of water in cracks"
+     ],
+     "answer": 0,
+     "why": "p. 165 &mdash; hydrolysis is a <em>chemical</em> weathering process. The fourth mechanical agent is cracking by plant roots and exposure by burrowing animals."
+    },
+    {
+     "stem": "Frost wedging is most effective in a climate where",
+     "choices": [
+      "temperatures stay warm year-round",
+      "freezing and thawing alternate frequently",
+      "almost no water is available",
+      "temperatures stay below freezing year-round"
+     ],
+     "answer": 1,
+     "why": "p. 166 &mdash; its effectiveness depends on the <em>frequency</em> of freeze&ndash;thaw cycles. Talus slopes at the base of steep rocky slopes are the characteristic result."
+    },
+    {
+     "stem": "The chemical weathering of feldspar by hydrolysis produces",
+     "choices": [
+      "hematite",
+      "clay minerals such as kaolinite",
+      "quartz",
+      "pure calcite"
+     ],
+     "answer": 1,
+     "why": "p. 170 &mdash; along with dissolved calcium and carbonate ions, which may later combine in the ocean to form calcite. Pyroxene similarly alters to chlorite or smectite, and olivine to serpentine."
+    },
+    {
+     "stem": "Carbonic acid, which drives most chemical weathering, forms when",
+     "choices": [
+      "water combines with carbon dioxide",
+      "water combines with oxygen",
+      "sulfur dioxide combines with nitrogen",
+      "clay minerals dissolve in rainwater"
+     ],
+     "answer": 0,
+     "why": "p. 169 &mdash; H&#8322;O + CO&#8322; &rarr; H&#8322;CO&#8323;. Soil typically holds far more CO&#8322; than the air, so water percolating through soil becomes significantly more acidic."
+    },
+    {
+     "stem": "Roughly what share of a typical soil is empty pore space, filled to varying degrees with air and water?",
+     "choices": [
+      "About 5%",
+      "About 25%",
+      "About 45%",
+      "About 50%"
+     ],
+     "answer": 3,
+     "why": "p. 174 &mdash; the rest is about 45% minerals and about 5% organic matter."
+    },
+    {
+     "stem": "Which soil horizon is the eluviated, or leached, layer from which some clay and iron have been removed, leaving it pale and sandier?",
+     "choices": [
+      "O",
+      "A",
+      "E",
+      "B"
+     ],
+     "answer": 2,
+     "why": "p. 177 &mdash; the horizons run O (organic matter), A (partially decayed organics mixed with mineral material), E (leached), B (accumulation of clay and iron from above), C (incomplete weathering), and R (parent material or bedrock)."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "Quartz is virtually unaffected by chemical weathering.",
+     "answer": true,
+     "why": "p. 169 &mdash; which is exactly why quartz grains dominate sand and are a principal product of weathering and erosion. Feldspar, by contrast, is easily altered."
+    },
+    {
+     "stem": "Steep slopes tend to develop the thickest, best-developed soils.",
+     "answer": false,
+     "why": "Soil can only develop where surface material stays in place. On steep slopes the rate of erosion exceeds the rate of soil formation, so steep slopes tend to have little or no soil. (p. 176)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Mechanical and chemical weathering are described as helping each other along. Explain how each one assists the other.",
+     "answer": "Mechanical weathering breaks rock into smaller fragments, exposing fresh surfaces for chemical attack. Chemical weathering alters minerals and weakens the rock, making it more susceptible to mechanical breakdown.",
+     "rubric": "1.5 pts each direction. <strong>Mechanical helps chemical</strong> &mdash; breaking rock into smaller pieces creates far more surface area, and every new surface is fresh ground for chemical processes to attack. <strong>Chemical helps mechanical</strong> &mdash; altering minerals to less stable forms weakens the rock so it fractures more readily. Credit the note that together they yield two critical products: sedimentary clasts and ions that become sedimentary rock, and the soil we depend on. (p. 165)"
+    },
+    {
+     "stem": "Name the four factors that control the nature of a soil and the rate at which it forms, and explain the effect of any one of them.",
+     "answer": "Climate, parent material, slope, and the amount of time available.",
+     "rubric": "2 pts for naming all four (0.5 each). 1 pt for a correct explanation of any one. <strong>Climate</strong> &mdash; soil forms best under temperate to tropical conditions with moderate precipitation; too much water leaches nutrients and acidifies, too little leaves salts and carbonates and little organic matter. <strong>Parent material</strong> &mdash; quartz-rich rock like granite yields sandy soil, while basalt yields fertile soil rich in phosphorus, iron, magnesium, and calcium. <strong>Slope</strong> &mdash; steep slopes erode faster than soil can form. <strong>Time</strong> &mdash; even under ideal conditions soil takes thousands of years, so recently glaciated ground has young, poorly developed soil. (pp. 174&ndash;176)"
+    }
+   ]
+  }
+ ]
+}

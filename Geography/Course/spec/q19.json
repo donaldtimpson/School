@@ -1,0 +1,118 @@
+{
+ "id": "q19",
+ "eyebrow": "Physical Geography &middot; Week 20 &middot; Quiz 19",
+ "title": "Unit 16: Shaped by Coastal Processes",
+ "sub": "Reading: pages 226&ndash;241 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 19 &middot; Unit 16 (pages 226&ndash;241)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "Three factors determine how large ocean waves become. They are",
+     "choices": [
+      "wind speed, how long the wind blows, and the fetch",
+      "water temperature, salinity, and depth",
+      "tidal range, moon phase, and latitude",
+      "wavelength, amplitude, and velocity"
+     ],
+     "answer": 0,
+     "why": "pp. 227&ndash;228 &mdash; the fetch is the area of water the wind blows across. With 92 km/h winds blowing at least 69 hours, waves average nearly 15 m high."
+    },
+    {
+     "stem": "The water beneath a passing wave is disturbed to a depth of approximately",
+     "choices": [
+      "twice the wavelength",
+      "the wave&rsquo;s amplitude",
+      "one-half of the wavelength",
+      "the full wavelength"
+     ],
+     "answer": 2,
+     "why": "p. 229 &mdash; this depth is the <em>wave base</em>. Because ocean wavelengths rarely exceed 200 m, the wave base only interacts with the bottom near shore, where it slows and steepens the waves until they break."
+    },
+    {
+     "stem": "Longshore drift is the combined effect of",
+     "choices": [
+      "wave refraction and coastal straightening",
+      "eustatic and isostatic sea-level change",
+      "tides and rip currents",
+      "the longshore current in the surf zone plus swash and backwash on the beach"
+     ],
+     "answer": 3,
+     "why": "p. 231 &mdash; swash pushes sediment up the beach at an angle while backwash carries it straight back down, moving particles in a zigzag. Together with the longshore current this shifts enormous volumes of sediment along coasts."
+    },
+    {
+     "stem": "An elongated sandy deposit that extends out into open water in the direction of the longshore current is called",
+     "choices": [
+      "a spit",
+      "a barrier island",
+      "a berm",
+      "a tombolo"
+     ],
+     "answer": 0,
+     "why": "p. 234 &mdash; a spit that extends far enough to close off a bay becomes a baymouth bar; a deposit connecting the mainland to a near-shore island is a tombolo."
+    },
+    {
+     "stem": "Barrier islands are common along which coastline?",
+     "choices": [
+      "The Pacific coast of Canada and the northwestern United States",
+      "The U.S. Gulf Coast from Texas to Florida and the Atlantic Coast to Massachusetts",
+      "The fjord coast of Norway",
+      "Any coast that has been recently uplifted by tectonic activity"
+     ],
+     "answer": 1,
+     "why": "p. 235 &mdash; they form where coastal sediment is abundant and relief is low. North of Boston the coast turns rocky, partly because of post-glacial crustal rebound."
+    },
+    {
+     "stem": "Groins are built perpendicular to the beach and trap sediment by",
+     "choices": [
+      "blocking incoming waves entirely",
+      "slowing the longshore current",
+      "raising the local sea level",
+      "increasing the tidal range"
+     ],
+     "answer": 1,
+     "why": "p. 240 &mdash; the trapped sediment is sediment that would otherwise have continued down the coast, which is why groin fields such as New Jersey&rsquo;s worsen erosion farther along the beach."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "On an irregular coast, wave energy is focused on the headlands, which over millions of years straightens the coastline.",
+     "answer": true,
+     "why": "p. 232 &mdash; refraction concentrates energy on headlands while the intervening bays receive less, so headlands erode into caves, arches, stacks, and wave-cut platforms."
+    },
+    {
+     "stem": "Beaches are typically wider and flatter in winter than in summer.",
+     "answer": false,
+     "why": "It is the reverse. Rough winter seas with short-wavelength, high-amplitude waves strip sand offshore into sandbars; the gentler long-wavelength waves of summer push it back, making the beach wider and flatter. (p. 234)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain why damming a river can put beaches many kilometers away at risk.",
+     "answer": "Most beach sediment comes from rivers. A dam traps the river&rsquo;s sediment load in its reservoir, so for as long as the reservoir is filling, that sediment never reaches the sea and the beaches downcoast are starved.",
+     "rubric": "1 pt &mdash; most of the sediment forming coastal beaches is delivered by large rivers. 1 pt &mdash; when a river is dammed its sediment load settles out in the reservoir instead, and this continues for the century or two the reservoir takes to fill. 1 pt &mdash; without resupply, beaches within tens of kilometers of the river mouth (or more) erode, including spits, baymouth bars, and tombolos. Credit the conclusion the text draws: to take care of beaches, you have to take care of rivers. (p. 241)"
+    },
+    {
+     "stem": "Name and explain the three mechanisms of sea-level change.",
+     "answer": "Eustatic (global, from ice volume or seafloor shape), isostatic (local, from crustal uplift or subsidence), and tectonic (local, from plate processes).",
+     "rubric": "1 pt each. <strong>Eustatic</strong> &mdash; global changes driven by the volume of glacial ice on land or by changes in seafloor shape from plate tectonics; roughly 125 m of rise over the past 20,000 years from glacial melting, now running about 3.2 mm/year since 1992. <strong>Isostatic</strong> &mdash; local changes from crust subsiding or rebounding, chiefly as ice is added or removed; several hundred meters of rebound around Hudson Bay since the last glaciation. <strong>Tectonic</strong> &mdash; local changes from plate processes, such as the roughly 1 mm/year uplift on western Vancouver Island caused by subduction of the Juan de Fuca Plate. (pp. 236&ndash;238)"
+    }
+   ]
+  }
+ ]
+}

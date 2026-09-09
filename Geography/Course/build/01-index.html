@@ -1,0 +1,258 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Course File Index</title><style>
+@page { size: letter; margin: 0.7in 0.75in 0.7in 0.75in; }
+
+* { box-sizing: border-box; }
+
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 10.6pt;
+  line-height: 1.45;
+  color: #16181a;
+  margin: 0;
+}
+
+/* ---------- Masthead ---------- */
+.masthead {
+  border-bottom: 3px solid #14676b;
+  padding-bottom: 9px;
+  margin-bottom: 18px;
+}
+.masthead .course {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.2pt;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #14676b;
+  font-weight: 700;
+  margin: 0 0 3px;
+}
+.masthead h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20pt;
+  line-height: 1.15;
+  font-weight: 700;
+  color: #0f2a2c;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+.masthead .sub {
+  font-size: 9.6pt;
+  color: #55605f;
+  margin: 5px 0 0;
+  font-style: italic;
+}
+
+/* ---------- Headings ---------- */
+h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12.2pt;
+  font-weight: 700;
+  color: #14676b;
+  margin: 22px 0 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #cfdcdb;
+  break-after: avoid;
+}
+h3 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10.4pt;
+  font-weight: 700;
+  color: #0f2a2c;
+  margin: 15px 0 5px;
+  break-after: avoid;
+}
+p { margin: 0 0 9px; }
+ul, ol { margin: 0 0 10px; padding-left: 20px; }
+li { margin-bottom: 4px; }
+
+/* ---------- Tables ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 9.3pt;
+  margin: 6px 0 14px;
+}
+th {
+  background: #14676b;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.3pt;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: left;
+  padding: 6px 8px;
+  font-weight: 700;
+}
+td { padding: 5px 8px; border-bottom: 1px solid #dde5e4; vertical-align: top; }
+tbody tr:nth-child(even) td { background: #f4f8f8; }
+tr { break-inside: avoid; }
+.num { text-align: center; white-space: nowrap; }
+
+/* exam-week and test rows */
+tr.exam td { background: #14676b !important; color: #fff; font-weight: 700; }
+tr.exam td em { color: #cfe6e6; }
+td.assess { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 8.6pt; }
+.tag {
+  display: inline-block;
+  background: #b8531a;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 7.4pt;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 1.5px 5px;
+  border-radius: 2px;
+}
+
+/* ---------- Callouts ---------- */
+.note {
+  background: #f4f8f8;
+  border-left: 3px solid #14676b;
+  padding: 9px 12px;
+  margin: 12px 0;
+  font-size: 9.7pt;
+  break-inside: avoid;
+}
+.note strong { color: #14676b; }
+
+/* ---------- Grade table ---------- */
+.grade-grid { display: flex; gap: 18px; align-items: flex-start; }
+.grade-grid > div { flex: 1; }
+
+/* ---------- Utility ---------- */
+.pagebreak { break-before: page; }
+.avoid { break-inside: avoid; }
+.small { font-size: 9pt; color: #55605f; }
+.footer-note {
+  margin-top: 22px;
+  padding-top: 8px;
+  border-top: 1px solid #cfdcdb;
+  font-size: 8.4pt;
+  color: #6a7574;
+  font-style: italic;
+}
+
+/* ================= ASSESSMENT STYLES ================= */
+.idline {
+  display: flex; gap: 20px; align-items: flex-end;
+  margin: 0 0 16px; font-size: 9.6pt;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.idline span { border-bottom: 1px solid #8b9998; padding-bottom: 2px; }
+.idline .nm { flex: 2.2; }
+.idline .dt { flex: 1; }
+.idline .sc { flex: 0.9; text-align: left; }
+
+.instr {
+  background: #f4f8f8; border-left: 3px solid #14676b;
+  padding: 7px 11px; margin: 0 0 15px; font-size: 9.4pt; font-style: italic;
+}
+
+.part {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 9.6pt; font-weight: 700; color: #fff; background: #14676b;
+  padding: 4px 9px; margin: 17px 0 10px; letter-spacing: 0.04em;
+  break-after: avoid;
+}
+.part:first-of-type { margin-top: 6px; }
+.part .pts { float: right; font-weight: 400; font-size: 8.8pt; color: #cfe6e6; }
+
+ol.q { list-style: none; counter-reset: qn; padding: 0; margin: 0; }
+ol.q > li {
+  counter-increment: qn; position: relative;
+  padding-left: 26px; margin-bottom: 11px; break-inside: avoid;
+}
+ol.q > li::before {
+  content: counter(qn) ".";
+  position: absolute; left: 0; top: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700; font-size: 9.6pt; color: #14676b;
+}
+ol.q > li > .stem { margin: 0 0 4px; }
+
+ul.ch { list-style: none; padding: 0; margin: 3px 0 0; }
+ul.ch li { margin: 0 0 2px; padding-left: 20px; position: relative; font-size: 10.2pt; }
+ul.ch li::before {
+  content: attr(data-l) ")"; position: absolute; left: 2px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 9.4pt; color: #55605f;
+}
+.tf { margin-top: 3px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 9.2pt; color: #55605f; }
+.lines { margin-top: 5px; }
+.lines div { border-bottom: 1px solid #c3cecd; height: 20px; }
+
+/* ---- Answer key ---- */
+.keyhead {
+  background: #7a2f10; color: #fff; padding: 7px 11px; margin: 0 0 14px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700; font-size: 11pt; letter-spacing: 0.05em;
+}
+.key { font-size: 9.9pt; }
+.key ol.q > li { margin-bottom: 8px; }
+.key ol.q > li::before { color: #7a2f10; }
+.ans { font-weight: 700; color: #7a2f10; }
+.why { color: #47504f; font-size: 9.2pt; font-style: italic; }
+.rubric { background: #faf5f2; border-left: 3px solid #7a2f10; padding: 6px 10px; margin: 4px 0 0; font-size: 9.2pt; }
+
+/* ---- matching ---- */
+table.matchtbl { margin: 4px 0 0; font-size: 10pt; }
+table.matchtbl td { border: none; padding: 2px 6px 2px 0; background: none !important; }
+td.mline { width: 34px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #8b9998; }
+td.ml { width: 47%; }
+td.mr { width: 47%; }
+
+.endmark {
+  margin-top: 26px; text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.4pt; letter-spacing: 0.2em; color: #9aa5a4;
+}
+.keyhead .kpts { float: right; font-weight: 400; font-size: 9pt; color: #e8cfc4; letter-spacing: 0; }
+
+</style></head><body>
+<div class="masthead"><p class="course">Physical Geography · Grades 9–12 · 3-Hour Weekly Blocks</p><h1>Course File Index</h1><p class="sub">Every document in this course, in the order you will use it. Each week is one three-hour class meeting. Each assessment has a matching <strong>-key</strong> file — print the plain file for the student and keep the key.</p></div>
+<h2>Documents</h2><table><thead><tr><th class="num" style="width:6%">Wk</th><th style="width:15%">File</th><th style="width:30%">Document</th><th>Details</th><th class="num" style="width:7%">Pages</th></tr></thead><tbody>
+<tr><td class="num">&mdash;</td><td style="font-family:monospace;font-size:8.4pt">00-syllabus.pdf</td><td><strong>Syllabus &amp; 26-Week Schedule</strong></td><td class="assess">Course format (3-hour weekly blocks), outcomes, grading, policies, and the full week-by-week plan</td><td class="num">4</td></tr>
+<tr><td class="num">1</td><td style="font-family:monospace;font-size:8.4pt">q01.pdf + q01-key.pdf</td><td><strong>Unit 1: Introduction to Geography as a Discipline</strong></td><td class="assess">Reading: pages 7&ndash;21 · 20 points · 15 minutes · Closed book</td><td class="num">2+1</td></tr>
+<tr><td class="num">2</td><td style="font-family:monospace;font-size:8.4pt">q02.pdf + q02-key.pdf</td><td><strong>Unit 2: Earth&rsquo;s Place within the Cosmos</strong></td><td class="assess">Reading: pages 22&ndash;38 · 20 points · 15 minutes · Closed book</td><td class="num">2+1</td></tr>
+<tr><td class="num">3</td><td style="font-family:monospace;font-size:8.4pt">q03.pdf + q03-key.pdf</td><td><strong>Unit 3: Introduction to Geology &amp; Geologic Time</strong></td><td class="assess">Reading: pages 39&ndash;50 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">4</td><td style="font-family:monospace;font-size:8.4pt">q04.pdf + q04-key.pdf</td><td><strong>Unit 4: Mapping Earth&rsquo;s Surface</strong></td><td class="assess">Reading: pages 51&ndash;65 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">5</td><td style="font-family:monospace;font-size:8.4pt">q05.pdf + q05-key.pdf</td><td><strong>Unit 5: Earth&ndash;Sun Relationships &mdash; Reasons for the Seasons</strong></td><td class="assess">Reading: pages 66&ndash;75 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">5</td><td style="font-family:monospace;font-size:8.4pt">t1.pdf + t1-key.pdf</td><td><strong>Test 1: Foundations of Physical Geography</strong></td><td class="assess">Units 1&ndash;4 · pages 7&ndash;65 · 50 points · 50 minutes · Closed book</td><td class="num">4+2</td></tr>
+<tr><td class="num">6</td><td style="font-family:monospace;font-size:8.4pt">q06.pdf + q06-key.pdf</td><td><strong>Unit 6a: Earth&rsquo;s Atmosphere &mdash; Significance, Gases &amp; Layers</strong></td><td class="assess">Reading: pages 76&ndash;82 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">7</td><td style="font-family:monospace;font-size:8.4pt">q07.pdf + q07-key.pdf</td><td><strong>Unit 6b: Atmospheric Heat, Energy, Motion &amp; Global Circulation</strong></td><td class="assess">Reading: pages 83&ndash;94 · 20 points · 15 minutes · Closed book</td><td class="num">2+1</td></tr>
+<tr><td class="num">8</td><td style="font-family:monospace;font-size:8.4pt">q08.pdf + q08-key.pdf</td><td><strong>Unit 7a: Atmospheric Moisture, Air Masses &amp; Fronts</strong></td><td class="assess">Reading: pages 95&ndash;104 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">9</td><td style="font-family:monospace;font-size:8.4pt">q09.pdf + q09-key.pdf</td><td><strong>Unit 7b: Extreme Weather; Weather Versus Climate</strong></td><td class="assess">Reading: pages 105&ndash;114 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">10</td><td style="font-family:monospace;font-size:8.4pt">q10.pdf + q10-key.pdf</td><td><strong>Unit 8: Basic Mineral Development</strong></td><td class="assess">Reading: pages 115&ndash;124 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">10</td><td style="font-family:monospace;font-size:8.4pt">t2.pdf + t2-key.pdf</td><td><strong>Test 2: The Sun, the Atmosphere &amp; Weather</strong></td><td class="assess">Units 5&ndash;7 · pages 66&ndash;114 · 50 points · 50 minutes · Closed book</td><td class="num">4+3</td></tr>
+<tr><td class="num">11</td><td style="font-family:monospace;font-size:8.4pt">q11.pdf + q11-key.pdf</td><td><strong>Unit 9: Igneous Rocks</strong></td><td class="assess">Reading: pages 125&ndash;133 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">12</td><td style="font-family:monospace;font-size:8.4pt">q12.pdf + q12-key.pdf</td><td><strong>Unit 10: Sedimentary Rocks</strong></td><td class="assess">Reading: pages 134&ndash;150 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">13</td><td style="font-family:monospace;font-size:8.4pt">q13.pdf + q13-key.pdf</td><td><strong>Unit 11: Metamorphism &amp; Metamorphic Rocks</strong></td><td class="assess">Reading: pages 151&ndash;163 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr class="exam"><td class="num">14</td><td style="font-family:monospace;font-size:8.4pt">midterm.pdf + midterm-key.pdf</td><td><strong>Midterm Exam</strong></td><td class="assess">Units 1&ndash;11 · pages 7&ndash;163 · 100 points · 90 minutes · Closed book</td><td class="num">7+5</td></tr>
+<tr><td class="num">15</td><td style="font-family:monospace;font-size:8.4pt">q14.pdf + q14-key.pdf</td><td><strong>Unit 12: Weathering &amp; Soils</strong></td><td class="assess">Reading: pages 164&ndash;178 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">16</td><td style="font-family:monospace;font-size:8.4pt">q15.pdf + q15-key.pdf</td><td><strong>Unit 13a: Earth&rsquo;s Interior, Continental Drift &amp; Seafloor Spreading</strong></td><td class="assess">Reading: pages 179&ndash;190 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">17</td><td style="font-family:monospace;font-size:8.4pt">q16.pdf + q16-key.pdf</td><td><strong>Unit 13b: Earth&rsquo;s Tectonic Plates</strong></td><td class="assess">Reading: pages 191&ndash;198 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">18</td><td style="font-family:monospace;font-size:8.4pt">q17.pdf + q17-key.pdf</td><td><strong>Unit 14: Tectonic Force &mdash; Stress, Structures &amp; Earthquakes</strong></td><td class="assess">Reading: pages 199&ndash;211 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">19</td><td style="font-family:monospace;font-size:8.4pt">q18.pdf + q18-key.pdf</td><td><strong>Unit 15: Earth&rsquo;s Dynamic Surface &mdash; Volcanoes</strong></td><td class="assess">Reading: pages 212&ndash;225 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">19</td><td style="font-family:monospace;font-size:8.4pt">t3.pdf + t3-key.pdf</td><td><strong>Test 3: Earth&rsquo;s Dynamic Surface</strong></td><td class="assess">Units 12&ndash;14 · pages 164&ndash;211 · 50 points · 50 minutes · Closed book</td><td class="num">4+3</td></tr>
+<tr><td class="num">20</td><td style="font-family:monospace;font-size:8.4pt">q19.pdf + q19-key.pdf</td><td><strong>Unit 16: Shaped by Coastal Processes</strong></td><td class="assess">Reading: pages 226&ndash;241 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">21</td><td style="font-family:monospace;font-size:8.4pt">q20.pdf + q20-key.pdf</td><td><strong>Unit 17a: Rivers, Drainage &amp; Stream Erosion</strong></td><td class="assess">Reading: pages 242&ndash;253 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">22</td><td style="font-family:monospace;font-size:8.4pt">q21.pdf + q21-key.pdf</td><td><strong>Unit 17b: Water Storage &mdash; Lakes, Groundwater &amp; Aquifers</strong></td><td class="assess">Reading: pages 254&ndash;259 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">23</td><td style="font-family:monospace;font-size:8.4pt">q22.pdf + q22-key.pdf</td><td><strong>Unit 18: Shaped by Wind as a Geomorphic Agent</strong></td><td class="assess">Reading: pages 260&ndash;273 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">23</td><td style="font-family:monospace;font-size:8.4pt">t4.pdf + t4-key.pdf</td><td><strong>Test 4: Volcanoes, Coasts &amp; Running Water</strong></td><td class="assess">Units 15&ndash;17 · pages 212&ndash;259 · 50 points · 50 minutes · Closed book</td><td class="num">4+3</td></tr>
+<tr><td class="num">24</td><td style="font-family:monospace;font-size:8.4pt">q23.pdf + q23-key.pdf</td><td><strong>Unit 19a: Glaciers, Glaciation &amp; Glacial Erosion</strong></td><td class="assess">Reading: pages 274&ndash;287 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr><td class="num">25</td><td style="font-family:monospace;font-size:8.4pt">q24.pdf + q24-key.pdf</td><td><strong>Unit 19b: Glacial Lakes &amp; Glacial Deposition</strong></td><td class="assess">Reading: pages 288&ndash;293 · 20 points · 15 minutes · Closed book</td><td class="num">2+2</td></tr>
+<tr class="exam"><td class="num">26</td><td style="font-family:monospace;font-size:8.4pt">final.pdf + final-key.pdf</td><td><strong>Final Exam</strong></td><td class="assess">Units 12&ndash;19 · pages 164&ndash;293 · 100 points · 90 minutes · Closed book</td><td class="num">7+6</td></tr>
+</tbody></table>
+<p class="small">31 documents · 62 PDF files · 149 pages total.</p>
+<h2>How to Use These Files</h2>
+<ul>
+<li><strong>Student copies</strong> are the plain files (<code>q07.pdf</code>, <code>t3.pdf</code>). They carry a name/date/score line and end with an "— END —" marker.</li>
+<li><strong>Answer keys</strong> are the <code>-key</code> files. Every key gives the correct answer, a page citation into the textbook, and a point-by-point grading rubric for written responses.</li>
+<li><strong>Timing.</strong> A standard block runs quiz (15 min) → instruction (55) → activity (50) → discussion (20). Test blocks trade the activity and discussion time for a 30-minute review and the 50-minute test. Exam blocks are 75 minutes of review and a 90-minute exam.</li>
+<li><strong>Page references</strong> throughout use the textbook's printed page numbers. If you are reading the PDF on screen, add 2.</li>
+<li><strong>To edit anything</strong>, change the matching file in <code>spec/</code>, then run <code>python3 gen.py &amp;&amp; ./build.sh</code>. Run <code>python3 mkindex.py &amp;&amp; ./build.sh 01-index.html</code> to refresh this page.</li>
+</ul>
+<div class="footer-note">Physical Geography · 26-Week Course · Textbook by Jeremy Patrich, College of the Canyons, CC BY 4.0</div>
+</body></html>

@@ -1,0 +1,118 @@
+{
+ "id": "q09",
+ "eyebrow": "Physical Geography &middot; Week 9 &middot; Quiz 9",
+ "title": "Unit 7b: Extreme Weather; Weather Versus Climate",
+ "sub": "Reading: pages 105&ndash;114 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 9 &middot; Unit 7b (pages 105&ndash;114)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "During which stage of a thunderstorm&rsquo;s life cycle do updrafts and downdrafts exist side by side, with the storm at its most intense?",
+     "choices": [
+      "Mature stage",
+      "Dissipating stage",
+      "Entrainment stage",
+      "Cumulus stage"
+     ],
+     "answer": 0,
+     "why": "p. 106 &mdash; this is when the storm produces strong gusting winds, heavy precipitation, lightning, and possibly hail. Once downdrafts overtake the updrafts, the storm enters the dissipating stage."
+    },
+    {
+     "stem": "Of all the moisture held in a thunderstorm cloud, roughly what share actually reaches the ground as precipitation?",
+     "choices": [
+      "20%",
+      "50%",
+      "80%",
+      "95%"
+     ],
+     "answer": 0,
+     "why": "p. 106 &mdash; the other 80% evaporates back into the atmosphere."
+    },
+    {
+     "stem": "The intensity of a tornado is measured on the",
+     "choices": [
+      "Saffir-Simpson Scale",
+      "Fujita Scale",
+      "Richter Scale",
+      "K&ouml;ppen Scale"
+     ],
+     "answer": 1,
+     "why": "p. 107 &mdash; it assigns a value based on wind speed and damage. The Saffir-Simpson Scale is for hurricanes."
+    },
+    {
+     "stem": "Hurricanes arise in the tropical latitudes when sea surface temperatures reach at least",
+     "choices": [
+      "18&deg;C (64&deg;F)",
+      "24&deg;C (75&deg;F)",
+      "28&deg;C (82&deg;F)",
+      "35&deg;C (95&deg;F)"
+     ],
+     "answer": 2,
+     "why": "p. 108 &mdash; they form between about 10&deg; and 25&deg;N in summer and autumn. If wind shear is low, a tropical depression can build into a hurricane in two to three days."
+    },
+    {
+     "stem": "Within a hurricane, the strongest winds, tallest clouds, lowest atmospheric pressure, and most intense precipitation are found in the",
+     "choices": [
+      "eye",
+      "eyewall",
+      "spiral rain bands",
+      "storm surge"
+     ],
+     "answer": 1,
+     "why": "pp. 108&ndash;109 &mdash; the <em>eye</em> itself is the relatively calm center. The eyewall is the ring of cloud immediately surrounding it."
+    },
+    {
+     "stem": "In the K&ouml;ppen system, a climate with extremely cold winters and a warmest-month average temperature below 10&deg;C (50&deg;F) is classified as",
+     "choices": [
+      "Tropical (A)",
+      "Dry (B)",
+      "Continental (D)",
+      "Polar (E)"
+     ],
+     "answer": 3,
+     "why": "p. 111 &mdash; the five main K&ouml;ppen groups are Tropical (A), Dry (B), Temperate (C), Continental (D), and Polar (E), each divisible into subcategories."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "Meteorologists typically use data spanning about 30 years to define a region&rsquo;s climate.",
+     "answer": true,
+     "why": "pp. 95 and 110 &mdash; the World Meteorological Organization uses 30 years as the standard averaging period. Climate also takes in the weather extremes for a place, not just the averages."
+    },
+    {
+     "stem": "A mid-latitude cyclone rotates clockwise in the Northern Hemisphere.",
+     "answer": false,
+     "why": "Cyclones rotate <em>counterclockwise</em> around a low-pressure center in the Northern Hemisphere, and clockwise in the Southern Hemisphere. (pp. 107&ndash;108)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain the difference between <em>weather</em> and <em>climate</em>, and name what a meteorologist studies compared with what a climate scientist studies.",
+     "answer": "Weather is the state of the atmosphere at a particular place and time; climate is the average of weather elements over a long period, generally 30 years.",
+     "rubric": "1 pt weather &mdash; the state of the atmosphere at some place and time, expressed through temperature, pressure, humidity, wind, precipitation, and cloudiness; it can change rapidly. 1 pt climate &mdash; the mean of those elements over a specified period (about 30 years), plus the extremes for that place; it changes only very slowly. 1 pt for the contrast in practice: meteorologists work with real-time data to forecast hours to weeks ahead and locally, while climate scientists look at averages and trends across decades, centuries, and millennia, using proxy data alongside weather records. (pp. 110&ndash;112)"
+    },
+    {
+     "stem": "What is a <em>storm surge</em>, and why is it so devastating along low-lying coastlines?",
+     "answer": "A storm surge is the unusually high rise in sea level that occurs as a hurricane&rsquo;s low-pressure center comes onto land, worsened by high winds pushing seawater toward the shore.",
+     "rubric": "1.5 pts for the mechanism &mdash; the storm&rsquo;s low-pressure center reaching land causes sea level to rise unusually high, and the hurricane&rsquo;s high winds blow seawater across the ocean onto the shoreline, making it worse. 1.5 pts for the consequence &mdash; flooding is devastating on low-lying coasts such as the Atlantic and Gulf Coasts, since there is no elevation to stop the water. Credit the Hurricane Michael example (2018, peak winds 160 mph, storm surge up to 14 feet). (p. 109)"
+    }
+   ]
+  }
+ ]
+}

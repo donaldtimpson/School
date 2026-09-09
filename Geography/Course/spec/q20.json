@@ -1,0 +1,118 @@
+{
+ "id": "q20",
+ "eyebrow": "Physical Geography &middot; Week 21 &middot; Quiz 20",
+ "title": "Unit 17a: Rivers, Drainage &amp; Stream Erosion",
+ "sub": "Reading: pages 242&ndash;253 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 20 &middot; Unit 17a (pages 242&ndash;253)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "What share of Earth&rsquo;s water is freshwater?",
+     "choices": [
+      "About 3%",
+      "About 30%",
+      "About 50%",
+      "About 97%"
+     ],
+     "answer": 0,
+     "why": "p. 243 &mdash; the oceans hold 97% and it is salty. Of the 3% that is fresh, two-thirds is locked in ice and one-third is in the ground."
+    },
+    {
+     "stem": "The most common drainage pattern, which develops where the underlying rock has no particular fabric or structure and erodes equally easily in all directions, is",
+     "choices": [
+      "trellis",
+      "radial",
+      "dendritic",
+      "rectangular"
+     ],
+     "answer": 2,
+     "why": "p. 247 &mdash; trellis patterns form on folded or tilted sedimentary rock, radial patterns on volcanoes and domes, and rectangular patterns where fractures or faults form a right-angled network."
+    },
+    {
+     "stem": "On a curved section of a stream, the water flows",
+     "choices": [
+      "at the same speed all the way across",
+      "fastest along the very bottom of the channel",
+      "fastest on the inside of the bend",
+      "fastest on the outside of the bend"
+     ],
+     "answer": 3,
+     "why": "p. 248 &mdash; the water on the outside has farther to travel. Friction also makes flow slowest along the bed and edges and fastest near the surface in the middle."
+    },
+    {
+     "stem": "A <em>point bar</em> is",
+     "choices": [
+      "an erosional feature on the outside of a stream bend",
+      "a crescent-shaped depositional feature on the inside of a stream bend",
+      "a ridge of sediment deposited when a stream floods",
+      "a bar of gravel separating channels in a braided stream"
+     ],
+     "answer": 1,
+     "why": "p. 248 &mdash; the matching erosional feature on the <em>outside</em> of the bend is the cut bank, shaped like a small cliff. Together they make a meander migrate across its floodplain."
+    },
+    {
+     "stem": "A natural levée forms when",
+     "choices": [
+      "a stream overtops its banks, the velocity drops sharply, and sediment is deposited near the channel edge",
+      "engineers pile earth alongside a river channel",
+      "a stream cuts down through older floodplain sediments",
+      "two streams meet at a confluence"
+     ],
+     "answer": 0,
+     "why": "p. 253 &mdash; a stream reaches its highest velocity at the bank-full stage. Once it spills onto the wide floodplain the water has far more area to flow through, so velocity and carrying capacity collapse."
+    },
+    {
+     "stem": "In a stream, the most easily eroded particles are",
+     "choices": [
+      "clay particles, because they are smallest",
+      "small sand grains between 0.2 mm and 0.5 mm",
+      "gravel, because it sits highest on the bed",
+      "boulders, because they catch the most current"
+     ],
+     "answer": 1,
+     "why": "p. 252 &mdash; anything smaller or larger needs a higher velocity. Clay and silt grains stick strongly to one another, making them surprisingly hard to lift off the stream bed."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "A tiny silt grain requires a higher water velocity to be eroded than a sand grain one hundred times larger.",
+     "answer": true,
+     "why": "p. 252 &mdash; a 0.01 mm silt particle needs about 60 cm/s to be eroded, while a 1 mm sand grain needs only about 20 cm/s. Filip Hjulstr&ouml;m worked this relationship out in the 1940s."
+    },
+    {
+     "stem": "Old-age streams are characterized by steep gradients, rapids, and narrow V-shaped valleys.",
+     "answer": false,
+     "why": "That describes <em>youthful</em> streams. Old-age streams have very low gradients, rich meanders, oxbow lakes, broad floodplains, and low erosive energy. (pp. 249, 253)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 5,
+   "questions": [
+    {
+     "stem": "Describe the three stages of William Davis&rsquo;s cycle of erosion.",
+     "answer": "Youthful streams cut deep, straight V-shaped valleys with steep, ungraded gradients and many rapids and waterfalls. Mature streams widen their valleys, deposit sediment, and become more graded. Old-age streams occupy wide sediment-filled valleys among rolling hills and meander freely.",
+     "rubric": "1 pt each stage. <strong>Youthful</strong> &mdash; follows tectonic uplift; rapid erosion, deep V-shaped valleys, relatively straight paths, high gradients, ungraded profiles, rapids and waterfalls, often step-pool morphology. <strong>Mature</strong> &mdash; wider valleys, thick sediment deposits, gradients slowly reduced, grading increases, a small floodplain and early meanders or braiding appear. <strong>Old age</strong> &mdash; rolling hills, wide sediment-filled valleys, very low gradient, pronounced meanders, oxbow lakes and meander scars, deltas and levees. Credit noting that Davis worked before plate tectonics and without knowledge of glacial erosion, so parts of the model are dated but still useful. (p. 248)"
+    },
+    {
+     "stem": "A stream carries its load in several different ways. Name them and briefly explain each.",
+     "answer": "Traction, saltation, suspension, and dissolved load.",
+     "rubric": "0.75 pt each. <strong>Traction</strong> &mdash; large bedload particles pushed along the bottom by the force of the flow. <strong>Saltation</strong> &mdash; particles bouncing along the bed; these first two move the largest clasts, often only during floods. <strong>Suspension</strong> &mdash; smaller particles held up within the flowing water, especially where flow is turbulent; turbulent flow keeps sediment suspended far better than laminar flow. <strong>Dissolved load</strong> &mdash; ions such as calcium and chloride carried in solution, averaging about 15% of the total mass transported. (pp. 251&ndash;252)"
+    }
+   ]
+  }
+ ]
+}

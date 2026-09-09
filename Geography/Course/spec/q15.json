@@ -1,0 +1,118 @@
+{
+ "id": "q15",
+ "eyebrow": "Physical Geography &middot; Week 16 &middot; Quiz 15",
+ "title": "Unit 13a: Earth&rsquo;s Interior, Continental Drift &amp; Seafloor Spreading",
+ "sub": "Reading: pages 179&ndash;190 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 15 &middot; Unit 13a (pages 179&ndash;190)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "S-waves cannot travel through liquid. Their disappearance at the mantle&ndash;core boundary tells scientists that",
+     "choices": [
+      "the outer core is liquid",
+      "the inner core is liquid",
+      "the crust is unusually thin",
+      "the mantle is liquid"
+     ],
+     "answer": 0,
+     "why": "p. 181 &mdash; P-waves also slow at that boundary, showing the outer core is less rigid than the mantle. Together these produce the P-wave shadow zone between 104&deg; and 140&deg; from the focus."
+    },
+    {
+     "stem": "Which pair of layers divides Earth by <em>mechanical</em> properties rather than by composition?",
+     "choices": [
+      "Oceanic crust and continental crust",
+      "Inner core and outer core",
+      "Core, mantle, and crust",
+      "Lithosphere and asthenosphere"
+     ],
+     "answer": 3,
+     "why": "p. 182 &mdash; the lithosphere is brittle and rigid, including the crust and uppermost mantle; the asthenosphere is partially molten and flows plastically."
+    },
+    {
+     "stem": "Approximately what share of Earth&rsquo;s mass is the mantle?",
+     "choices": [
+      "Less than 1%",
+      "About 31%",
+      "About 68%",
+      "About 85%"
+     ],
+     "answer": 2,
+     "why": "p. 182 &mdash; the core is about 31% and the crust less than 1%. (85% is the iron content <em>of</em> the core, not its share of Earth.)"
+    },
+    {
+     "stem": "Who proposed the continental drift hypothesis and named the supercontinent Pangaea?",
+     "choices": [
+      "Alfred Wegener",
+      "James Hutton",
+      "William Smith",
+      "Nicholas Steno"
+     ],
+     "answer": 0,
+     "why": "p. 185 &mdash; Pangaea means &ldquo;all earth&rdquo; in ancient Greek. Wegener first published the idea in 1912 and died in Greenland in 1930, with his ideas still rejected by most geologists."
+    },
+    {
+     "stem": "Why did most geologists reject Wegener&rsquo;s hypothesis during his lifetime?",
+     "choices": [
+      "His fossil evidence turned out to be fabricated",
+      "There was no way to explain how solid continents could plow through solid oceanic crust",
+      "The continents plainly do not fit together",
+      "The magnetic evidence directly contradicted it"
+     ],
+     "answer": 1,
+     "why": "p. 188 &mdash; his evidence was sound, but he had no mechanism. Seafloor spreading, discovered decades later, supplied it."
+    },
+    {
+     "stem": "The oldest seafloor anywhere on Earth is less than about",
+     "choices": [
+      "18 million years old",
+      "180 million years old",
+      "1.8 billion years old",
+      "4.5 billion years old"
+     ],
+     "answer": 1,
+     "why": "p. 190 &mdash; far younger than the oldest continental crust, which told scientists that seafloor is being destroyed relatively quickly at deep-sea trenches."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "P-waves travel faster than S-waves and arrive at a seismograph first.",
+     "answer": true,
+     "why": "p. 180 &mdash; P-waves move at about 6&ndash;7 km per second by compression and expansion; S-waves at about 3.5 km per second, moving material perpendicular to the direction of travel."
+    },
+    {
+     "stem": "Continental crust is denser than oceanic crust.",
+     "answer": false,
+     "why": "It is the reverse. Continental crust averages granite in composition and is much <em>less</em> dense than the mafic basalt and gabbro of oceanic crust, which is why continents ride high while ocean floor sinks to form basins. (p. 183)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Describe three separate lines of evidence Wegener used to support continental drift.",
+     "answer": "The fit of the continents, matching rocks and mountain ranges across the Atlantic, identical fossils on now-separated continents, glacial deposits near the equator, and coal and coral in places now far too cold.",
+     "rubric": "1 pt each for any three. (1) <strong>Shape fit</strong> &mdash; the continental shelves piece together like a puzzle, most obviously the eastern Americas against western Africa and Europe. (2) <strong>Matching geology</strong> &mdash; identical rocks of the same type and age on both sides of the Atlantic, and mountain ranges such as the Appalachians matching those in Greenland, Ireland, Britain, and Norway. (3) <strong>Fossils</strong> &mdash; identical extinct species on widely separated continents; <em>Glossopteris</em> seeds were too heavy to blow that far, <em>Mesosaurus</em> could swim only in fresh water, and <em>Cynognathus</em> and <em>Lystrosaurus</em> were land reptiles. (4) <strong>Ancient glaciation</strong> &mdash; glacial grooves and deposits now found near the equator, including the Karoo Glaciation across South America, Africa, India, Antarctica, and Australia. (5) <strong>Climate indicators</strong> &mdash; coal seams and coral reefs in places far too cold today. (pp. 185&ndash;188)"
+    },
+    {
+     "stem": "Explain how the pattern of magnetic striping on the seafloor supports the seafloor spreading hypothesis.",
+     "answer": "Earth&rsquo;s magnetic poles periodically reverse. New lava at a mid-ocean ridge locks in the polarity of the moment as it cools, and as spreading pushes that crust outward, the alternating stripes form a mirror image on both sides of the ridge.",
+     "rubric": "1 pt &mdash; the magnetic poles switch positions from time to time, producing alternating bands of normal and reversed polarity in seafloor basalts. 1 pt &mdash; magnetite crystals in cooling lava record whichever polarity prevails at that moment, so the ridge acts like a recorder. 1 pt &mdash; the stripes are <em>symmetrical mirror images</em> on either side of the ridge, which only makes sense if new crust forms at the ridge and moves outward in both directions. Credit the observation that the stripes end abruptly at continental edges or trenches, where crust is destroyed. (pp. 189&ndash;190)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "id": "q05",
+ "eyebrow": "Physical Geography &middot; Week 5 &middot; Quiz 5",
+ "title": "Unit 5: Earth&ndash;Sun Relationships &mdash; Reasons for the Seasons",
+ "sub": "Reading: pages 66&ndash;75 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 5 &middot; Unit 5 (pages 66&ndash;75)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "In 1543, who proposed that Earth and the other planets make regular revolutions around the Sun, and that Earth rotates once a day on its axis?",
+     "choices": [
+      "Edwin Hubble",
+      "James Hutton",
+      "Galileo Galilei",
+      "Nicolaus Copernicus"
+     ],
+     "answer": 3,
+     "why": "p. 67 &mdash; a radical idea at the time. It gained acceptance slowly, and our modern view of solar system motion is based on his work."
+    },
+    {
+     "stem": "Earth&rsquo;s seasons are caused by",
+     "choices": [
+      "Earth being physically closer to the Sun in summer",
+      "the 23.5&deg; tilt of Earth&rsquo;s axis combined with Earth&rsquo;s revolution around the Sun",
+      "regular changes in the Sun&rsquo;s energy output",
+      "the greenhouse effect"
+     ],
+     "answer": 1,
+     "why": "p. 70 &mdash; the text names choice (a) explicitly as a common misconception. The tilt means one hemisphere is more directly exposed to the Sun&rsquo;s rays than the other."
+    },
+    {
+     "stem": "At the Northern Hemisphere&rsquo;s summer solstice, the Sun&rsquo;s rays strike Earth most directly along",
+     "choices": [
+      "the Tropic of Cancer, 23.5&deg; N",
+      "the Tropic of Capricorn, 23.5&deg; S",
+      "the Arctic Circle, 66.5&deg; N",
+      "the equator"
+     ],
+     "answer": 0,
+     "why": "p. 70 &mdash; around June 21st or 22nd. At that same moment it is the winter solstice in the Southern Hemisphere."
+    },
+    {
+     "stem": "Which type of ultraviolet radiation does not reach the planet&rsquo;s surface at all?",
+     "choices": [
+      "UVA",
+      "UVB",
+      "UVC",
+      "Infrared"
+     ],
+     "answer": 2,
+     "why": "pp. 68&ndash;69 &mdash; UVC is the highest energy and is stopped completely. UVB is mostly stopped; UVA, the lowest energy, travels through to the ground. Ozone does most of this filtering."
+    },
+    {
+     "stem": "Compared with one molecule of carbon dioxide, one molecule of methane traps about",
+     "choices": [
+      "the same amount of heat",
+      "23 times as much heat",
+      "250 times as much heat",
+      "10,600 times as much heat"
+     ],
+     "answer": 1,
+     "why": "p. 70 &mdash; 10,600 times is CFC-12. Carbon dioxide still matters enormously because it is far more abundant in the atmosphere than either."
+    },
+    {
+     "stem": "On an equinox,",
+     "choices": [
+      "the Sun&rsquo;s rays shine most directly at the equator and daylight and nighttime hours are equal",
+      "the North Pole points directly toward the Sun",
+      "Earth reaches its closest point to the Sun",
+      "the Sun never rises above the horizon at either pole"
+     ],
+     "answer": 0,
+     "why": "p. 71 &mdash; the equinoxes fall halfway between the solstices: the vernal equinox around March 21st or 22nd and the autumnal equinox around September 22nd or 23rd."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "About 44% of the solar radiation reaching Earth is in visible light wavelengths.",
+     "answer": true,
+     "why": "p. 68 &mdash; only about 7% is ultraviolet; the remainder is infrared, the longest wavelength, which we feel as heat."
+    },
+    {
+     "stem": "Greenhouse gases are entirely a product of human activity.",
+     "answer": false,
+     "why": "All of the greenhouse gases listed &mdash; CO&#8322;, H&#8322;O, methane, O&#8323;, and nitrous oxides &mdash; are a normal part of the atmosphere. CFCs are the single exception. Human activity has, however, sharply <em>raised</em> the levels of several of them. (p. 70)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain why the Northern Hemisphere is warmer in June than in December. Your answer should refer both to the <em>directness</em> of the Sun&rsquo;s rays and to the <em>length</em> of daylight.",
+     "answer": "In June the North Pole is tilted toward the Sun, so the rays strike more directly and the days are longer; in December the tilt points away, spreading the same light over a larger area for fewer hours.",
+     "rubric": "1 pt for the tilt toward/away from the Sun. 1 pt for directness &mdash; when the tilt points away, light is spread out over a larger area, so that area is not heated as much. 1 pt for duration &mdash; fewer daylight hours in winter means less time for the Sun to warm the surface. Deduct if the student attributes the difference to Earth&rsquo;s distance from the Sun. (pp. 69&ndash;71)"
+    },
+    {
+     "stem": "What is an <em>analemma</em>, and which two features of Earth&rsquo;s motion give it its figure-eight shape?",
+     "answer": "A diagram showing the Sun&rsquo;s position in the sky, viewed from a fixed place on Earth at the same mean solar time, as it varies over a year. The shape comes from Earth&rsquo;s axial tilt and its orbital eccentricity.",
+     "rubric": "1.5 pts for the definition &mdash; a plot of the Sun&rsquo;s position from one fixed location at the same clock time across a full year. 1.5 pts for both causes: axial tilt (obliquity), which produces the north&ndash;south component, and the eccentricity of Earth&rsquo;s orbit, which produces the east&ndash;west component (the equation of time). Full credit if the student notes that with a circular orbit and no tilt the analemma would be a single dot. (pp. 72&ndash;74)"
+    }
+   ]
+  }
+ ]
+}

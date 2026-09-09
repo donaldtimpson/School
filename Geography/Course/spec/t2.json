@@ -1,0 +1,231 @@
+{
+ "id": "t2",
+ "eyebrow": "Physical Geography &middot; Week 10 &middot; Unit Test 2",
+ "title": "Test 2: The Sun, the Atmosphere &amp; Weather",
+ "sub": "Units 5&ndash;7 &middot; pages 66&ndash;114 &nbsp;&middot;&nbsp; 50 points &nbsp;&middot;&nbsp; 50 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Test 2 &middot; Units 5&ndash;7 (pages 66&ndash;114)",
+ "instructions": "Read each question carefully. Circle one answer for multiple choice. Write on the lines provided; use the back of the page if you need more room. Point values are shown for each section.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "Which of the following does the text identify as a common <em>misconception</em> about the seasons?",
+     "choices": [
+      "That daylight lasts longer in summer than in winter",
+      "That seasons are caused by the tilt of Earth&rsquo;s axis",
+      "That summer is warm because the Sun is physically closer to Earth",
+      "That the Southern Hemisphere has summer when the Northern Hemisphere has winter"
+     ],
+     "answer": 2,
+     "why": "p. 70 &mdash; the real cause is the 23.5&deg; axial tilt combined with Earth&rsquo;s revolution, which changes how directly the Sun&rsquo;s rays strike each hemisphere."
+    },
+    {
+     "stem": "Ozone completely removes which type of ultraviolet radiation from incoming sunlight?",
+     "choices": [
+      "UVA",
+      "UVB",
+      "UVC",
+      "All three equally"
+     ],
+     "answer": 2,
+     "why": "p. 69 &mdash; ozone removes UVC completely, most UVB, and some UVA. UVA, the lowest energy, reaches the ground."
+    },
+    {
+     "stem": "Which greenhouse gas is <em>not</em> a normal part of Earth&rsquo;s atmosphere?",
+     "choices": [
+      "Carbon dioxide",
+      "Methane",
+      "Ozone",
+      "Chlorofluorocarbons (CFCs)"
+     ],
+     "answer": 3,
+     "why": "p. 70 &mdash; CFCs are the single exception on the list; the text notes they have only recently existed."
+    },
+    {
+     "stem": "The ozone layer is located within which layer of the atmosphere?",
+     "choices": [
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere",
+      "Troposphere"
+     ],
+     "answer": 0,
+     "why": "p. 81 &mdash; between roughly 15 and 30 km altitude. This is why a traveler in the mesosphere, which sits above it, would receive severe UV burns."
+    },
+    {
+     "stem": "Which statement about the troposphere is correct?",
+     "choices": [
+      "It lies directly above the mesosphere",
+      "Temperature increases with altitude, making it very stable",
+      "Warm air sits beneath cooler air, making it unstable and causing constant mixing",
+      "It contains almost no water vapor"
+     ],
+     "answer": 2,
+     "why": "p. 80 &mdash; that instability and mixing is precisely why all of the planet&rsquo;s weather happens in the troposphere."
+    },
+    {
+     "stem": "A candle flame and a bathtub of hot water are compared in the text. Which statement is correct?",
+     "choices": [
+      "The flame has a higher temperature but less heat",
+      "The flame has both a higher temperature and more heat",
+      "The bathtub has a higher temperature but less heat",
+      "They have equal heat and equal temperature"
+     ],
+     "answer": 0,
+     "why": "pp. 84&ndash;85 &mdash; temperature measures how fast atoms vibrate; heat measures total energy. The bathtub is cooler but holds far more vibrating atoms."
+    },
+    {
+     "stem": "The westerly winds of the Ferrel cell blow",
+     "choices": [
+      "from the north toward the south",
+      "straight toward the equator",
+      "from the east toward the west",
+      "from the west toward the east"
+     ],
+     "answer": 3,
+     "why": "p. 93 &mdash; wind belts are named for the direction winds come <em>from</em>. This is also why a flight from San Francisco to New York is faster than the return trip."
+    },
+    {
+     "stem": "The polar front, where the polar jet stream is found, is the junction between",
+     "choices": [
+      "the Hadley and Ferrel cells",
+      "the Ferrel and Polar cells",
+      "the two Hadley cells at the equator",
+      "the troposphere and mesosphere"
+     ],
+     "answer": 1,
+     "why": "p. 93 &mdash; relatively warm, moist Ferrel air meets cold, dry Polar air, making the weather there extremely variable across much of North America and Europe."
+    },
+    {
+     "stem": "Clouds form when air reaches its dew point. This can happen when",
+     "choices": [
+      "temperature stays the same but humidity increases, or humidity stays the same but temperature decreases",
+      "temperature and humidity both decrease at the same rate",
+      "air pressure rises sharply",
+      "the air becomes drier"
+     ],
+     "answer": 0,
+     "why": "pp. 97&ndash;98 &mdash; water vapor then condenses around a nucleus such as dust, smoke, or a salt crystal, and billions of these droplets together make a cloud."
+    },
+    {
+     "stem": "An air mass that is dry and cold would be classified as",
+     "choices": [
+      "maritime tropical (mT)",
+      "continental tropical (cT)",
+      "maritime polar (mP)",
+      "continental polar (cP)"
+     ],
+     "answer": 3,
+     "why": "p. 101 &mdash; &ldquo;continental&rdquo; means it formed over land and is dry; &ldquo;polar&rdquo; means it formed at high latitudes and is cold."
+    },
+    {
+     "stem": "In a thunderstorm, the process by which downdrafts pull cold, dry air from outside the cloud toward the ground is called",
+     "choices": [
+      "advection",
+      "entrainment",
+      "occlusion",
+      "convection"
+     ],
+     "answer": 1,
+     "why": "p. 106 &mdash; entrainment happens once precipitation becomes too heavy for the updrafts to hold, marking the transition into the mature stage."
+    },
+    {
+     "stem": "Which K&ouml;ppen climate type is defined by evaporation exceeding precipitation, with a constant water deficiency throughout the year?",
+     "choices": [
+      "Tropical (A)",
+      "Dry (B)",
+      "Temperate (C)",
+      "Continental (D)"
+     ],
+     "answer": 1,
+     "why": "p. 111 &mdash; note that the Dry classification is about the water balance, not about temperature."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; Matching",
+   "type": "match",
+   "ptsEach": 8,
+   "questions": [
+    {
+     "stem": "Write the letter of the correct definition next to each term.",
+     "left": [
+      "Advection",
+      "Latent heat",
+      "Albedo",
+      "Dew point",
+      "Source region",
+      "Squall line",
+      "Nor&rsquo;easter",
+      "Eyewall"
+     ],
+     "right": [
+      "The temperature at which saturated air condenses",
+      "A measure of how well a surface reflects light",
+      "The ring of cloud holding a hurricane&rsquo;s strongest winds and lowest pressure",
+      "The horizontal flow of air",
+      "A line of severe thunderstorms forming along a cold front",
+      "Heat absorbed or released when a substance changes state",
+      "A mid-latitude cyclone that strikes the mid-Atlantic and New England states",
+      "The area where an air mass acquires its temperature and humidity"
+     ],
+     "answer": [
+      3,
+      5,
+      1,
+      0,
+      7,
+      4,
+      6,
+      2
+     ],
+     "why": "1 point each. Advection p. 85 &middot; Latent heat p. 84 &middot; Albedo p. 83 &middot; Dew point p. 96 &middot; Source region p. 101 &middot; Squall line p. 102 &middot; Nor&rsquo;easter p. 108 &middot; Eyewall p. 109."
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain why the troposphere mixes constantly while the stratosphere barely mixes at all.",
+     "answer": "In the troposphere temperature decreases with altitude, so warm air lies beneath cool air &mdash; an unstable arrangement that overturns. In the stratosphere temperature increases with altitude, so warm air lies above cool air, which is stable.",
+     "rubric": "1.5 pts for the troposphere &mdash; warmer, less dense air beneath cooler air is buoyant and rises while cool air sinks, producing constant mixing (and all of Earth&rsquo;s weather). 1.5 pts for the stratosphere &mdash; warmer, less dense air already sits on top, so nothing rises and there is little mixing. Credit consequences as supporting evidence: volcanic ash stays suspended in the stratosphere for years, and pilots fly its lower portion for smooth air. (pp. 80&ndash;81)"
+    },
+    {
+     "stem": "Explain the <em>rain shadow effect</em> and how it helps create deserts.",
+     "answer": "Moist air forced up the windward side of a mountain range cools and drops its precipitation there; the now-dry air descends the leeward side, warming and drying the land below.",
+     "rubric": "1 pt air rises over the windward side, cools, and forms clouds and precipitation. 1 pt the air that sinks on the leeward side is already dry, and descending air warms and creates strong dry winds. 1 pt the result is a persistently dry leeward zone &mdash; the text credits this effect with creating many of the world&rsquo;s deserts. Credit Chinook winds (which can raise temperatures more than 20&deg;C in an hour) as the named example. (p. 89)"
+    },
+    {
+     "stem": "Name and briefly describe the three stages of a thunderstorm&rsquo;s life cycle.",
+     "answer": "Cumulus, mature, and dissipating.",
+     "rubric": "1 pt each. <strong>Cumulus</strong> &mdash; an air parcel rises, cools, and condenses; latent heat released by condensation warms the cloud and drives it upward, and updrafts hold precipitation aloft. <strong>Mature</strong> &mdash; precipitation grows too heavy for the updrafts and begins to fall, creating downdrafts; updrafts and downdrafts exist side by side, an anvil may form at the top of the troposphere, and the storm is at its most intense. <strong>Dissipating</strong> &mdash; downdrafts overtake the updrafts, cutting off the latent heat supply, and the storm weakens into light precipitation. (p. 106)"
+    },
+    {
+     "stem": "Give two reasons the atmosphere makes life on Earth possible.",
+     "answer": "It supplies the gases living things need and cycles them through photosynthesis and respiration, and its greenhouse gases moderate Earth&rsquo;s temperatures.",
+     "rubric": "1.5 pts each for any two of the following. <strong>Gases for life</strong> &mdash; plants use CO&#8322; and produce O&#8322; in photosynthesis, which accounts for nearly all atmospheric oxygen; animals use that oxygen in respiration. <strong>Temperature moderation</strong> &mdash; greenhouse gases trap heat, so temperatures do not swing between frigid nights and scorching days as they would on an airless world like the Moon. <strong>UV protection</strong> &mdash; the ozone layer absorbs most harmful ultraviolet radiation, which would otherwise penetrate cells and damage DNA. (pp. 77 and 81)"
+    }
+   ]
+  },
+  {
+   "name": "Part D &middot; Extended Response",
+   "type": "essay",
+   "ptsEach": 6,
+   "lines": 12,
+   "questions": [
+    {
+     "stem": "Trace the path of energy from the Sun to a hurricane. Explain how sunlight arriving in the tropics ultimately produces one of the most powerful storms on Earth. Your answer should refer to unequal heating of Earth&rsquo;s surface, evaporation and latent heat, low pressure, and the Coriolis effect.",
+     "answer": "See rubric.",
+     "rubric": "<strong>1.5 pts &mdash; unequal heating.</strong> More solar energy strikes the equator because the Sun&rsquo;s rays arrive nearly straight on there, while the same energy is spread over a larger area at higher latitudes. Warm tropical seas reach 28&deg;C (82&deg;F) or higher in summer and autumn.<br><br><strong>1.5 pts &mdash; evaporation and latent heat.</strong> The warm sea evaporates water, creating a large humid air mass. As that air rises and its water vapor condenses, latent heat is released, warming the air further and driving it higher still &mdash; a self-feeding engine. The text notes a single hurricane can release energy approaching the total annual electrical consumption of the United States.<br><br><strong>1.5 pts &mdash; low pressure.</strong> Rising warm air leaves a low-pressure zone at the surface (a tropical depression). Surrounding air rushes in to fill it, feeding still more warm moist air into the system, and thunderstorms build around it.<br><br><strong>1.5 pts &mdash; Coriolis effect and structure.</strong> Earth&rsquo;s rotation deflects the inrushing air, setting the storm rotating counterclockwise in the Northern Hemisphere and clockwise in the Southern. Given low wind shear, the system organizes into a hurricane within two to three days, with a calm eye, an eyewall of strongest winds, and spiral rain bands.<br><br>Full credit for a clear causal chain even if the wording differs. Credit the closing observation that a hurricane weakens over cooler water or land because its latent heat source is cut off. (pp. 69&ndash;70, 84, 90&ndash;91, 108&ndash;109)"
+    }
+   ]
+  }
+ ]
+}

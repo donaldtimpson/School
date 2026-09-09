@@ -1,0 +1,532 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Final Exam</title><style>
+@page { size: letter; margin: 0.7in 0.75in 0.7in 0.75in; }
+
+* { box-sizing: border-box; }
+
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 10.6pt;
+  line-height: 1.45;
+  color: #16181a;
+  margin: 0;
+}
+
+/* ---------- Masthead ---------- */
+.masthead {
+  border-bottom: 3px solid #14676b;
+  padding-bottom: 9px;
+  margin-bottom: 18px;
+}
+.masthead .course {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.2pt;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #14676b;
+  font-weight: 700;
+  margin: 0 0 3px;
+}
+.masthead h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20pt;
+  line-height: 1.15;
+  font-weight: 700;
+  color: #0f2a2c;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+.masthead .sub {
+  font-size: 9.6pt;
+  color: #55605f;
+  margin: 5px 0 0;
+  font-style: italic;
+}
+
+/* ---------- Headings ---------- */
+h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12.2pt;
+  font-weight: 700;
+  color: #14676b;
+  margin: 22px 0 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #cfdcdb;
+  break-after: avoid;
+}
+h3 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10.4pt;
+  font-weight: 700;
+  color: #0f2a2c;
+  margin: 15px 0 5px;
+  break-after: avoid;
+}
+p { margin: 0 0 9px; }
+ul, ol { margin: 0 0 10px; padding-left: 20px; }
+li { margin-bottom: 4px; }
+
+/* ---------- Tables ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 9.3pt;
+  margin: 6px 0 14px;
+}
+th {
+  background: #14676b;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.3pt;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: left;
+  padding: 6px 8px;
+  font-weight: 700;
+}
+td { padding: 5px 8px; border-bottom: 1px solid #dde5e4; vertical-align: top; }
+tbody tr:nth-child(even) td { background: #f4f8f8; }
+tr { break-inside: avoid; }
+.num { text-align: center; white-space: nowrap; }
+
+/* exam-week and test rows */
+tr.exam td { background: #14676b !important; color: #fff; font-weight: 700; }
+tr.exam td em { color: #cfe6e6; }
+td.assess { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 8.6pt; }
+.tag {
+  display: inline-block;
+  background: #b8531a;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 7.4pt;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 1.5px 5px;
+  border-radius: 2px;
+}
+
+/* ---------- Callouts ---------- */
+.note {
+  background: #f4f8f8;
+  border-left: 3px solid #14676b;
+  padding: 9px 12px;
+  margin: 12px 0;
+  font-size: 9.7pt;
+  break-inside: avoid;
+}
+.note strong { color: #14676b; }
+
+/* ---------- Grade table ---------- */
+.grade-grid { display: flex; gap: 18px; align-items: flex-start; }
+.grade-grid > div { flex: 1; }
+
+/* ---------- Utility ---------- */
+.pagebreak { break-before: page; }
+.avoid { break-inside: avoid; }
+.small { font-size: 9pt; color: #55605f; }
+.footer-note {
+  margin-top: 22px;
+  padding-top: 8px;
+  border-top: 1px solid #cfdcdb;
+  font-size: 8.4pt;
+  color: #6a7574;
+  font-style: italic;
+}
+
+/* ================= ASSESSMENT STYLES ================= */
+.idline {
+  display: flex; gap: 20px; align-items: flex-end;
+  margin: 0 0 16px; font-size: 9.6pt;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.idline span { border-bottom: 1px solid #8b9998; padding-bottom: 2px; }
+.idline .nm { flex: 2.2; }
+.idline .dt { flex: 1; }
+.idline .sc { flex: 0.9; text-align: left; }
+
+.instr {
+  background: #f4f8f8; border-left: 3px solid #14676b;
+  padding: 7px 11px; margin: 0 0 15px; font-size: 9.4pt; font-style: italic;
+}
+
+.part {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 9.6pt; font-weight: 700; color: #fff; background: #14676b;
+  padding: 4px 9px; margin: 17px 0 10px; letter-spacing: 0.04em;
+  break-after: avoid;
+}
+.part:first-of-type { margin-top: 6px; }
+.part .pts { float: right; font-weight: 400; font-size: 8.8pt; color: #cfe6e6; }
+
+ol.q { list-style: none; counter-reset: qn; padding: 0; margin: 0; }
+ol.q > li {
+  counter-increment: qn; position: relative;
+  padding-left: 26px; margin-bottom: 11px; break-inside: avoid;
+}
+ol.q > li::before {
+  content: counter(qn) ".";
+  position: absolute; left: 0; top: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700; font-size: 9.6pt; color: #14676b;
+}
+ol.q > li > .stem { margin: 0 0 4px; }
+
+ul.ch { list-style: none; padding: 0; margin: 3px 0 0; }
+ul.ch li { margin: 0 0 2px; padding-left: 20px; position: relative; font-size: 10.2pt; }
+ul.ch li::before {
+  content: attr(data-l) ")"; position: absolute; left: 2px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 9.4pt; color: #55605f;
+}
+.tf { margin-top: 3px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 9.2pt; color: #55605f; }
+.lines { margin-top: 5px; }
+.lines div { border-bottom: 1px solid #c3cecd; height: 20px; }
+
+/* ---- Answer key ---- */
+.keyhead {
+  background: #7a2f10; color: #fff; padding: 7px 11px; margin: 0 0 14px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700; font-size: 11pt; letter-spacing: 0.05em;
+}
+.key { font-size: 9.9pt; }
+.key ol.q > li { margin-bottom: 8px; }
+.key ol.q > li::before { color: #7a2f10; }
+.ans { font-weight: 700; color: #7a2f10; }
+.why { color: #47504f; font-size: 9.2pt; font-style: italic; }
+.rubric { background: #faf5f2; border-left: 3px solid #7a2f10; padding: 6px 10px; margin: 4px 0 0; font-size: 9.2pt; }
+
+/* ---- matching ---- */
+table.matchtbl { margin: 4px 0 0; font-size: 10pt; }
+table.matchtbl td { border: none; padding: 2px 6px 2px 0; background: none !important; }
+td.mline { width: 34px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #8b9998; }
+td.ml { width: 47%; }
+td.mr { width: 47%; }
+
+.endmark {
+  margin-top: 26px; text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.4pt; letter-spacing: 0.2em; color: #9aa5a4;
+}
+.keyhead .kpts { float: right; font-weight: 400; font-size: 9pt; color: #e8cfc4; letter-spacing: 0; }
+
+</style></head>
+<body>
+
+<div class="masthead">
+  <p class="course">Physical Geography &middot; Week 26 &middot; Final Examination</p>
+  <h1>Final Exam</h1>
+  <p class="sub">Units 12&ndash;19 &middot; pages 164&ndash;293 &nbsp;&middot;&nbsp; 100 points &nbsp;&middot;&nbsp; 90 minutes &nbsp;&middot;&nbsp; Closed book</p>
+</div>
+
+<div class="idline">
+  <span class="nm">Name &nbsp;</span>
+  <span class="dt">Date &nbsp;</span>
+  <span class="sc">Score &nbsp; &nbsp; / 100</span>
+</div>
+
+<div class="instr">This exam covers the second half of the course only, with additional weight on Units 18 and 19. Circle one answer for multiple choice. Write on the lines provided; use the back of the page if you need more room. Budget roughly 40 minutes for Parts A and B, 25 minutes for Part C, and 25 minutes for Part D.</div>
+
+<p class="part">Part A &middot; Multiple Choice <span class="pts">25 questions &times; 2 points = 50 points</span></p>
+<ol class="q" style="counter-reset: qn 0;">
+  <li>
+    <p class="stem">In a warm climate, where chemical weathering dominates, soils tend to be</p>
+    <ul class="ch">
+      <li data-l="a">made almost entirely of organic matter</li>
+      <li data-l="b">too thin to support plants</li>
+      <li data-l="c">sandy and coarse-textured</li>
+      <li data-l="d">richer in clay</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Which parent material tends to generate especially fertile soil because it supplies phosphorus along with iron, magnesium, and calcium?</p>
+    <ul class="ch">
+      <li data-l="a">Loose windblown sand</li>
+      <li data-l="b">Granite</li>
+      <li data-l="c">Sandstone</li>
+      <li data-l="d">Basalt</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">The crust makes up what share of Earth by mass?</p>
+    <ul class="ch">
+      <li data-l="a">Less than 1%</li>
+      <li data-l="b">About 31%</li>
+      <li data-l="c">About 68%</li>
+      <li data-l="d">About 85%</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Which discovery finally supplied the mechanism for continental drift that Wegener had lacked?</p>
+    <ul class="ch">
+      <li data-l="a">Isostatic rebound</li>
+      <li data-l="b">The Coriolis effect</li>
+      <li data-l="c">Mantle plumes</li>
+      <li data-l="d">Seafloor spreading</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Volcanic island chains such as Japan, Indonesia, and the Aleutians form at</p>
+    <ul class="ch">
+      <li data-l="a">divergent boundaries</li>
+      <li data-l="b">transform boundaries</li>
+      <li data-l="c">ocean-to-ocean convergent boundaries, as island arcs</li>
+      <li data-l="d">continent-to-continent collision zones</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">A <em>thrust fault</em> is a type of</p>
+    <ul class="ch">
+      <li data-l="a">strike-slip fault</li>
+      <li data-l="b">joint</li>
+      <li data-l="c">normal fault</li>
+      <li data-l="d">reverse fault in which the fault plane is nearly horizontal</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">The 2011 T&#333;hoku earthquake off northeastern Japan had a magnitude of about</p>
+    <ul class="ch">
+      <li data-l="a">7.0</li>
+      <li data-l="b">8.0</li>
+      <li data-l="c">9.0</li>
+      <li data-l="d">10.0</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Which of the following can induce earthquakes through human activity?</p>
+    <ul class="ch">
+      <li data-l="a">Building a water reservoir on an active fault, where the water lubricates the fault and its weight stresses the bedrock</li>
+      <li data-l="b">Drilling a water well in a desert basin</li>
+      <li data-l="c">Constructing buildings to earthquake-safe codes</li>
+      <li data-l="d">Planting vegetation on a steep slope</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Mantle plumes are thought to rise at approximately what rate compared with ordinary mantle convection?</p>
+    <ul class="ch">
+      <li data-l="a">About 10 times slower</li>
+      <li data-l="b">At the same rate</li>
+      <li data-l="c">About 10 times faster</li>
+      <li data-l="d">About 100 times faster</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Pillow basalts form when</p>
+    <ul class="ch">
+      <li data-l="a">hot lava oozes into cold seawater and chills quickly on the outside</li>
+      <li data-l="b">ash falls back onto a volcano&rsquo;s flanks</li>
+      <li data-l="c">thick felsic lava piles up around a vent</li>
+      <li data-l="d">lava cools slowly enough to form columnar joints</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">What is the most abundant volatile dissolved in magma?</p>
+    <ul class="ch">
+      <li data-l="a">Carbon dioxide</li>
+      <li data-l="b">Sulphur dioxide</li>
+      <li data-l="c">Water</li>
+      <li data-l="d">Nitrogen</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">As a wave approaches the shore, its amplitude increases and its wavelength decreases because</p>
+    <ul class="ch">
+      <li data-l="a">salinity increases in shallow water</li>
+      <li data-l="b">the tide is rising at the same time</li>
+      <li data-l="c">the wind always strengthens near land</li>
+      <li data-l="d">the wave&rsquo;s orbits are flattened and slowed by dragging on the bottom</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem"><em>Isostatic</em> sea-level change refers to</p>
+    <ul class="ch">
+      <li data-l="a">local change caused by uplift or subsidence of the crust</li>
+      <li data-l="b">daily change caused by the Moon&rsquo;s gravity</li>
+      <li data-l="c">seasonal change caused by beach erosion</li>
+      <li data-l="d">global change driven by the volume of glacial ice</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Carbonate reefs form in tropical regions where</p>
+    <ul class="ch">
+      <li data-l="a">tidal ranges are extremely large</li>
+      <li data-l="b">rivers deliver large volumes of sand and mud</li>
+      <li data-l="c">there is little or no input of clastic sediment from streams</li>
+      <li data-l="d">the water is deeper than 1,000 meters</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Trellis drainage patterns typically develop where</p>
+    <ul class="ch">
+      <li data-l="a">streams radiate outward from a central high point</li>
+      <li data-l="b">there is no coherent pattern to the rivers at all</li>
+      <li data-l="c">the underlying rock has no particular fabric or structure</li>
+      <li data-l="d">sedimentary rocks have been folded or tilted and then eroded to varying degrees</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Compared with laminar flow, turbulent flow in a stream is</p>
+    <ul class="ch">
+      <li data-l="a">more effective at keeping sediment in suspension</li>
+      <li data-l="b">less able to erode the stream bed</li>
+      <li data-l="c">found only in very slow streams</li>
+      <li data-l="d">associated with clear water</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">A stream&rsquo;s <em>dissolved load</em> represents on average about what share of the mass of material it transports?</p>
+    <ul class="ch">
+      <li data-l="a">About 5%</li>
+      <li data-l="b">About 15%</li>
+      <li data-l="c">About 50%</li>
+      <li data-l="d">About 85%</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Sand generally begins to move when the wind reaches a velocity of about</p>
+    <ul class="ch">
+      <li data-l="a">1.5 m/sec</li>
+      <li data-l="b">4.5 m/sec</li>
+      <li data-l="c">15 m/sec</li>
+      <li data-l="d">45 m/sec</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Longitudinal dunes differ from transverse dunes in that longitudinal dunes</p>
+    <ul class="ch">
+      <li data-l="a">do not migrate at all, but lengthen over time</li>
+      <li data-l="b">have horns that point upwind</li>
+      <li data-l="c">form only on coastlines</li>
+      <li data-l="d">migrate downwind much more rapidly</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Star dunes form where</p>
+    <ul class="ch">
+      <li data-l="a">the wind blows steadily from a single direction</li>
+      <li data-l="b">wind comes from several different directions, and they grow vertically rather than laterally</li>
+      <li data-l="c">vegetation anchors the flanks of the dune</li>
+      <li data-l="d">sand is extremely scarce</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">A series of alluvial fans that coalesce along the base of a mountain front forms a</p>
+    <ul class="ch">
+      <li data-l="a">playa</li>
+      <li data-l="b">bajada</li>
+      <li data-l="c">erg</li>
+      <li data-l="d">yardang</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Continental glaciers flow</p>
+    <ul class="ch">
+      <li data-l="a">downhill, following the slope of the land beneath them</li>
+      <li data-l="b">outward from where the ice is thickest toward the thinner edges</li>
+      <li data-l="c">only during the summer melt season</li>
+      <li data-l="d">in whatever direction the prevailing wind pushes them</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">Antarctica and Greenland together contain approximately what share of all the world&rsquo;s glacial ice?</p>
+    <ul class="ch">
+      <li data-l="a">About 50%</li>
+      <li data-l="b">About 75%</li>
+      <li data-l="c">About 99%</li>
+      <li data-l="d">100%</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem">If the entire Antarctic Ice Sheet were to melt, sea level would rise by about</p>
+    <ul class="ch">
+      <li data-l="a">8 meters</li>
+      <li data-l="b">80 meters</li>
+      <li data-l="c">800 meters</li>
+      <li data-l="d">2 meters</li>
+    </ul>
+  </li>
+  <li>
+    <p class="stem"><em>Basal sliding</em> occurs when</p>
+    <ul class="ch">
+      <li data-l="a">the base of the glacier is warm enough that a film of water forms between the ice and the material beneath</li>
+      <li data-l="b">the glacier is frozen solidly to the bedrock beneath it</li>
+      <li data-l="c">crevasses open all the way to the glacier&rsquo;s bed</li>
+      <li data-l="d">the glacier is retreating rather than advancing</li>
+    </ul>
+  </li>
+</ol>
+
+<p class="part">Part B &middot; Matching <span class="pts">2 questions &times; 8 points = 16 points</span></p>
+<ol class="q" style="counter-reset: qn 25;">
+  <li>
+    <p class="stem"><strong>Set 1 &mdash; Units 12 through 15.</strong> Write the letter of the correct definition next to each term.</p>
+    <table class="matchtbl"><tbody>
+      <tr><td class="mline">____</td><td class="ml">1. Hydrolysis</td><td class="mr">a) The downslope movement of soil, regolith, and rock under gravity</td></tr>
+      <tr><td class="mline">____</td><td class="ml">2. Mass wasting</td><td class="mr">b) Rock fragments ejected during an explosive eruption</td></tr>
+      <tr><td class="mline">____</td><td class="ml">3. Lithosphere</td><td class="mr">c) A chemical reaction between water and another compound</td></tr>
+      <tr><td class="mline">____</td><td class="ml">4. Apparent polar wander</td><td class="mr">d) Deformation in which rock returns to its original shape once stress is removed</td></tr>
+      <tr><td class="mline">____</td><td class="ml">5. Joint</td><td class="mr">e) Melting caused when water lowers the melting temperature of mantle rock</td></tr>
+      <tr><td class="mline">____</td><td class="ml">6. Elastic deformation</td><td class="mr">f) The brittle, rigid outer layer that makes up the tectonic plates</td></tr>
+      <tr><td class="mline">____</td><td class="ml">7. Flux melting</td><td class="mr">g) A fracture in rock along which there has been no movement</td></tr>
+      <tr><td class="mline">____</td><td class="ml">8. Tephra</td><td class="mr">h) The illusion that the magnetic pole moved, produced by drifting continents</td></tr>
+    </tbody></table>
+  </li>
+  <li>
+    <p class="stem"><strong>Set 2 &mdash; Units 16 through 19.</strong> Write the letter of the correct definition next to each term.</p>
+    <table class="matchtbl"><tbody>
+      <tr><td class="mline">____</td><td class="ml">1. Wave base</td><td class="mr">a) A sand sea &mdash; a broad desert area covered by wind-blown sand</td></tr>
+      <tr><td class="mline">____</td><td class="ml">2. Baymouth bar</td><td class="mr">b) Compacted granular snow partway to becoming glacial ice</td></tr>
+      <tr><td class="mline">____</td><td class="ml">3. Point bar</td><td class="mr">c) The depth of one-half wavelength to which a wave disturbs the water</td></tr>
+      <tr><td class="mline">____</td><td class="ml">4. Porosity</td><td class="mr">d) A sinuous ridge left by sediment from a stream inside a glacier</td></tr>
+      <tr><td class="mline">____</td><td class="ml">5. Ventifact</td><td class="mr">e) A smooth, faceted rock polished by wind abrasion</td></tr>
+      <tr><td class="mline">____</td><td class="ml">6. Erg</td><td class="mr">f) A spit that extends across a bay and nearly closes it off</td></tr>
+      <tr><td class="mline">____</td><td class="ml">7. Firn</td><td class="mr">g) The pore space between grains in a rock</td></tr>
+      <tr><td class="mline">____</td><td class="ml">8. Esker</td><td class="mr">h) A crescent-shaped deposit on the inside of a stream bend</td></tr>
+    </tbody></table>
+  </li>
+</ol>
+
+<p class="part">Part C &middot; Short Answer <span class="pts">6 questions &times; 3 points = 18 points</span></p>
+<ol class="q" style="counter-reset: qn 27;">
+  <li>
+    <p class="stem">Explain why weathering must happen before soil can form, and name two conditions that prevent soil from developing.</p>
+    <div class="lines"><div></div><div></div><div></div><div></div></div>
+  </li>
+  <li>
+    <p class="stem">Explain what seismic waves have revealed about the structure of Earth&rsquo;s interior.</p>
+    <div class="lines"><div></div><div></div><div></div><div></div></div>
+  </li>
+  <li>
+    <p class="stem">Explain why the largest earthquakes on Earth occur at subduction zones.</p>
+    <div class="lines"><div></div><div></div><div></div><div></div></div>
+  </li>
+  <li>
+    <p class="stem">Explain the difference between an erosion-dominated coast and a deposition-dominated coast, and identify what determines which type a coast will be.</p>
+    <div class="lines"><div></div><div></div><div></div><div></div></div>
+  </li>
+  <li>
+    <p class="stem">Explain how a sand dune migrates, using the terms <em>stoss</em>, <em>slip face</em>, and <em>angle of repose</em>.</p>
+    <div class="lines"><div></div><div></div><div></div><div></div></div>
+  </li>
+  <li>
+    <p class="stem">Contrast the landscapes produced by continental glaciation with those produced by alpine glaciation.</p>
+    <div class="lines"><div></div><div></div><div></div><div></div></div>
+  </li>
+</ol>
+
+<p class="part">Part D &middot; Extended Response <span class="pts">2 questions &times; 8 points = 16 points</span></p>
+<ol class="q" style="counter-reset: qn 33;">
+  <li>
+    <p class="stem">Water, wind, and ice all erode, transport, and deposit material. Compare all three. For each agent, explain what allows it to move material and what limits it, and name at least two landforms it creates. Then argue which agent you think shapes the greatest share of Earth&rsquo;s land surface, and support your choice.</p>
+    <div class="lines"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+  </li>
+  <li>
+    <p class="stem">Plate tectonics has been called the unifying theory of geology. Using material from this half of the course, explain how plate tectonics accounts for where earthquakes occur, where volcanoes occur, and where mountain ranges form &mdash; and how it also helps explain the shape of coastlines. Support your answer with at least three specific real-world examples.</p>
+    <div class="lines"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+  </li>
+</ol>
+
+<div class="endmark">&mdash; END &mdash;</div>
+
+</body></html>

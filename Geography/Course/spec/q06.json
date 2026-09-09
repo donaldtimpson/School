@@ -1,0 +1,118 @@
+{
+ "id": "q06",
+ "eyebrow": "Physical Geography &middot; Week 6 &middot; Quiz 6",
+ "title": "Unit 6a: Earth&rsquo;s Atmosphere &mdash; Significance, Gases &amp; Layers",
+ "sub": "Reading: pages 76&ndash;82 &nbsp;&middot;&nbsp; 20 points &nbsp;&middot;&nbsp; 15 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Quiz 6 &middot; Unit 6a (pages 76&ndash;82)",
+ "instructions": "Answer every question. For multiple choice, circle the single best answer. Write short answers in complete sentences.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "Nitrogen and oxygen together make up about what share of Earth&rsquo;s atmosphere?",
+     "choices": [
+      "78%",
+      "88%",
+      "99%",
+      "100%"
+     ],
+     "answer": 2,
+     "why": "p. 77 &mdash; nitrogen alone is about 78% and oxygen about 21%. Everything else, argon and carbon dioxide included, fits in the remaining 1%."
+    },
+    {
+     "stem": "Why does air density decrease as altitude increases?",
+     "choices": [
+      "The Sun heats the upper atmosphere and drives molecules away",
+      "Ozone displaces the other gases at high altitude",
+      "The Coriolis effect throws molecules outward",
+      "Gravity pulls gas molecules toward Earth&rsquo;s center, and gases near sea level are compressed by the weight of the air above them"
+     ],
+     "answer": 3,
+     "why": "p. 78 &mdash; this is also why the force of air weighing down on a unit of area, the atmospheric pressure, is greatest at sea level."
+    },
+    {
+     "stem": "All of the planet&rsquo;s weather takes place in the",
+     "choices": [
+      "troposphere",
+      "stratosphere",
+      "mesosphere",
+      "thermosphere"
+     ],
+     "answer": 0,
+     "why": "p. 80 &mdash; because warm air sits <em>beneath</em> cooler air there, the layer is unstable and mixes constantly. That rising and sinking is weather."
+    },
+    {
+     "stem": "In which layer does temperature <em>increase</em> with altitude, making the layer stable with very little mixing?",
+     "choices": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+     ],
+     "answer": 1,
+     "why": "p. 81 &mdash; warmer, less dense air sits over cooler, denser air, so nothing overturns. This is why pilots like the lower stratosphere and why volcanic ash can stay suspended there for years."
+    },
+    {
+     "stem": "The ozone layer sits within the stratosphere at an altitude of roughly",
+     "choices": [
+      "5 to 10 km",
+      "15 to 30 km",
+      "50 to 80 km",
+      "100 to 200 km"
+     ],
+     "answer": 1,
+     "why": "p. 81 &mdash; about 9 to 19 miles. Its thickness varies with both season and latitude."
+    },
+    {
+     "stem": "On average, temperature in the troposphere changes with altitude at a rate of about",
+     "choices": [
+      "6.5&deg;C cooler per 1,000 m",
+      "6.5&deg;C cooler per 100 m",
+      "1&deg;C cooler per 1,000 m",
+      "20&deg;C cooler per 1,000 m"
+     ],
+     "answer": 0,
+     "why": "p. 80 &mdash; equivalent to 3.6&deg;F per 1,000 feet. A change in temperature with distance is called a temperature gradient."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; True or False",
+   "type": "tf",
+   "ptsEach": 1,
+   "questions": [
+    {
+     "stem": "During a temperature inversion, warm air sits above cold air, and the air is very stable.",
+     "answer": true,
+     "why": "p. 80 &mdash; inversions can last for days or weeks. They form overland at night or in winter when cold ground chills the air above it, and near coasts where cold seawater does the same."
+    },
+    {
+     "stem": "The composition of the atmosphere changes dramatically as altitude increases.",
+     "answer": false,
+     "why": "Density changes greatly with altitude, but composition stays essentially the same. The one exception is the ozone layer, where ozone molecules are far more concentrated. (p. 79)"
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "A traveler passing unprotected through the mesosphere would face severe sunburn, almost no breathable oxygen, and blood that boils at normal body temperature. Explain what causes each of these three problems.",
+     "answer": "No UV protection (the ozone layer is in the stratosphere below), extremely low density of gas molecules, and extremely low air pressure.",
+     "rubric": "1 pt each. <strong>Sunburn</strong> &mdash; the ozone layer that blocks UV is in the stratosphere <em>below</em> the mesosphere, so there is nothing overhead to filter ultraviolet light. <strong>No oxygen</strong> &mdash; 99.9% of the atmosphere&rsquo;s mass lies below the mesosphere, so there is almost nothing left to breathe. <strong>Boiling blood</strong> &mdash; air pressure is so low that liquids boil at normal body temperature. (p. 82)"
+    },
+    {
+     "stem": "What causes the aurora?",
+     "answer": "Charged particles, trapped by Earth&rsquo;s magnetic field, spiral toward the poles and energize oxygen and nitrogen molecules, making them light up.",
+     "rubric": "1 pt &mdash; particles originate in solar flares and travel to Earth on the solar wind, becoming trapped in the Van Allen radiation belts. 1 pt &mdash; when a massive solar storm overloads the belts, particles spiral along magnetic field lines toward the poles. 1 pt &mdash; the charged particles energize oxygen and nitrogen gas molecules, causing them to emit light, with each gas producing a particular color. (p. 82)"
+    }
+   ]
+  }
+ ]
+}

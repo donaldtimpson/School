@@ -1,0 +1,231 @@
+{
+ "id": "t3",
+ "eyebrow": "Physical Geography &middot; Week 19 &middot; Unit Test 3",
+ "title": "Test 3: Earth&rsquo;s Dynamic Surface",
+ "sub": "Units 12&ndash;14 &middot; pages 164&ndash;211 &nbsp;&middot;&nbsp; 50 points &nbsp;&middot;&nbsp; 50 minutes &nbsp;&middot;&nbsp; Closed book",
+ "keyhead": "Test 3 &middot; Units 12&ndash;14 (pages 164&ndash;211)",
+ "instructions": "Read each question carefully. Circle one answer for multiple choice. Write on the lines provided; use the back of the page if you need more room. Point values are shown for each section.",
+ "parts": [
+  {
+   "name": "Part A &middot; Multiple Choice",
+   "type": "mc",
+   "ptsEach": 2,
+   "questions": [
+    {
+     "stem": "Exfoliation results from",
+     "choices": [
+      "the freezing of water inside cracks",
+      "the growth of plant roots",
+      "an increase in confining pressure as rock is buried",
+      "a decrease in confining pressure as overlying rock is removed, allowing the rock to expand and crack"
+     ],
+     "answer": 3,
+     "why": "pp. 165&ndash;166 &mdash; granitic rock exfoliates parallel to the exposed surface because it is homogeneous, while sedimentary and metamorphic rocks exfoliate along predetermined planes."
+    },
+    {
+     "stem": "Which mineral is virtually unaffected by chemical weathering?",
+     "choices": [
+      "Quartz",
+      "Olivine",
+      "Feldspar",
+      "Calcite"
+     ],
+     "answer": 0,
+     "why": "p. 169 &mdash; feldspar hydrolyzes to clay, calcite dissolves in acid, and olivine converts to serpentine or oxidizes. Quartz survives, which is why it dominates sand."
+    },
+    {
+     "stem": "Caliche, a concrete-like soil layer found in hot arid regions such as the Mojave Desert, forms from",
+     "choices": [
+      "the leaching of clay and iron out of the upper horizons",
+      "frost wedging of the underlying bedrock",
+      "the accumulation of decayed organic matter",
+      "the movement of calcium ions and precipitation of calcite within the soil"
+     ],
+     "answer": 3,
+     "why": "p. 177 &mdash; when well developed it cements surrounding material into a layer with the consistency of concrete."
+    },
+    {
+     "stem": "Mass wasting occurs when",
+     "choices": [
+      "the gravitational force acting on a slope exceeds its resisting force",
+      "a slope is exactly at its angle of repose",
+      "chemical weathering outpaces mechanical weathering",
+      "the water table drops below the bedrock"
+     ],
+     "answer": 0,
+     "why": "p. 167 &mdash; a slope&rsquo;s resistance comes from its shear strength: the material&rsquo;s strength, cohesion, and internal friction. At the angle of repose those forces exactly balance gravity."
+    },
+    {
+     "stem": "P-waves slow at the mantle&ndash;core boundary and S-waves stop there entirely. Together these observations show that the outer core is",
+     "choices": [
+      "liquid",
+      "made of ordinary rock",
+      "cooler than the mantle",
+      "solid and highly rigid"
+     ],
+     "answer": 0,
+     "why": "p. 181 &mdash; only solids resist a change in shape, so S-waves cannot propagate through liquid. Their disappearance is the decisive evidence."
+    },
+    {
+     "stem": "The asthenosphere is best described as",
+     "choices": [
+      "the outermost layer of the crust",
+      "brittle and rigid",
+      "partially molten material that behaves plastically and can flow",
+      "entirely liquid metal"
+     ],
+     "answer": 2,
+     "why": "p. 182 &mdash; the lithosphere above it is the brittle, rigid layer, about 100 km thick, that breaks to produce earthquakes."
+    },
+    {
+     "stem": "The puzzle of &ldquo;apparent polar wander&rdquo; was ultimately explained by concluding that",
+     "choices": [
+      "the magnetite crystals in the rocks were unreliable",
+      "Earth&rsquo;s magnetic field switched off periodically",
+      "there were once two separate north magnetic poles",
+      "the magnetic north pole stayed fixed while the continents moved"
+     ],
+     "answer": 3,
+     "why": "p. 189 &mdash; since there is only one north pole today, fitting the continents back together as Wegener had done resolved the contradiction, and it worked."
+    },
+    {
+     "stem": "The Ring of Fire around the Pacific Ocean is dominated by",
+     "choices": [
+      "divergent boundaries",
+      "hotspots",
+      "subduction zones",
+      "continent-to-continent collisions"
+     ],
+     "answer": 2,
+     "why": "p. 195 &mdash; most are ocean-to-ocean convergence. This is also where about 80% of all earthquakes and most of the world&rsquo;s volcanoes occur."
+    },
+    {
+     "stem": "Which of the following is an example of <em>intraplate</em> activity?",
+     "choices": [
+      "The San Andreas Fault",
+      "The Mid-Atlantic Ridge",
+      "The Yellowstone hotspot",
+      "The Himalayan mountains"
+     ],
+     "answer": 2,
+     "why": "p. 197 &mdash; hotspot magmas rarely penetrate thick continental crust, and Yellowstone is the exception the text names. The 1812 New Madrid earthquake in Missouri is another intraplate example."
+    },
+    {
+     "stem": "Tension is the major type of stress found at which kind of plate boundary?",
+     "choices": [
+      "Convergent",
+      "Divergent",
+      "Transform",
+      "Intraplate"
+     ],
+     "answer": 1,
+     "why": "p. 200 &mdash; rocks under tension lengthen or break apart. Compression dominates at convergent boundaries and shear at transform boundaries."
+    },
+    {
+     "stem": "A fracture in rock along which there has been <em>no</em> movement is called",
+     "choices": [
+      "a fault",
+      "a joint",
+      "a fold",
+      "a slip"
+     ],
+     "answer": 1,
+     "why": "p. 202 &mdash; once the blocks on one or both sides move, the fracture becomes a fault, and sudden motion along it releases stored energy as an earthquake."
+    },
+    {
+     "stem": "When tensional stress breaks crust into blocks that slide up and drop down along normal faults, producing alternating mountains and valleys, the result is called",
+     "choices": [
+      "a continental arc",
+      "a basin-and-range",
+      "an anticline",
+      "an island arc"
+     ],
+     "answer": 1,
+     "why": "p. 203 &mdash; the Basin and Range across Nevada and the Wasatch Front in Utah are the classic North American examples."
+    }
+   ]
+  },
+  {
+   "name": "Part B &middot; Matching",
+   "type": "match",
+   "ptsEach": 8,
+   "questions": [
+    {
+     "stem": "Write the letter of the correct definition next to each term.",
+     "left": [
+      "Exfoliation",
+      "Angle of repose",
+      "Asthenosphere",
+      "Pangaea",
+      "Subduction",
+      "Elastic rebound theory",
+      "Focus",
+      "Liquefaction"
+     ],
+     "right": [
+      "The supercontinent Wegener proposed once joined all the continents",
+      "The steepest angle a cohesionless slope can hold without failing",
+      "The initial point within the crust where rocks rupture in an earthquake",
+      "Cracking of rock as confining pressure decreases and the rock expands",
+      "Water-saturated sediment behaving like quicksand during shaking",
+      "The partially molten mantle layer that flows plastically",
+      "The sudden release of energy stored in deformed rock",
+      "A denser plate plunging beneath another and down into the mantle"
+     ],
+     "answer": [
+      3,
+      1,
+      5,
+      0,
+      7,
+      6,
+      2,
+      4
+     ],
+     "why": "1 point each. Exfoliation p. 166 &middot; Angle of repose p. 167 &middot; Asthenosphere p. 182 &middot; Pangaea p. 185 &middot; Subduction p. 194 &middot; Elastic rebound theory p. 203 &middot; Focus p. 203 &middot; Liquefaction p. 209."
+    }
+   ]
+  },
+  {
+   "name": "Part C &middot; Short Answer",
+   "type": "sa",
+   "ptsEach": 3,
+   "lines": 4,
+   "questions": [
+    {
+     "stem": "Explain why rocks that formed deep within the crust are so vulnerable to weathering once they reach the surface.",
+     "answer": "They formed under conditions utterly unlike the surface &mdash; constant temperature, high pressure, no atmosphere, little moving water. At the surface temperatures swing widely, pressure drops, oxygen and carbon dioxide are plentiful, and water is abundant, so their minerals are no longer stable.",
+     "rubric": "1.5 pts for the conditions at depth &mdash; relatively constant temperature, high pressure, no contact with the atmosphere, little or no moving water. 1.5 pts for the contrast at the surface &mdash; widely varying temperatures, much lower pressure, abundant oxygen and other gases, and abundant water in most climates. Full credit for the key insight: minerals stable in one environment become unstable in the other. (p. 165)"
+    },
+    {
+     "stem": "Name the three types of plate boundaries. For each, give the dominant type of stress and one real-world example.",
+     "answer": "Divergent (tension) &mdash; the Mid-Atlantic Ridge or the Great Rift Valley. Convergent (compression) &mdash; the Himalayas or the Cascades. Transform (shear) &mdash; the San Andreas Fault.",
+     "rubric": "1 pt each boundary, requiring the correct stress and a valid example. <strong>Divergent</strong> &mdash; plates move apart; tension; mid-ocean ridges, the Great Rift Valley, the Red Sea, the Atlantic. <strong>Convergent</strong> &mdash; plates move together; compression; the Cascades and Juan de Fuca subduction, the Himalayas, the Alps, the Appalachians. <strong>Transform</strong> &mdash; plates slide past each other; shear; the San Andreas Fault, the North Anatolian Fault in Turkey. (pp. 192&ndash;196, 200)"
+    },
+    {
+     "stem": "Describe how convection in the mantle drives the motion of tectonic plates.",
+     "answer": "Mantle material heated by the core becomes less dense and rises at a mid-ocean ridge, creating new crust. It spreads horizontally, cools, and sinks back at deep-sea trenches, dragging oceanic crust with it and completing the convection cell.",
+     "rubric": "1 pt &mdash; heat from the core makes the bottom layer of mantle material less dense, so it rises. 1 pt &mdash; hot mantle from two adjacent cells rises at the ridge axis to create new ocean crust, and the top limb of each cell moves horizontally away from the crest, carrying the new seafloor with it. 1 pt &mdash; the outer limbs cool, become dense enough to plunge back into the deeper mantle at the deep-sea trenches, dragging oceanic crust down, then travel horizontally along the base, reheat, and rise again. Credit the conveyor-belt image and the note that ridge-push and slab-pull are now considered the main drivers. (pp. 184, 190, 192)"
+    },
+    {
+     "stem": "Explain why shallow earthquakes cause more damage than deep ones, and why scientists and the media report the epicenter rather than the focus.",
+     "answer": "Shallow earthquakes do more damage because the focus is close to where people live and build. The epicenter is reported because it is a point on the land surface that can actually be located on a map.",
+     "rubric": "1.5 pts &mdash; in about 75% of earthquakes the focus lies in the top 10 to 15 km of crust; the shallower the focus, the closer the released energy is to the surface where people live, so shaking is more intense there. 1.5 pts &mdash; the focus is a point <em>inside</em> the crust, while the epicenter is the point on the land surface directly above it, which is what can be mapped and communicated. Credit the observation that epicenter locations are what allowed scientists to trace plate boundaries. (pp. 191, 203)"
+    }
+   ]
+  },
+  {
+   "name": "Part D &middot; Extended Response",
+   "type": "essay",
+   "ptsEach": 6,
+   "lines": 12,
+   "questions": [
+    {
+     "stem": "A geologist studying a mountain range records four observations: the sedimentary layers are intensely folded, there are numerous thrust faults, large earthquakes are frequent, and there are no active volcanoes anywhere in the range. Identify the type of plate boundary that produced this range, explain each of the four observations, and name a real mountain range that fits.",
+     "answer": "A continent-to-continent convergent boundary. See rubric.",
+     "rubric": "<strong>1 pt &mdash; identification.</strong> A continent-to-continent convergent boundary.<br><br><strong>1 pt &mdash; folding.</strong> Compression is the dominant stress at convergent boundaries. Deep in the crust, where temperature and pressure are high and the stress is applied slowly over millions of years, rocks deform plastically rather than breaking, crumpling into folds &mdash; anticlines and synclines.<br><br><strong>1 pt &mdash; thrust faults.</strong> Where the same compression exceeds the rock&rsquo;s strength it fractures. Compression produces reverse faults, and thrust faults are reverse faults whose fault plane is nearly horizontal, allowing rock to slide many miles and the crust to stack and rise.<br><br><strong>1.5 pts &mdash; large earthquakes.</strong> Massive earthquakes are the hallmark of thrust faulting and folding where two continental plates converge. Stress builds in the rock until it ruptures and releases the stored energy &mdash; elastic rebound. The text&rsquo;s examples are the 2001 Gujarat earthquake in India (about 20,000 deaths), the 2005 Kashmir earthquake (over 80,000 deaths), and the 2008 China earthquake (nearly 85,000 deaths).<br><br><strong>1.5 pts &mdash; no volcanoes, plus a named range.</strong> This is the key diagnostic. Neither continental plate is dense enough to subduct, so no oceanic crust descends into the mantle, no water is driven out of subducting minerals, and no flux melting occurs. Without magma there are no volcanoes &mdash; only folding and faulting. Accept the Himalayas (India colliding with Asia), the Alps, or the Appalachians (formed when North America collided with Africa about 250 Ma as Pangaea assembled).<br><br>Deduct if the student identifies an ocean-to-continent boundary, which would produce a continental volcanic arc such as the Cascades and therefore contradicts the fourth observation. (pp. 194&ndash;196, 200&ndash;203, 213)"
+    }
+   ]
+  }
+ ]
+}
